@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/VrtxOmega/the-infinite-chronicle/issues"
   },
-  "homepage": "https://github.com/VrtxOmega/the-infinite-chronicle#readme"
+  "homepage": "https://github.com/VrtxOmega/the-infinite-chronicle#readme",
+  "dependencies": {
+    "is-even": "^1.0.0"
+  }
 }
