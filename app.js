@@ -432,11 +432,11 @@
   /* ===== SEARCH MODAL ===== */
   const btnSearch = document.getElementById('btn-search');
   const searchModal = document.getElementById('search-modal');
-  const closeSearch = document.getElementById('close-search');
+  const closeSearch = document.getElementById('btn-close-search');
   const searchInput = document.getElementById('search-input');
   const searchResults = document.getElementById('search-results');
 
-  if (btnSearch && searchModal) {
+  if (btnSearch && searchModal && closeSearch) {
     btnSearch.addEventListener('click', () => {
       searchModal.classList.add('visible');
       if (searchInput) searchInput.focus();
