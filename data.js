@@ -898,5 +898,905 @@ const CHRONICLE_DATA = [
     "body": "The most powerful telescope ever built was launched to observe the first galaxies.",
     "connection": "Opening a new eye on the universe.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png"
+  },
+  {
+    "era": "ancient",
+    "year": -509,
+    "domain": "weird",
+    "title": "Lucretia gens",
+    "body": "The gens Lucretia was a prominent family of the Roman Republic.  Originally patrician, the gens later included a number of plebeian families. The first of the Lucretii to obtain the consulship was Spurius Lucretius Tricipitinus in 509 BC, the firs...",
+    "connection": "A notable fragment of the Ancient Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/N03Brutus-u-Lucretia.jpg"
+  },
+  {
+    "era": "ancient",
+    "year": -354,
+    "domain": "weird",
+    "title": "Memorabilia (Xenophon)",
+    "body": "Memorabilia (original title in Ancient Greek: Ἀπομνημονεύματα, romanized: Apomnēmoneúmata) is a collection of Socratic dialogues by Xenophon (ca. 430 - 354 BC), a student of Socrates ...",
+    "connection": "A notable fragment of the Ancient Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/G%C3%BCthling_Xenophon_Erinnerungen_001.jpg"
+  },
+  {
+    "era": "classical",
+    "year": 1145,
+    "domain": "weird",
+    "title": "Markyate Priory",
+    "body": "Markyate Priory was a Benedictine nunnery in Markyate, Bedfordshire, England. It was established in 1145 and disestablished in 1537.",
+    "connection": "A notable fragment of the Classical Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Common_seal_of_the_Priory_of_Markyate.jpg"
+  },
+  {
+    "era": "classical",
+    "year": 1350,
+    "domain": "weird",
+    "title": "Manuel Chrysoloras",
+    "body": "Manuel (or Emmanuel) Chrysoloras (Greek: Μανουὴλ Χρυσολωρᾶς; c. 1350 – 15 April 1415) was a Byzantine Greek classical scholar, humanist, philosopher, professor, and translator of ancient Greek texts during the Renaissance. Serving as the ambassado...",
+    "connection": "A notable fragment of the Classical Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Manuel-chrysoloras-paolo-uccello-louvre-15th.jpg"
+  },
+  {
+    "era": "enlightenment",
+    "year": 1611,
+    "domain": "art",
+    "title": "William Romney",
+    "body": "Sir William Romney (died 25 April 1611) was an English merchant. He was governor of the East India Company and took part in other ventures to develop English interests in overseas trade.",
+    "connection": "A notable fragment of the Enlightenment Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "enlightenment",
+    "year": 1683,
+    "domain": "art",
+    "title": "Anna Maria Thelott",
+    "body": "Anna Maria Thelott (1683–1710) was a Swedish artist. She was an engraver, an illustrator, a woodcut-artist, and a miniaturist painter.",
+    "connection": "A notable fragment of the Enlightenment Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Anna_Maria_Thelott.jpg"
+  },
+  {
+    "era": "enlightenment",
+    "year": 1705,
+    "domain": "weird",
+    "title": "Cockcroft v Smith",
+    "body": "Cockcroft v Smith (1705) 11 Mod 43 is an English tort law case. It concerned the definition of legitimate self defence.",
+    "connection": "A notable fragment of the Enlightenment Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "enlightenment",
+    "year": 1746,
+    "domain": "weird",
+    "title": "Benjamin Rush (disambiguation)",
+    "body": "Benjamin Rush (1746–1813) was an American revolutionary and a Founding Father of the United States. Benjamin Rush may also refer to  Benjamin Rush (lawyer) (1811–1877), American lawyer and writer Benjamin Rush, a character in 13 Ghosts USRC Benjam...",
+    "connection": "A notable fragment of the Enlightenment Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "industrial",
+    "year": 1797,
+    "domain": "weird",
+    "title": "Baltazar Mathias Keilhau",
+    "body": "Balthazar Mathias Keilhau (2 November 1797 – 1 January 1858) was a Norwegian geologist and mountain pioneer. He is regarded as the founder of the discipline of geology in Norway, and has also been credited for the discovery of the Jotunheimen moun...",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Baltazar_Mathias_Keilhau.jpg"
+  },
+  {
+    "era": "industrial",
+    "year": 1799,
+    "domain": "weird",
+    "title": "Alexis de Chateauneuf",
+    "body": "Alexis de Chateauneuf (1799–1853) was a German architect and city planner from Hamburg.",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Robert_Schneider-Otto_Speckter_-_Alexis_de_Chateauneuf.jpg"
+  },
+  {
+    "era": "industrial",
+    "year": 1821,
+    "domain": "science",
+    "title": "Tulosesus impatiens",
+    "body": "Tulosesus impatiens (formerly Coprinellus impatiens) is a species of fungus in the family Psathyrellaceae. First described in 1821, it has been classified variously in the genera Psathyrella, Pseudocoprinus, Coprinarius, and Coprinus, before molec...",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Tulosesus_impatiens.jpg"
+  },
+  {
+    "era": "industrial",
+    "year": 1823,
+    "domain": "science",
+    "title": "Saint Petersburg Botanical Garden",
+    "body": "The main Saint Petersburg Botanical Garden, officially known as the Russian Academy of Sciences Vladimir Komarov Botanical Institute's Botanical Garden of Peter the Great (Russian: Ботанический сад Петра Великого Ботанического института им. В. Л. ...",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Spb_Aptekarsky_Island_Botanical_Garden_asv2019-09_img1.jpg"
+  },
+  {
+    "era": "industrial",
+    "year": 1845,
+    "domain": "art",
+    "title": "Astrea",
+    "body": "Astrea may refer to:  Astrea, an alternate spelling of the ancient Greek goddess Astraea Alternate spelling of 5 Astraea, an asteroid discovered in 1845 Astrea: Six-Sided Oracles, a 2023 video game Astrea, Cesar, a municipality in the department o...",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "industrial",
+    "year": 1853,
+    "domain": "weird",
+    "title": "Francesco Fanciulli",
+    "body": "Francesco Fanciulli (May 29, 1853 – July 17, 1915) was a Grand Duchy of Tuscany-born naturalized American band director and composer. Between 1892 and 1897 he led the United States Marine Band.",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1915_photograph_of_Francesco_Fanciulli%3B_last_photograph_before_death.png"
+  },
+  {
+    "era": "industrial",
+    "year": 1858,
+    "domain": "science",
+    "title": "Tarache delecta",
+    "body": "Tarache delecta, the delightful bird dropping moth, is a bird dropping moth in the family Noctuidae. The species was first described by Francis Walker in 1858. The MONA or Hodges number for Tarache delecta is 9146.",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/-_9146_%E2%80%93_Tarache_delecta_%E2%80%93_Delightful_Bird-dropping_Moth_%28same_as_Acontia_delecta%29_%289594474969%29.jpg"
+  },
+  {
+    "era": "industrial",
+    "year": 1865,
+    "domain": "weird",
+    "title": "Nguyễn Thượng Hiền",
+    "body": "Nguyễn Thượng Hiền (阮尚賢; 1865–1925) was a Vietnamese scholar-gentry anti-colonial revolutionary activist who advocated independence from French colonial rule. He was a contemporary of Phan Bội Châu and Phan Châu Trinh and was regarded as the most ...",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nguyen_Thuong_Hien.jpg"
+  },
+  {
+    "era": "industrial",
+    "year": 1866,
+    "domain": "art",
+    "title": "Mattie Edwards",
+    "body": "Mattie Edwards (1866–1944) was an American actress who appeared in vaudeville theatre shows and early silent film productions from the 1880s through the 1930s. An African-American, she grew up in Fort Smith, Arkansas and spent her early life as a ...",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mattie_Edwards_Hewitt_-_half-length_photo_by_Frances_Benjamin_Johnston.jpg"
+  },
+  {
+    "era": "industrial",
+    "year": 1870,
+    "domain": "weird",
+    "title": "Julián Besteiro (Madrid Metro)",
+    "body": "Julián Besteiro [xuˈljam besˈtejɾo] is a station on Line 12 of the Madrid Metro, located next to the Civic Center Julián Besteiro in Leganés, which is named for the socialist politician Julián Besteiro (1870–1940). It is located in fare Zone B1.",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Julian_besteiro_metro.JPG"
+  },
+  {
+    "era": "industrial",
+    "year": 1871,
+    "domain": "weird",
+    "title": "John Twiggs Myers",
+    "body": "John Twiggs Myers (January 29, 1871 – April 17, 1952) was a United States Marine Corps general who was most famous for his service as the American Legation Guard in Beijing during the Boxer Rebellion.",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jtmyers-usmcphoto.jpg"
+  },
+  {
+    "era": "industrial",
+    "year": 1879,
+    "domain": "weird",
+    "title": "Henry Swan (cricketer)",
+    "body": "Henry Dawes Swan (born 28 July 1879, Newcastle upon Tyne, died 21 December 1941, Bournemouth) was an English cricketer and cricket administrator.",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Henry_Swan.gif"
+  },
+  {
+    "era": "industrial",
+    "year": 1883,
+    "domain": "weird",
+    "title": "Dicky Bond",
+    "body": "Richard Bond (14 December 1883 – 25 April 1955) was an English footballer who played outside right. He was capped eight times by England and spent the vast majority of his playing career at Bradford City where he played more than 300 games.",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "industrial",
+    "year": 1890,
+    "domain": "history",
+    "title": "Morgan Hayward",
+    "body": "Lewis Morgan Hayward (28 August 1890 – 21 October 1971) was a New Zealand fish curer, and professional rugby league footballer who played in the 1910s. He played at representative level for New Zealand, and Thames, as a forward. Hayward was the br...",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/New_Zealand_rugby_league_representative_Morgan_Hayward.png"
+  },
+  {
+    "era": "industrial",
+    "year": 1891,
+    "domain": "weird",
+    "title": "1891 U.S. National Championships (tennis)",
+    "body": "The 1891 U.S. National Championships (now known as the US Open) was a tennis tournament that took place in June and August of 1891. The women's tournament was held from June 23 to June 27 on the outdoor grass courts at the Philadelphia Cricket Clu...",
+    "connection": "A notable fragment of the Industrial Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1903,
+    "domain": "art",
+    "title": "Yasujirō Ozu",
+    "body": "Yasujirō Ozu (小津 安二郎, Ozu Yasujirō; 12 December 1903 – 12 December 1963) was a Japanese filmmaker. He began his career during the era of silent films, and his last...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Yasujiro_Ozu_01.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1905,
+    "domain": "art",
+    "title": "László Kardos",
+    "body": "László Kardos (October 8, 1905 – April 11, 1962) was a Hungarian film director, screenwriter and editor. He spent the latter part of his film career in the United States where he worked under the pseudonym Leslie Kardos. He was the son of the prin...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "modern",
+    "year": 1906,
+    "domain": "weird",
+    "title": "Romildo",
+    "body": "Romildo is a given name. Notable people with the name include:  Romildo Etcheverry (1906–1967), Paraguayan footballer Romildo Ribeiro Soares (born 1947), Brazilian televangelist and missionary Romildo (footballer, born 1973), Romildo Santos Rosa, ...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1909,
+    "domain": "weird",
+    "title": "Virginia Lee Burton",
+    "body": "Virginia Lee Burton (August 30, 1909 – October 15, 1968), also known by her married name Virginia Demetrios, was an American illustrator and children's book author. She wrote and illustrated seven children's books, including Mike Mulligan and His ...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1911,
+    "domain": "weird",
+    "title": "Xing Rongjie",
+    "body": "Xing Rongjie (Chinese: 邢荣杰; pinyin: Xing Rongjie; 1911 – 20 November 1997) was a Chinese military officer. He was the army Founding General in China.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1915,
+    "domain": "weird",
+    "title": "Jack Daly (politician)",
+    "body": "Jack Daly (28 May 1915 – 5 May 1988) was a Fine Gael politician from County Kerry in Ireland. He was a member of Seanad Éireann from 1975 to 1977, and again from 1982 to 1988. The founder and managing director of the motor vehicle business ″Killar...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1927,
+    "domain": "art",
+    "title": "Joseph Wheeler (musicologist)",
+    "body": "Joseph Hugh Wheeler (1927 – 11 October 1977) was a British musician and musicologist. A civil servant by profession, Wheeler's most famous work was his realisation of Gustav Mahler's Tenth Symphony which he began in 1952 and took him some thirteen...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "modern",
+    "year": 1928,
+    "domain": "science",
+    "title": "Jüri Selirand",
+    "body": "Jüri Selirand (21 July 1928 – 11 September 2017) was an Estonian archaeologist, historian, and translator associated with archaeological research and heritage popularisation in Estonia. He worked for decades at the Institute of History in Tallinn ...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_science_1777628546990.png"
+  },
+  {
+    "era": "modern",
+    "year": 1930,
+    "domain": "art",
+    "title": "Trevor Bell (artist)",
+    "body": "Trevor Bell (18 October 1930 – 3 November 2017) was an English Leeds-born artist and contemporary visual artist.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "modern",
+    "year": 1931,
+    "domain": "weird",
+    "title": "The Irish Press",
+    "body": "The Irish Press (Irish: Scéala Éireann) was an Irish national daily newspaper published by Irish Press plc between 5 September 1931 and 25 May 1995.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1934,
+    "domain": "weird",
+    "title": "Axel Jonas Halbach",
+    "body": "Axel Jonas Halbach (18 March 1934 – 12 December 2022) was a German economist, development cooperation expert, writer, poet, and painter. He worked for the Ifo Institute for Economic Research in Munich for more than three decades, contributing to d...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Axel_Jonas_Halbach_-_explorer%2C_traveller%2C_writer_and_artist_%281934-2022%29_05.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1936,
+    "domain": "weird",
+    "title": "Bob Kaplan",
+    "body": "Robert Philip \"Bob\" Kaplan,  (December 27, 1936 – November 5, 2012) was a Canadian politician and lawyer.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1937,
+    "domain": "weird",
+    "title": "David Eames",
+    "body": "David George Roniel Eames (born 15 April 1937) is an English former first-class cricketer. Born at London Colney, Ellis made one appearance in first-class cricket for the Marylebone Cricket Club (MCC) against Oxford University at Lord's in 1958. B...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1938,
+    "domain": "history",
+    "title": "Heinz History Center",
+    "body": "The Senator John Heinz History Center, an affiliate of the Smithsonian Institution, is the largest history museum in the Commonwealth of Pennsylvania, United States. Named after U.S. Senator H. John Heinz III (1938–1991) from Pennsylvania, it is l...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/HistoryCener_from_Strip_District.JPG"
+  },
+  {
+    "era": "modern",
+    "year": 1938,
+    "domain": "art",
+    "title": "Barnabé (film)",
+    "body": "Barnabé is a 1938 French comedy film directed by Alexander Esway and starring Fernandel, Marguerite Moreno and Andrex. It was shot at the Billancourt Studios in Paris. The film's sets were designed by the art directors André Barsacq and Pierre Sch...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "modern",
+    "year": 1938,
+    "domain": "weird",
+    "title": "Reginald Cawcutt",
+    "body": "Reginald Michael Cawcutt (25 October 1938 – 5 August 2022) was a South African Roman Catholic prelate. Cawcutt was born in Rugby, Western Cape. His father, Wilfred, was a well-known horse trainer. He studied for the priesthood at St John Vianney S...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1940,
+    "domain": "art",
+    "title": "Fortified Sector of Flanders",
+    "body": "The Fortified Sector of Flanders (Secteur Fortifié des Flandres) was the French military organization that in 1940 controlled the section of the French border with Belgium between Lille and the North Sea. The sector was part of a system of fortifi...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "modern",
+    "year": 1941,
+    "domain": "history",
+    "title": "1941–42 Southern League Cup (Scotland)",
+    "body": "The Southern League Cup 1941–42 was the second edition of the regional war-time football tournament.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_history_1777628532063.png"
+  },
+  {
+    "era": "modern",
+    "year": 1942,
+    "domain": "art",
+    "title": "Donna Weaver",
+    "body": "Donna Weaver (born 1942) is an American sculptor known for her designs of United States coins and medals. From 2000 to 2006, she worked as a sculptor-engraver for the United States Mint, where she designed seven state quarters, along with several ...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Oregon_quarter%2C_reverse_side%2C_2005.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1944,
+    "domain": "weird",
+    "title": "Eli Ben Rimoz",
+    "body": "Eliahu Ben Rimoz (Hebrew: אלי בן רימוז; born 20 November 1944) is an Israeli former international footballer who competed at the 1970 FIFA World Cup.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eli_Ben_Rimoje_1970.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1945,
+    "domain": "weird",
+    "title": "Michael Poulin",
+    "body": "Michael Brian Poulin (born June 10, 1945) is an American equestrian. He was born in Newport, Rhode Island. He won a bronze medal in team  dressage at the 1992 Summer Olympics in Barcelona, together with Robert Dover, Carol Lavell and Charlotte Bre...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1948,
+    "domain": "weird",
+    "title": "Nareshkumar Chunnalal Puglia",
+    "body": "Nareshkumar Puglia alias Babuji (born 20 May 1948) was a member of the 12th Lok Sabha and 13th Lok Sabha, the lower house of Parliament, from the Chandrapur constituency. He was elected as a member of the Indian National Congress. On 30 November 1...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1950,
+    "domain": "weird",
+    "title": "The Virgin Mary (book)",
+    "body": "The Virgin Mary: The Roman Catholic Marian Doctrine is the English title of Italian Protestant theologian Giovanni Miegge's 1950 work La vergine Maria: Saggio di storia del dogma. In the original Italian language it has gone through four printings...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1951,
+    "domain": "weird",
+    "title": "Jack O'Connell (American politician)",
+    "body": "Jack T. O'Connell (born October 8, 1951) is an American politician, educator and formerly the 26th California State Superintendent of Public Instruction, having been elected to the post in November 2002 with 61% of the vote. He was re-elected to h...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jack_O%27Connell.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1951,
+    "domain": "art",
+    "title": "Two Pennies Worth of Violets",
+    "body": "Two Pennies Worth of Violets (French: Deux sous de violettes) is a 1951 French drama film directed by Jean Anouilh and starring Dany Robin, Georges Baconnet and Madeleine Barbulée. It was one of two films directed by the dramatist Anouilh along wi...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "modern",
+    "year": 1954,
+    "domain": "art",
+    "title": "1954 Wimbledon Championships – Men's doubles",
+    "body": "Lew Hoad and Ken Rosewall were the defending champions, but lost in the semifinals to Vic Seixas and Tony Trabert. Rex Hartwig and Mervyn Rose defeated Seixas and Trabert in the final, 6–4, 6–4, 3–6, 6–4 to win the gentlemen's doubles tennis title...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "modern",
+    "year": 1960,
+    "domain": "history",
+    "title": "Kevin Boroevich",
+    "body": "Kevin Grant Boroevich (born 4 October 1960) is a former New Zealand rugby union player. A prop, Boroevich represented King Country, Wellington and North Harbour at a provincial level, and was a member of the New Zealand national side, the All Blac...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_history_1777628532063.png"
+  },
+  {
+    "era": "modern",
+    "year": 1962,
+    "domain": "weird",
+    "title": "Chibuzo",
+    "body": "Chibuzo is a masculine given name. Notable people with the name include:  Alexander Chibuzo Ibezim (born 1962), Nigerian Anglician bishop Oluwaferanmi Joshua Chibuzo Oluwayemi (born 2001), English footballer",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1964,
+    "domain": "art",
+    "title": "Stronger Since The War",
+    "body": "Stronger Since the War? is a 1964 Australian documentary film which examines the status of women in Japan following World War 2. It was created by the ABC as part of their contribution to Intertel (The International Television Federation). It was ...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "modern",
+    "year": 1971,
+    "domain": "weird",
+    "title": "Robyn Mawdsley",
+    "body": "Robyn Mawdsley (born 3 May 1971) is an Australian former professional tennis player.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1973,
+    "domain": "weird",
+    "title": "Naimuzzaman Bhuiyan",
+    "body": "Mohd. Naimuzzaman Bhuiyan Mukta (বাংলা: নাঈমুজ্জামান ভুইয়াঁ মুক্তা) (born 14 May 1973) is a Bangladesh Awami League politician and the former Jatiya Sangsad member representing the Panchagarh-1 constituency since 2024.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%E0%A6%A8%E0%A6%BE%E0%A6%88%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8_%E0%A6%AD%E0%A7%81%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%81_%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE.png"
+  },
+  {
+    "era": "modern",
+    "year": 1974,
+    "domain": "weird",
+    "title": "DJ Tocadisco",
+    "body": "Roman Böer (German pronunciation: [ʁoˈmaːn ˈbøːɐ]; born 9 June 1974), better known as DJ Tocadisco, formerly Tocadisco (pronounced [tokaˈðisko], Spanish for \"turntable\"), is a German DJ and record producer.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tocadisco_%2836%29.JPG"
+  },
+  {
+    "era": "modern",
+    "year": 1974,
+    "domain": "weird",
+    "title": "Antony Jordan",
+    "body": "Antony T. Jordan (born December 19, 1974) is an American former professional football player who played linebacker for the Indianapolis Colts and Atlanta Falcons. He was also a member of the Tampa Bay Buccaneers. He was selected in the fifth round...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1976,
+    "domain": "weird",
+    "title": "Tears–McFarlane House",
+    "body": "Tears–McFarlane House is a historic house located in Denver, Colorado, that was listed on the National Register of Historic Places on January 11, 1976. It was designed by Frederick Sterner. Railroad attorney Daniel W. Tears and his wife commission...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tears_McFarlane_House.JPG"
+  },
+  {
+    "era": "modern",
+    "year": 1976,
+    "domain": "weird",
+    "title": "McCranie's Turpentine Still",
+    "body": "McCranie's Turpentine Still is a historic site in Willacoochee, Georgia.  It was added to the National Register of Historic Places on June 28, 1976. It is located west of Willacoochee on U.S. 82.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/McCranie%27s_Turpentine_Still_02.JPG"
+  },
+  {
+    "era": "modern",
+    "year": 1977,
+    "domain": "art",
+    "title": "Steven Holl Architects",
+    "body": "Steven Holl Architects (SHA) is a private architecture and urban design studio founded in 1977 by Steven Holl. The practice operates from offices in New York City and the Hudson Valley in the US and Beijing in China, with a team of roughly 30 desi...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Steven_Holl.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1977,
+    "domain": "weird",
+    "title": "Emma Crosby",
+    "body": "Emma Catherine Crosby (born 5 June 1977) is a British television newsreader and journalist. Between 2003 and 2009, Crosby worked at Sky News, regularly co-presenting their breakfast programme Sunrise, along with various other programmes on the cha...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1983,
+    "domain": "weird",
+    "title": "Ylönen",
+    "body": "Ylönen is a Finnish surname. Notable people with the surname include:  Antti Ylönen (born 1983), Finnish ice hockey defenceman currently playing for Kärpät of the SM-liiga Harri Ylönen (born 1972), Finnish former footballer and manager Jesse Ylöne...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Rasmus_-_2025250_125352_2025-09-07_ZDF-Fernsehgarten_-_Sven_-_5DS_R_-_0115_-_5DSR3551_%28cropped%3B_Lauri_Yl%C3%B6nen%29.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1983,
+    "domain": "art",
+    "title": "El Guincho",
+    "body": "Pablo Díaz-Reixa (born November 17, 1983), professionally known as El Guincho, is a Spanish musician, singer, and record producer. Díaz-Reixa rose to prominence with his 2008 album, Alegranza. His musical style relies heavily on the use of samplin...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/El_Guincho_2017.png"
+  },
+  {
+    "era": "modern",
+    "year": 1984,
+    "domain": "weird",
+    "title": "Doe Paoro",
+    "body": "Sonia Jill Kreitzer (born September 19, 1984), known by her stage name Doe Paoro, is an American singer-songwriter based in Los Angeles, California, United States, whose ethereal sound blends elements of pop, dubstep, soul, and R&B and bears stron...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Doe_Paoro_03_05_2018_-13_%2840574750564%29.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1985,
+    "domain": "weird",
+    "title": "HT Hayko",
+    "body": "Hayk Margaryan (Armenian: Հայկ Մարգարյան; born June 28, 1985), better known by his stage name HT Hayko, (Armenian: ՀՏ Հայկո) is an Armenian rapper from Yerevan, Armenia.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HT_Hayko_during_his_solo_concert_at_the_Dinamo_Stadium_in_2010.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1985,
+    "domain": "weird",
+    "title": "Titi Oyinsan",
+    "body": "Titi Adelagun Oyinsan (born 10 August 1985), popularly known as TitiTheDynamite is a Nigerian television host, former model and Philanthropist.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "modern",
+    "year": 1987,
+    "domain": "weird",
+    "title": "Antônio Flávio",
+    "body": "Antônio Flávio Aires dos Santos (born 5 January 1987) is a Brazilian former footballer who plays as a striker. Antônio Flávio is more commonly known as Flávio by the fans and commentators.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ant%C3%B4nio_Fl%C3%A1vio.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1988,
+    "domain": "weird",
+    "title": "Lisa-Marie Scholz",
+    "body": "Lisa-Marie Scholz (born 19 November 1988) is a German former footballer who played as a midfielder for Werder Bremen and for Spanish clubs Córdoba CF and SE AEM.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lisa_Marie_Scholz_20181125.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1989,
+    "domain": "weird",
+    "title": "Damion Square",
+    "body": "Damion DaShon Square (born February 6, 1989) is an American former professional football player who was a defensive tackle in the National Football League (NFL). He played college football for the Alabama Crimson Tide and was signed as an undrafte...",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Damion_Square.jpg"
+  },
+  {
+    "era": "modern",
+    "year": 1990,
+    "domain": "weird",
+    "title": "McCall's LPGA Classic",
+    "body": "The McCall's LPGA Classic was a golf tournament on the LPGA Tour from 1990 to 1995. It was played at the Stratton Mountain Country Club in Stratton Mountain, Vermont.",
+    "connection": "A notable fragment of the Modern Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 1992,
+    "domain": "history",
+    "title": "King Salmon (video game)",
+    "body": "King Salmon: The Big Catch (キングサーモン) is a 1992 Sega Genesis/Mega Drive fishing video game that was developed by Hot-B and was released by Vic Tokai in North America. It was due for release in Europe by July, but the plan was cancelled.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_history_1777628532063.png"
+  },
+  {
+    "era": "digital",
+    "year": 1994,
+    "domain": "weird",
+    "title": "Dudu Zondo",
+    "body": "Dudu Zondo (born 10 May 1994) is a South African professional cricketer. He made his Twenty20 debut for KwaZulu-Natal against Eastern Province in the 2016 Africa T20 Cup on 25 September 2016. He made his first-class debut for KwaZulu-Natal in the ...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 1995,
+    "domain": "weird",
+    "title": "Kim Mourmans",
+    "body": "Kim Mourmans (born 1 April 1995) is a Dutch footballer who plays as a midfielder for Beerse Boys. She has been a member of the Netherlands women's national team.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 1996,
+    "domain": "weird",
+    "title": "Giacomo Perini",
+    "body": "Giacomo Perini (born 16 May 1996) is an Italian paralympic rower on the Circolo Canottieri Aniene Paralympic team. He finished fourth at the 2025 World Rowing Championships, held from September 21 to 28, 2025, in Shanghai, and again at the end of ...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/20220813_ECM22_Rowing_7340.jpg"
+  },
+  {
+    "era": "digital",
+    "year": 1996,
+    "domain": "art",
+    "title": "Raja Hindustani",
+    "body": "Raja Hindustani (transl. Indian Raja) is a 1996 Indian Hindi-language romantic action film directed by Dharmesh Darshan. It tells the story of a cab driver from a small town who falls in love with a rich young woman. Aamir Khan and Karisma Kapoor ...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 1996,
+    "domain": "art",
+    "title": "Bruce Seldon vs. Mike Tyson",
+    "body": "Bruce Seldon vs. Mike Tyson, billed as Liberation, was a professional boxing match fought on September 7, 1996 for the WBA heavyweight championship. The fight was part of a pay-per-view event produced by Don King Productions and carried on pay-per...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 1998,
+    "domain": "science",
+    "title": "Sphaenothecus facetus",
+    "body": "Sphaenothecus facetus is a species of beetle in the family Cerambycidae. It was described by Chemsak & Noguera in 1998.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sphaenothecus_bilineatus.jpg"
+  },
+  {
+    "era": "digital",
+    "year": 1998,
+    "domain": "science",
+    "title": "Ilex williamsii",
+    "body": "Ilex williamsii is a species of plant in the family Aquifoliaceae. It is endemic to Honduras. It is a seldom-collected cloud forest species. The plant is critically endangered as of 1998.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_science_1777628546990.png"
+  },
+  {
+    "era": "digital",
+    "year": 1998,
+    "domain": "art",
+    "title": "Saving Private Ryan (soundtrack)",
+    "body": "Saving Private Ryan: Music from the Original Motion Picture Soundtrack is the soundtrack album for the 1998 film Saving Private Ryan, directed by Steven Spielberg. The album was produced by composer John Williams and distributed by DreamWorks Reco...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 1999,
+    "domain": "art",
+    "title": "The Tunnel (album)",
+    "body": "The Tunnel is a collaborative album by American DJs Funkmaster Flex and Big Kap. It was released on December 7, 1999, via Def Jam Recordings. Recording sessions took place at Mirror Image Times Square, at Madison Square Garden, at Quad Recording S...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 2001,
+    "domain": "weird",
+    "title": "Roan Steele",
+    "body": "Roan Steele (born 22 October 2001) is a professional Australian rules footballer who plays for the Collingwood Football Club in the Australian Football League (AFL).",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 2001,
+    "domain": "weird",
+    "title": "Federico Bonini",
+    "body": "Federico Bonini (born 6 August 2001) is an Italian footballer who plays as a defender for Segunda División club UD Almería.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 2002,
+    "domain": "history",
+    "title": "WBX",
+    "body": "World Bet Exchange (WBX) was a person-to-person betting exchange based in Notting Hill Gate, London in the United Kingdom, and licensed and regulated by the UK Gambling Commission. WBX.com was founded in 2002 by Malcolm Gray but did not officially...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_history_1777628532063.png"
+  },
+  {
+    "era": "digital",
+    "year": 2003,
+    "domain": "weird",
+    "title": "U.S. Route 491",
+    "body": "U.S. Route 491 (US 491) is a north–south U.S. Highway serving the Four Corners region of the United States. It was created in 2003 as a renumbering of U.S. Route 666 (US 666). With the US 666 designation, the road was nicknamed the \"Devil's Highwa...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 2004,
+    "domain": "weird",
+    "title": "2004 South Florida Bulls football team",
+    "body": "The 2004 South Florida Bulls football team represented the University of South Florida (USF) in the 2004 NCAA Division I-A football season. Their head coach was Jim Leavitt, and the USF Bulls played their home games at Raymond James Stadium in Tam...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 2004,
+    "domain": "weird",
+    "title": "Home Island Cemetery",
+    "body": "The Home Island Cemetery is a heritage-listed cemetery at Home Island, Cocos (Keeling) Islands, Australia. It was added to the Australian Commonwealth Heritage List on 22 June 2004.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pulu_Gangsa_Cemetery_%2825116883672%29.jpg"
+  },
+  {
+    "era": "digital",
+    "year": 2006,
+    "domain": "weird",
+    "title": "Meilong railway station",
+    "body": "Meilong railway station (simplified Chinese: 梅陇站; traditional Chinese: 梅隴站; pinyin: Méilǒng zhàn) is a disused railway station in Shanghai. It closed permanently when the new Shanghai South railway station opened in 2006. It was located near Jinji...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Meilong.jpg"
+  },
+  {
+    "era": "digital",
+    "year": 2007,
+    "domain": "science",
+    "title": "InAlienable",
+    "body": "InAlienable is a 2007 science fiction horror written and executive produced by Walter Koenig, and directed by Robert Dyke. It was the first collaboration of Koenig and Dyke since their 1989 production of Moontrap. Koenig said that \"the story reall...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_science_1777628546990.png"
+  },
+  {
+    "era": "digital",
+    "year": 2009,
+    "domain": "weird",
+    "title": "Morton Independent School District",
+    "body": "Morton Independent School District is a public school district based in Morton, Texas, United States. In 2009, the school district was rated \"academically acceptable\" by the Texas Education Agency.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 2009,
+    "domain": "art",
+    "title": "2009 Carlow County Council election",
+    "body": "An election to Carlow County Council took place on 5 June 2009 as part of that year's Irish local elections. 21 councillors were elected from five local electoral areas (LEAs) for a five-year term of office on the electoral system of proportional ...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 2015,
+    "domain": "weird",
+    "title": "2015 in Zimbabwe",
+    "body": "The following lists events that happened in 2015 in Zimbabwe.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 2016,
+    "domain": "weird",
+    "title": "Pecharromán",
+    "body": "Pecharromán is a village located in the Province of Segovia, Castile and León (Spain). It belongs to the municipality of Valtiendas and has 12 inhabitants (2016). The village is 80 kilometers away from Segovia, and 863 meters above sea level.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Pecharroman.jpg"
+  },
+  {
+    "era": "digital",
+    "year": 2016,
+    "domain": "art",
+    "title": "Made World Tour",
+    "body": "The Made World Tour was the second worldwide concert tour and ninth overall by South Korean boy band Big Bang, in support of their third Korean-language studio album Made (2016). The tour began on April 25, 2015, and concluded on March 6, 2016, in...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 2018,
+    "domain": "art",
+    "title": "Mira lo que has hecho",
+    "body": "Mira lo que has hecho (transl. 'Look What You've Done') is a Spanish comedy television series created by Berto Romero that originally aired from 2018 to 2020 on Movistar+. It stars Berto Romero and Eva Ugarte.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 2019,
+    "domain": "art",
+    "title": "COVID-19 pandemic in Hungary",
+    "body": "The COVID-19 pandemic in Hungary was a part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). On 4 March 2020, the first cases in Hungary were announced. The fi...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 2020,
+    "domain": "weird",
+    "title": "Gardiner, Maine",
+    "body": "Gardiner is a city in Kennebec County, Maine, United States. The population was 5,961 at the 2020 census. Gardiner is a nationally accredited Main Street America community. It is included in the Augusta, Maine micropolitan New England City and Tow...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/GardinerME_Downtown.jpg"
+  },
+  {
+    "era": "digital",
+    "year": 2020,
+    "domain": "art",
+    "title": "Pen Argyl, Pennsylvania",
+    "body": "Pen Argyl (; Pennsylvania Dutch: Kleiberg) is a borough in Northampton County, Pennsylvania, United States. The borough's population was 3,510 as of the 2020 census. Pen Argyl is located 26 miles (42 km) north of Allentown. It is part of the Lehig...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pen_Argyl_Block.jpg"
+  },
+  {
+    "era": "digital",
+    "year": 2022,
+    "domain": "art",
+    "title": "2022 Emilia-Romagna Open – Women's doubles",
+    "body": "Anastasia Dețiuc and Miriam Kolodziejová defeated Arantxa Rus and Tamara Zidanšek in the final, 1–6, 6–3, [10–8] to win the women's doubles tennis title at the 2022 Emilia-Romagna Open. This was both players' first WTA Tour doubles title. Coco Gau...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 2022,
+    "domain": "weird",
+    "title": "2022 FINA World Swimming Championships (25 m) – Women's 100 metre butterfly",
+    "body": "The Women's 100 metre butterfly competition of the 2022 FINA World Swimming Championships (25 m) was held on 17 and 18 December 2022.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
+  },
+  {
+    "era": "digital",
+    "year": 2023,
+    "domain": "art",
+    "title": "The Equalizer 3 (soundtrack)",
+    "body": "The Equalizer 3 (Original Motion Picture Soundtrack) is the soundtrack to the 2023 film The Equalizer 3, the third instalment in The Equalizer franchise. The score featuring original music composed by Marcelo Zarvos released coinciding with the fi...",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_art_1777628559672.png"
+  },
+  {
+    "era": "digital",
+    "year": 2025,
+    "domain": "weird",
+    "title": "2025 BWF World Championships qualification",
+    "body": "This is the list of entries for the 2025 BWF World Championships qualification.",
+    "connection": "A notable fragment of the Digital Era.",
+    "image": "assets/img_weird_1777628571793.png"
   }
 ];
