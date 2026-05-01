@@ -18,6 +18,75 @@
   const eraTransition = document.getElementById('era-transition');
   const eraTransText = eraTransition.querySelector('.era-transition-text');
 
+  /* ===== SOUNDSCAPE MANAGER ===== */
+  let audioCtx, masterGain, eraOsc1, eraOsc2, lfo;
+  let isAudioMuted = true;
+  const audioBtn = document.getElementById('btn-audio');
+
+  function initAudio() {
+    if(audioCtx) return;
+    const AudioContext = window.AudioContext || window.webkitAudioContext;
+    if(!AudioContext) return;
+    audioCtx = new AudioContext();
+
+    masterGain = audioCtx.createGain();
+    masterGain.gain.value = 0;
+    masterGain.connect(audioCtx.destination);
+
+    eraOsc1 = audioCtx.createOscillator();
+    eraOsc2 = audioCtx.createOscillator();
+    eraOsc1.type = 'sine';
+    eraOsc2.type = 'triangle';
+    
+    lfo = audioCtx.createOscillator();
+    lfo.type = 'sine';
+    lfo.frequency.value = 0.1;
+    const lfoGain = audioCtx.createGain();
+    lfoGain.gain.value = 5;
+    lfo.connect(lfoGain);
+    lfoGain.connect(eraOsc1.frequency);
+    lfoGain.connect(eraOsc2.frequency);
+
+    eraOsc1.frequency.value = 110;
+    eraOsc2.frequency.value = 112;
+
+    const filter = audioCtx.createBiquadFilter();
+    filter.type = 'lowpass';
+    filter.frequency.value = 400;
+
+    eraOsc1.connect(filter);
+    eraOsc2.connect(filter);
+    filter.connect(masterGain);
+
+    eraOsc1.start();
+    eraOsc2.start();
+    lfo.start();
+  }
+
+  if (audioBtn) {
+    audioBtn.addEventListener('click', () => {
+      if(!audioCtx) initAudio();
+      if(audioCtx.state === 'suspended') audioCtx.resume();
+      isAudioMuted = !isAudioMuted;
+      const targetGain = isAudioMuted ? 0 : 0.2;
+      masterGain.gain.setTargetAtTime(targetGain, audioCtx.currentTime, 0.5);
+      audioBtn.innerHTML = isAudioMuted ? '<i class="fas fa-volume-mute"></i> Soundscape Muted' : '<i class="fas fa-volume-up"></i> Soundscape Active';
+      audioBtn.classList.toggle('active', !isAudioMuted);
+    });
+  }
+
+  function updateAudioForEra(era) {
+    if(!audioCtx || isAudioMuted) return;
+    const eraFreqs = {
+      cosmic: 65.41, primordial: 73.42, ancient: 82.41,
+      classical: 98.00, medieval: 110.00, renaissance: 130.81,
+      enlightenment: 146.83, industrial: 164.81, modern: 196.00, digital: 220.00
+    };
+    const freq = eraFreqs[era] || 110;
+    eraOsc1.frequency.setTargetAtTime(freq, audioCtx.currentTime, 1);
+    eraOsc2.frequency.setTargetAtTime(freq * 1.01, audioCtx.currentTime, 1);
+  }
+
   const DOMAIN_LABELS = {history:'History',space:'Space',science:'Science',art:'Art & Culture',weird:'Edge Case'};
   const DOMAIN_EMOJI = {history:'🌍',space:'🪐',science:'🧬',art:'🎨',weird:'⚡'};
   const ERA_LABELS = {cosmic:'The Cosmic Dawn',primordial:'The Primordial Earth',ancient:'The Ancient World',classical:'The Classical Age',medieval:'The Medieval World',renaissance:'The Renaissance',enlightenment:'The Enlightenment',industrial:'The Industrial Age',modern:'The Modern Era',digital:'The Digital Frontier'};
@@ -265,6 +334,7 @@
           const yr = e.target.getAttribute('data-year');
           if(yr) eraYear.textContent = fmtYearShort(Number(yr));
           triggerEraTransition(currentEra);
+          updateAudioForEra(currentEra);
         }
       }
     }
@@ -310,10 +380,112 @@
         }
 
         ticking = false;
+        saveProgress();
       });
       ticking = true;
     }
   });
+
+  /* ===== PERSISTENCE ===== */
+  const resumeToast = document.getElementById('resume-toast');
+  const btnResume = document.getElementById('btn-resume');
+  const btnDismissResume = document.getElementById('btn-dismiss-resume');
+  let saveTimeout;
+
+  function saveProgress() {
+    clearTimeout(saveTimeout);
+    saveTimeout = setTimeout(() => {
+      localStorage.setItem('infinite_chronicle_pos', window.scrollY);
+    }, 500);
+  }
+
+  function checkPersistence() {
+    const savedPos = localStorage.getItem('infinite_chronicle_pos');
+    if(savedPos && parseInt(savedPos) > window.innerHeight) {
+      if(resumeToast) resumeToast.classList.add('visible');
+      
+      if(btnResume) {
+        btnResume.addEventListener('click', () => {
+          // Keep scrolling until we reach the target or run out of content
+          const targetY = parseInt(savedPos);
+          const scrollInt = setInterval(() => {
+            if(document.documentElement.scrollHeight > targetY + window.innerHeight || rendered >= CHRONICLE_DATA.length) {
+              clearInterval(scrollInt);
+              window.scrollTo({top: targetY, behavior: 'smooth'});
+            } else {
+              loadBatch(); // Force load more content
+            }
+          }, 50);
+          resumeToast.classList.remove('visible');
+        });
+      }
+      
+      if(btnDismissResume) {
+        btnDismissResume.addEventListener('click', () => {
+          resumeToast.classList.remove('visible');
+          localStorage.removeItem('infinite_chronicle_pos');
+        });
+      }
+    }
+  }
+
+  /* ===== SEARCH MODAL ===== */
+  const btnSearch = document.getElementById('btn-search');
+  const searchModal = document.getElementById('search-modal');
+  const closeSearch = document.getElementById('close-search');
+  const searchInput = document.getElementById('search-input');
+  const searchResults = document.getElementById('search-results');
+
+  if (btnSearch && searchModal) {
+    btnSearch.addEventListener('click', () => {
+      searchModal.classList.add('visible');
+      if (searchInput) searchInput.focus();
+    });
+
+    closeSearch.addEventListener('click', () => {
+      searchModal.classList.remove('visible');
+      if (searchInput) searchInput.value = '';
+      if (searchResults) searchResults.innerHTML = '';
+    });
+
+    if (searchInput && searchResults) {
+      searchInput.addEventListener('input', (e) => {
+        const q = e.target.value.toLowerCase();
+        if(!q) {
+          searchResults.innerHTML = '';
+          return;
+        }
+        const hits = CHRONICLE_DATA.map((item, idx) => ({item, idx}))
+          .filter(x => x.item.title.toLowerCase().includes(q) || x.item.body.toLowerCase().includes(q) || x.item.era.toLowerCase().includes(q))
+          .slice(0, 10);
+        
+        searchResults.innerHTML = hits.map(hit => `
+          <div class="search-result-item" data-idx="${hit.idx}">
+            <div class="search-result-title">${hit.item.title}</div>
+            <div class="search-result-meta">${fmtYearShort(hit.item.year)} • ${DOMAIN_LABELS[hit.item.domain] || hit.item.domain}</div>
+          </div>
+        `).join('');
+      });
+
+      searchResults.addEventListener('click', (e) => {
+        const item = e.target.closest('.search-result-item');
+        if(item) {
+          const idx = parseInt(item.getAttribute('data-idx'), 10);
+          searchModal.classList.remove('visible');
+          searchInput.value = '';
+          searchResults.innerHTML = '';
+          
+          while(rendered <= idx && rendered < CHRONICLE_DATA.length) {
+            loadBatch();
+          }
+          setTimeout(() => {
+            const el = document.getElementById(`entry-${idx}`);
+            if(el) el.scrollIntoView({behavior:'smooth', block:'center'});
+          }, 100);
+        }
+      });
+    }
+  }
 
   /* ===== DOMAIN FILTER ===== */
   domainLegend.addEventListener('click',(e)=>{
@@ -379,6 +551,7 @@
   drawParticles();
   loadBatch();
   animateStats();
+  checkPersistence();
 
   // Preload all remaining after initial paint
   setTimeout(()=>{

@@ -75,7 +75,47 @@
     <span><b>↑↓</b> Scroll</span>
     <span><b>J/K</b> Navigate</span>
     <span><b>F</b> Filter</span>
+    <span><b>/</b> Search</span>
     <span><b>M</b> Mute</span>
+  </div>
+
+  <!-- Top Action Bar -->
+  <div id="action-bar">
+    <button id="btn-search" class="glass-btn" aria-label="Search Chronicles">
+      <span class="btn-icon">🔍</span>
+      <span class="btn-label">Search</span>
+    </button>
+    <button id="btn-audio" class="glass-btn" aria-label="Toggle Soundscape">
+      <span class="btn-icon" id="audio-icon">🔇</span>
+      <span class="btn-label">Soundscape</span>
+    </button>
+  </div>
+
+  <!-- Search Modal -->
+  <div id="search-modal" aria-hidden="true">
+    <div class="search-backdrop"></div>
+    <div class="search-container">
+      <div class="search-header">
+        <input type="text" id="search-input" placeholder="Search the chronicle..." autocomplete="off">
+        <button id="btn-close-search" class="glass-btn icon-only">✕</button>
+      </div>
+      <div id="search-results"></div>
+    </div>
+  </div>
+
+  <!-- Resume Toast -->
+  <div id="resume-toast" aria-hidden="true">
+    <div class="toast-content">
+      <span class="toast-icon">🔖</span>
+      <div class="toast-text">
+        <strong>Journey Saved</strong>
+        <span>Return to where you left off?</span>
+      </div>
+    </div>
+    <div class="toast-actions">
+      <button id="btn-resume">Resume</button>
+      <button id="btn-dismiss-resume">Dismiss</button>
+    </div>
   </div>
 
   <!-- ===== CINEMATIC TITLE SCREEN ===== -->
