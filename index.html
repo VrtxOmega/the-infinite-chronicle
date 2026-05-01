@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="SCROLL v2 — The Infinite Chronicle. An infinite-scrolling narrative engine weaving 13.8 billion years of history, science, space, and art into one seamless cinematic journey.">
+  <title>SCROLL v2 — The Infinite Chronicle</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500&family=MedievalSharp&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Ambient canvas layers -->
+  <canvas id="cosmos" aria-hidden="true"></canvas>
+  <canvas id="particles" aria-hidden="true"></canvas>
+
+  <!-- Era transition overlay -->
+  <div id="era-transition" aria-hidden="true">
+    <div class="era-transition-text"></div>
+  </div>
+
+  <!-- Fixed scroll progress -->
+  <div id="scroll-progress" role="progressbar" aria-label="Reading progress">
+    <div id="scroll-bar"></div>
+    <div id="scroll-glow"></div>
+  </div>
+
+  <!-- Era indicator -->
+  <div id="era-indicator" aria-live="polite">
+    <div class="era-pip"></div>
+    <span id="era-icon">✦</span>
+    <span id="era-label">The Void Before Time</span>
+    <span id="era-year"></span>
+  </div>
+
+  <!-- Domain legend -->
+  <nav id="domain-legend" aria-label="Content domains">
+    <button class="legend-dot active" data-domain="all" title="All Domains">
+      <span class="dot-icon">∞</span>
+      <span class="dot-label">All</span>
+    </button>
+    <button class="legend-dot" data-domain="history" title="History">
+      <span class="dot-icon">🌍</span>
+      <span class="dot-label">History</span>
+    </button>
+    <button class="legend-dot" data-domain="space" title="Space">
+      <span class="dot-icon">🪐</span>
+      <span class="dot-label">Space</span>
+    </button>
+    <button class="legend-dot" data-domain="science" title="Science">
+      <span class="dot-icon">🧬</span>
+      <span class="dot-label">Science</span>
+    </button>
+    <button class="legend-dot" data-domain="art" title="Art & Culture">
+      <span class="dot-icon">🎨</span>
+      <span class="dot-label">Art</span>
+    </button>
+    <button class="legend-dot" data-domain="weird" title="Weird Edge Cases">
+      <span class="dot-icon">⚡</span>
+      <span class="dot-label">Weird</span>
+    </button>
+  </nav>
+
+  <!-- Timeline mini-map -->
+  <div id="timeline-minimap" aria-label="Timeline navigation">
+    <div class="minimap-track">
+      <div class="minimap-thumb"></div>
+    </div>
+    <div class="minimap-eras"></div>
+  </div>
+
+  <!-- Keyboard hints -->
+  <div id="kb-hints">
+    <span><b>↑↓</b> Scroll</span>
+    <span><b>J/K</b> Navigate</span>
+    <span><b>F</b> Filter</span>
+    <span><b>M</b> Mute</span>
+  </div>
+
+  <!-- ===== CINEMATIC TITLE SCREEN ===== -->
+  <header id="title-screen">
+    <div class="hero-bg" aria-hidden="true">
+      <div class="hero-image"></div>
+      <div class="hero-overlay"></div>
+    </div>
+    <div class="title-glow"></div>
+    <div class="title-content">
+      <div class="title-pre">⟐ AN INFINITE NARRATIVE ENGINE ⟐</div>
+      <h1 id="main-title">
+        <span class="title-rune" aria-hidden="true">📜</span>
+        <span class="title-text">SCROLL</span>
+        <span class="title-version">v2</span>
+      </h1>
+      <p class="title-sub">The Infinite Chronicle</p>
+      <div class="title-divider">
+        <span></span><span class="divider-diamond">◆</span><span></span>
+      </div>
+      <p class="title-tagline">Every fact is true. Every connection is real.<br>The thread between them is the story.</p>
+      <div class="title-stats">
+        <div class="stat"><span class="stat-num" id="stat-years">13.8B</span><span class="stat-label">Years</span></div>
+        <div class="stat-sep">·</div>
+        <div class="stat"><span class="stat-num" id="stat-entries">100</span><span class="stat-label">Facts</span></div>
+        <div class="stat-sep">·</div>
+        <div class="stat"><span class="stat-num">5</span><span class="stat-label">Domains</span></div>
+        <div class="stat-sep">·</div>
+        <div class="stat"><span class="stat-num">10</span><span class="stat-label">Eras</span></div>
+      </div>
+    </div>
+    <div class="scroll-cue">
+      <span>Begin the descent</span>
+      <div class="scroll-arrow-track">
+        <div class="scroll-arrow">⌄</div>
+        <div class="scroll-arrow">⌄</div>
+        <div class="scroll-arrow">⌄</div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== TIMELINE SPINE + CHRONICLE ===== -->
+  <div id="chronicle-wrapper">
+    <div id="timeline-spine" aria-hidden="true"></div>
+    <main id="chronicle" role="feed" aria-label="Chronicle entries"></main>
+  </div>
+
+  <!-- Loading sentinel -->
+  <div id="load-sentinel">
+    <div class="loading-sigil">
+      <div class="sigil-orbit">
+        <div class="sigil-ring"></div>
+        <div class="sigil-ring"></div>
+        <div class="sigil-ring"></div>
+        <div class="sigil-dot"></div>
+      </div>
+      <span class="sigil-text">Weaving the chronicle...</span>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer id="chronicle-footer">
+    <div class="footer-glow"></div>
+    <p class="footer-quote">"The story never ends. It only waits for you to keep scrolling."</p>
+    <div class="footer-divider">
+      <span></span><span class="divider-diamond">◆</span><span></span>
+    </div>
+    <p class="footer-mark">SCROLL v2 — ∞</p>
+    <p class="footer-copy">All facts verified. All connections real. Built with wonder.</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
