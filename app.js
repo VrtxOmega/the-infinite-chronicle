@@ -314,28 +314,64 @@
     el.setAttribute('data-year', d.year);
 
     const imageUrl = d.image || DOMAIN_IMAGES[d.domain];
+    const layout = d.layout || 'standard';
+    const hasNarration = d.layout === 'milestone' || idx % 20 === 0;
 
-    el.innerHTML = `
-      <div class="entry-card has-image">
-        <div class="entry-image-container">
-          <div class="entry-image" style="background-image: url('${imageUrl}')"></div>
-          <div class="entry-image-overlay"></div>
-        </div>
-        <div class="entry-content">
-          <div class="era-decoration"></div>
-          <span class="entry-number">${String(idx+1).padStart(2,'0')} / ${CHRONICLE_DATA.length}</span>
-          <div class="entry-year-wrap">
-            <div class="entry-year">${fmtYear(d.year)}</div>
-            <div class="entry-year-line"></div>
+    // Choose card template based on layout
+    let cardHTML;
+    if (layout === 'fullbleed') {
+      cardHTML = `
+        <div class="entry-card fullbleed">
+          <div class="entry-image-container fullbleed-bg">
+            <div class="entry-image" style="background-image: url('${imageUrl}')"></div>
+            <div class="entry-image-overlay dark-overlay"></div>
           </div>
-          <div class="entry-domain" data-domain="${d.domain}">${DOMAIN_EMOJI[d.domain]} ${DOMAIN_LABELS[d.domain]}</div>
-          <h2 class="entry-title">${d.title}</h2>
-          <p class="entry-body">${d.body}</p>
-          <blockquote class="entry-connection">${d.connection}</blockquote>
-        </div>
-      </div>
-    `;
+          <div class="entry-content centered">
+            <div class="entry-domain" data-domain="${d.domain}">${DOMAIN_EMOJI[d.domain]} ${DOMAIN_LABELS[d.domain]}</div>
+            <h2 class="entry-title">${d.title}</h2>
+            <p class="entry-body">${d.body}</p>
+            <blockquote class="entry-connection">${d.connection}</blockquote>
+            ${hasNarration ? `<button class="btn-narrate" data-text="${d.body.replace(/"/g,'&quot;')}" title="Listen">🔊</button>` : ''}
+          </div>
+        </div>`;
+    } else if (layout === 'quote-first') {
+      cardHTML = `
+        <div class="entry-card quote-first">
+          <blockquote class="entry-connection standalone-quote">${d.connection}</blockquote>
+          <div class="entry-image-container">
+            <div class="entry-image" style="background-image: url('${imageUrl}')"></div>
+            <div class="entry-image-overlay"></div>
+          </div>
+          <div class="entry-content">
+            <div class="entry-domain" data-domain="${d.domain}">${DOMAIN_EMOJI[d.domain]} ${DOMAIN_LABELS[d.domain]}</div>
+            <h2 class="entry-title">${d.title}</h2>
+            <p class="entry-body">${d.body}</p>
+          </div>
+        </div>`;
+    } else {
+      cardHTML = `
+        <div class="entry-card has-image">
+          <div class="entry-image-container">
+            <div class="entry-image" style="background-image: url('${imageUrl}')"></div>
+            <div class="entry-image-overlay"></div>
+          </div>
+          <div class="entry-content">
+            <div class="era-decoration"></div>
+            <span class="entry-number">${String(idx+1).padStart(2,'0')} / ${CHRONICLE_DATA.length}</span>
+            <div class="entry-year-wrap">
+              <div class="entry-year">${fmtYear(d.year)}</div>
+              <div class="entry-year-line"></div>
+            </div>
+            <div class="entry-domain" data-domain="${d.domain}">${DOMAIN_EMOJI[d.domain]} ${DOMAIN_LABELS[d.domain]}</div>
+            <h2 class="entry-title">${d.title}</h2>
+            <p class="entry-body">${d.body}</p>
+            <blockquote class="entry-connection">${d.connection}</blockquote>
+            ${hasNarration ? `<button class="btn-narrate" data-text="${d.body.replace(/"/g,'&quot;')}" title="Listen to this entry">🔊</button>` : ''}
+          </div>
+        </div>`;
+    }
 
+    el.innerHTML = cardHTML;
     chronicle.appendChild(el);
     observer.observe(el);
   }
