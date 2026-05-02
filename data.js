@@ -1257,7 +1257,7 @@ const CHRONICLE_DATA = [
     "title": "The Irish Press",
     "body": "The Irish Press (Irish: Scéala Éireann) was an Irish national daily newspaper published by Irish Press plc between 5 September 1931 and 25 May 1995.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='60%25' x2='130%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Irish_Channel_Cotton_Press_1880s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
 {
     "era": "modern",
@@ -1275,7 +1275,7 @@ const CHRONICLE_DATA = [
     "title": "Bob Kaplan",
     "body": "Robert Philip \"Bob\" Kaplan,  (December 27, 1936 – November 5, 2012) was a Canadian politician and lawyer.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='30%25' x2='80%25' y2='110%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://thumbnails.odycdn.com/card/s:1280:720/quality:85/plain/https://spee.ch/5/5010909ddee6b432.png"
   },
 {
     "era": "modern",
@@ -1284,7 +1284,7 @@ const CHRONICLE_DATA = [
     "title": "David Eames",
     "body": "David George Roniel Eames (born 15 April 1937) is an English former first-class cricketer. Born at London Colney, Ellis made one appearance in first-class cricket for the Marylebone Cricket Club (MCC) against Oxford University at Lord's in 1958. B...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='40%25' x2='90%25' y2='115%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://beshearsconstruction.com/wp-content/uploads/2023/05/David-768x1024.jpg"
   },
 {
     "era": "modern",
@@ -1302,7 +1302,7 @@ const CHRONICLE_DATA = [
     "title": "Barnabé (film)",
     "body": "Barnabé is a 1938 French comedy film directed by Alexander Esway and starring Fernandel, Marguerite Moreno and Andrex. It was shot at the Billancourt Studios in Paris. The film's sets were designed by the art directors André Barsacq and Pierre Sch...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='60%25' x2='110%25' y2='80%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://cdn.posteritati.com/posters/000/000/020/366/barnabe-md-web.jpg"
   },
 {
     "era": "modern",
@@ -1329,7 +1329,7 @@ const CHRONICLE_DATA = [
     "title": "1941–42 Southern League Cup (Scotland)",
     "body": "The Southern League Cup 1941–42 was the second edition of the regional war-time football tournament.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='40%25' x2='70%25' y2='95%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://www.myfootballfacts.com/wp-content/uploads/2025/04/087eca1f6f264b186a1e47d00a318641-47-310x217.jpg"
   },
 {
     "era": "modern",
@@ -1365,7 +1365,7 @@ const CHRONICLE_DATA = [
     "title": "Nareshkumar Chunnalal Puglia",
     "body": "Nareshkumar Puglia alias Babuji (born 20 May 1948) was a member of the 12th Lok Sabha and 13th Lok Sabha, the lower house of Parliament, from the Chandrapur constituency. He was elected as a member of the Indian National Congress. On 30 November 1...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='30%25' x2='110%25' y2='115%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/threads/chenulal_gurjar_bjp/profile_pic.jpg"
   },
 {
     "era": "modern",
@@ -1374,7 +1374,7 @@ const CHRONICLE_DATA = [
     "title": "The Virgin Mary (book)",
     "body": "The Virgin Mary: The Roman Catholic Marian Doctrine is the English title of Italian Protestant theologian Giovanni Miegge's 1950 work La vergine Maria: Saggio di storia del dogma. In the original Italian language it has gone through four printings...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='40%25' x2='120%25' y2='120%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://modernmanna.org/virginmarybook.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-10-at-2.58.47-PM-636x1024.png"
   },
 {
     "era": "modern",
@@ -1401,7 +1401,7 @@ const CHRONICLE_DATA = [
     "title": "1954 Wimbledon Championships – Men's doubles",
     "body": "Lew Hoad and Ken Rosewall were the defending champions, but lost in the semifinals to Vic Seixas and Tony Trabert. Rex Hartwig and Mervyn Rose defeated Seixas and Trabert in the final, 6–4, 6–4, 3–6, 6–4 to win the gentlemen's doubles tennis title...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='20%25' x2='80%25' y2='90%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://www.thetimes.com/imageserver/image//91c311ae-53ab-4f69-a99e-dd75a6968ff1.jpg"
   },
 {
     "era": "modern",
@@ -1410,7 +1410,7 @@ const CHRONICLE_DATA = [
     "title": "Kevin Boroevich",
     "body": "Kevin Grant Boroevich (born 4 October 1960) is a former New Zealand rugby union player. A prop, Boroevich represented King Country, Wellington and North Harbour at a provincial level, and was a member of the New Zealand national side, the All Blac...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='30%25' x2='90%25' y2='95%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "http://www.sporting-heroes.net/content/thumbnails/00026/02480-zoom.jpg"
   },
 {
     "era": "modern",
@@ -1419,7 +1419,7 @@ const CHRONICLE_DATA = [
     "title": "Chibuzo",
     "body": "Chibuzo is a masculine given name. Notable people with the name include:  Alexander Chibuzo Ibezim (born 1962), Nigerian Anglician bishop Oluwaferanmi Joshua Chibuzo Oluwayemi (born 2001), English footballer",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='40%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://d2zqptb8jxxah9.cloudfront.net/names/written/braille/chibuzo-braille-name.png"
   },
 {
     "era": "modern",
@@ -1428,7 +1428,7 @@ const CHRONICLE_DATA = [
     "title": "Stronger Since The War",
     "body": "Stronger Since the War? is a 1964 Australian documentary film which examines the status of women in Japan following World War 2. It was created by the ABC as part of their contribution to Intertel (The International Television Federation). It was ...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='50%25' x2='110%25' y2='105%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/08/the-memory-of-justice.jpg"
   },
 {
     "era": "modern",
@@ -1437,7 +1437,7 @@ const CHRONICLE_DATA = [
     "title": "Robyn Mawdsley",
     "body": "Robyn Mawdsley (born 3 May 1971) is an Australian former professional tennis player.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='60%25' x2='120%25' y2='110%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://www.hawtcelebs.com/wp-content/uploads/2017/02/robyn-lawley-at-sports-illustrated-swimsuit-edition-launch-in-new-york-02-16-2017_1.jpg"
   },
 {
     "era": "modern",
@@ -1464,7 +1464,7 @@ const CHRONICLE_DATA = [
     "title": "Antony Jordan",
     "body": "Antony T. Jordan (born December 19, 1974) is an American former professional football player who played linebacker for the Indianapolis Colts and Atlanta Falcons. He was also a member of the Tampa Bay Buccaneers. He was selected in the fifth round...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='40%25' x2='80%25' y2='80%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/threads/antonyjordan1/profile_pic.jpg"
   },
 {
     "era": "modern",
@@ -1500,7 +1500,7 @@ const CHRONICLE_DATA = [
     "title": "Emma Crosby",
     "body": "Emma Catherine Crosby (born 5 June 1977) is a British television newsreader and journalist. Between 2003 and 2009, Crosby worked at Sky News, regularly co-presenting their breakfast programme Sunrise, along with various other programmes on the cha...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='30%25' x2='120%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://tvark.org/media/1998i/channel5/channel5_images/news/5news_emma_140211b.jpg"
   },
 {
     "era": "modern",
@@ -1545,7 +1545,7 @@ const CHRONICLE_DATA = [
     "title": "Titi Oyinsan",
     "body": "Titi Adelagun Oyinsan (born 10 August 1985), popularly known as TitiTheDynamite is a Nigerian television host, former model and Philanthropist.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='30%25' x2='100%25' y2='80%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://www.bellanaija.com/wp-content/uploads/2024/12/os4S0YKNHnohd.jpg"
   },
 {
     "era": "modern",
@@ -1581,7 +1581,7 @@ const CHRONICLE_DATA = [
     "title": "McCall's LPGA Classic",
     "body": "The McCall's LPGA Classic was a golf tournament on the LPGA Tour from 1990 to 1995. It was played at the Stratton Mountain Country Club in Stratton Mountain, Vermont.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='20%25' x2='70%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://blog.stratton.com/wp-content/uploads/2020/07/2015-10-07_ST_HS_Couple_FallGolf_3-1024x684.jpg"
   },
 {
     "era": "digital",
@@ -1590,7 +1590,7 @@ const CHRONICLE_DATA = [
     "title": "King Salmon (video game)",
     "body": "King Salmon: The Big Catch (キングサーモン) is a 1992 Sega Genesis/Mega Drive fishing video game that was developed by Hot-B and was released by Vic Tokai in North America. It was due for release in Europe by July, but the plan was cancelled.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='30%25' x2='80%25' y2='105%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://images.lukiegames.com/t_300e2/assets/images/gen_king_salmon_m.jpg"
   },
 {
     "era": "digital",
@@ -1599,7 +1599,7 @@ const CHRONICLE_DATA = [
     "title": "Dudu Zondo",
     "body": "Dudu Zondo (born 10 May 1994) is a South African professional cricketer. He made his Twenty20 debut for KwaZulu-Natal against Eastern Province in the 2016 Africa T20 Cup on 25 September 2016. He made his first-class debut for KwaZulu-Natal in the ...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='40%25' x2='90%25' y2='110%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/56px-Flag_of_South_Africa.svg.png"
   },
 {
     "era": "digital",
@@ -1608,7 +1608,7 @@ const CHRONICLE_DATA = [
     "title": "Kim Mourmans",
     "body": "Kim Mourmans (born 1 April 1995) is a Dutch footballer who plays as a midfielder for Beerse Boys. She has been a member of the Netherlands women's national team.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='50%25' x2='100%25' y2='115%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://s.hs-data.com/bilder/spieler/gross/222237.jpg"
   },
 {
     "era": "digital",
@@ -1626,7 +1626,7 @@ const CHRONICLE_DATA = [
     "title": "Raja Hindustani",
     "body": "Raja Hindustani (transl. Indian Raja) is a 1996 Indian Hindi-language romantic action film directed by Dharmesh Darshan. It tells the story of a cab driver from a small town who falls in love with a rich young woman. Aamir Khan and Karisma Kapoor ...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='20%25' x2='120%25' y2='80%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://a.ltrbxd.com/resized/film-poster/3/8/3/2/4/38324-raja-hindustani-0-460-0-690-crop.jpg"
   },
 {
     "era": "digital",
@@ -1635,7 +1635,7 @@ const CHRONICLE_DATA = [
     "title": "Bruce Seldon vs. Mike Tyson",
     "body": "Bruce Seldon vs. Mike Tyson, billed as Liberation, was a professional boxing match fought on September 7, 1996 for the WBA heavyweight championship. The fight was part of a pay-per-view event produced by Don King Productions and carried on pay-per...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='30%25' x2='130%25' y2='85%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://i.ebayimg.com/images/g/2~8AAOSwm1FlerQj/s-l1600.jpg"
   },
 {
     "era": "digital",
@@ -1653,7 +1653,7 @@ const CHRONICLE_DATA = [
     "title": "Ilex williamsii",
     "body": "Ilex williamsii is a species of plant in the family Aquifoliaceae. It is endemic to Honduras. It is a seldom-collected cloud forest species. The plant is critically endangered as of 1998.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='50%25' x2='80%25' y2='95%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://cdn.pixabay.com/photo/2019/02/08/20/42/ilex-3983948_1280.jpg"
   },
 {
     "era": "digital",
@@ -1662,7 +1662,7 @@ const CHRONICLE_DATA = [
     "title": "Saving Private Ryan (soundtrack)",
     "body": "Saving Private Ryan: Music from the Original Motion Picture Soundtrack is the soundtrack album for the 1998 film Saving Private Ryan, directed by Steven Spielberg. The album was produced by composer John Williams and distributed by DreamWorks Reco...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='60%25' x2='90%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51tEd48ec4L.jpg"
   },
 {
     "era": "digital",
@@ -1671,7 +1671,7 @@ const CHRONICLE_DATA = [
     "title": "The Tunnel (album)",
     "body": "The Tunnel is a collaborative album by American DJs Funkmaster Flex and Big Kap. It was released on December 7, 1999, via Def Jam Recordings. Recording sessions took place at Mirror Image Times Square, at Madison Square Garden, at Quad Recording S...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='20%25' x2='100%25' y2='105%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://cdn2.albumoftheyear.org/375x0/album/139549-the-tunnel.jpg"
   },
 {
     "era": "digital",
@@ -1680,7 +1680,7 @@ const CHRONICLE_DATA = [
     "title": "Roan Steele",
     "body": "Roan Steele (born 22 October 2001) is a professional Australian rules footballer who plays for the Collingwood Football Club in the Australian Football League (AFL).",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='30%25' x2='110%25' y2='110%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://forever-cdn.collingwoodfc.com.au/cfc-forever/wp-content/uploads/afl/images/RoanSteele.jpg"
   },
 {
     "era": "digital",
@@ -1689,7 +1689,7 @@ const CHRONICLE_DATA = [
     "title": "Federico Bonini",
     "body": "Federico Bonini (born 6 August 2001) is an Italian footballer who plays as a defender for Segunda División club UD Almería.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='40%25' x2='120%25' y2='115%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://cdn.sofifa.net/players/254/094/26_240.png"
   },
 {
     "era": "digital",
@@ -1716,7 +1716,7 @@ const CHRONICLE_DATA = [
     "title": "2004 South Florida Bulls football team",
     "body": "The 2004 South Florida Bulls football team represented the University of South Florida (USF) in the 2004 NCAA Division I-A football season. Their head coach was Jim Leavitt, and the USF Bulls played their home games at Raymond James Stadium in Tam...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='20%25' x2='80%25' y2='85%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1893053046592282624/pu/img/_K_TDO6y-3pJmJy5.jpg"
   },
 {
     "era": "digital",
@@ -1743,7 +1743,7 @@ const CHRONICLE_DATA = [
     "title": "InAlienable",
     "body": "InAlienable is a 2007 science fiction horror written and executive produced by Walter Koenig, and directed by Robert Dyke. It was the first collaboration of Koenig and Dyke since their 1989 production of Moontrap. Koenig said that \"the story reall...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='50%25' x2='110%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://a.ltrbxd.com/resized/film-poster/1/6/3/5/9/16359-inalienable-0-460-0-690-crop.jpg"
   },
 {
     "era": "digital",
@@ -1752,7 +1752,7 @@ const CHRONICLE_DATA = [
     "title": "Morton Independent School District",
     "body": "Morton Independent School District is a public school district based in Morton, Texas, United States. In 2009, the school district was rated \"academically acceptable\" by the Texas Education Agency.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='60%25' x2='120%25' y2='105%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://cmsv2-assets.apptegy.net/uploads/3570/logo/633/morton_m.png"
   },
 {
     "era": "digital",
@@ -1770,7 +1770,7 @@ const CHRONICLE_DATA = [
     "title": "2015 in Zimbabwe",
     "body": "The following lists events that happened in 2015 in Zimbabwe.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='30%25' x2='70%25' y2='115%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://media.ellerstrand.se/2015/01/2015_Zimbabwe.jpg"
   },
 {
     "era": "digital",
@@ -1788,7 +1788,7 @@ const CHRONICLE_DATA = [
     "title": "Made World Tour",
     "body": "The Made World Tour was the second worldwide concert tour and ninth overall by South Korean boy band Big Bang, in support of their third Korean-language studio album Made (2016). The tour began on April 25, 2015, and concluded on March 6, 2016, in...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='50%25' x2='90%25' y2='80%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://2.bp.blogspot.com/-KIv6zEiUaHY/Vb9xHCY-NJI/AAAAAAAAFto/iKv6TNbuUxk/s1600/IMG_2388.JPG"
   },
 {
     "era": "digital",
@@ -1797,7 +1797,7 @@ const CHRONICLE_DATA = [
     "title": "Mira lo que has hecho",
     "body": "Mira lo que has hecho (transl. 'Look What You've Done') is a Spanish comedy television series created by Berto Romero that originally aired from 2018 to 2020 on Movistar+. It stars Berto Romero and Eva Ugarte.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='60%25' x2='100%25' y2='85%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://static.next-episode.net/tv-shows-images/huge/mira-lo-que-has-hecho.jpg"
   },
 {
     "era": "digital",
@@ -1806,7 +1806,7 @@ const CHRONICLE_DATA = [
     "title": "COVID-19 pandemic in Hungary",
     "body": "The COVID-19 pandemic in Hungary was a part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). On 4 March 2020, the first cases in Hungary were announced. The fi...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='20%25' x2='110%25' y2='90%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://as1.ftcdn.net/v2/jpg/03/66/37/90/1000_F_366379076_cH8eMafbB6bpVCZLOj49JVlfpM2AN4Sp.jpg"
   },
 {
     "era": "digital",
@@ -1833,7 +1833,7 @@ const CHRONICLE_DATA = [
     "title": "2022 Emilia-Romagna Open – Women's doubles",
     "body": "Anastasia Dețiuc and Miriam Kolodziejová defeated Arantxa Rus and Tamara Zidanšek in the final, 1–6, 6–3, [10–8] to win the women's doubles tennis title at the 2022 Emilia-Romagna Open. This was both players' first WTA Tour doubles title. Coco Gau...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='50%25' x2='70%25' y2='105%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://photoresources.wtatennis.com/photo-resources/2025/06/08/978d8376-8f7d-46ac-9bf8-b5b64489d416/GettyImages-2219153477.jpg"
   },
 {
     "era": "digital",
@@ -1842,7 +1842,7 @@ const CHRONICLE_DATA = [
     "title": "2022 FINA World Swimming Championships (25 m) – Women's 100 metre butterfly",
     "body": "The Women's 100 metre butterfly competition of the 2022 FINA World Swimming Championships (25 m) was held on 17 and 18 December 2022.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='60%25' x2='80%25' y2='110%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://resources.fina.org/photo-resources/2022/06/25/d22dcb09-2bea-41a5-ae7b-06385a7f5a52/VyxPFCLQ.jpg"
   },
 {
     "era": "digital",
@@ -1851,7 +1851,7 @@ const CHRONICLE_DATA = [
     "title": "The Equalizer 3 (soundtrack)",
     "body": "The Equalizer 3 (Original Motion Picture Soundtrack) is the soundtrack to the 2023 film The Equalizer 3, the third instalment in The Equalizer franchise. The score featuring original music composed by Marcelo Zarvos released coinciding with the fi...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='20%25' x2='90%25' y2='115%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://soundtracktracklist.com/wp-content/uploads/2022/05/The-Equalizer-film.jpeg"
   },
 {
     "era": "digital",
@@ -1860,6 +1860,6 @@ const CHRONICLE_DATA = [
     "title": "2025 BWF World Championships qualification",
     "body": "This is the list of entries for the 2025 BWF World Championships qualification.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='30%25' x2='100%25' y2='120%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://badmintonworldtour.com/wp-content/uploads/2025/05/25_tpeopen_1a81960b765c0a7de102906fbb167c7a-585x370.jpg"
   }
 ];
