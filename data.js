@@ -1194,7 +1194,7 @@ const CHRONICLE_DATA = [
     "title": "Romildo",
     "body": "Romildo is a given name. Notable people with the name include:  Romildo Etcheverry (1906–1967), Paraguayan footballer Romildo Ribeiro Soares (born 1947), Brazilian televangelist and missionary Romildo (footballer, born 1973), Romildo Santos Rosa, ...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='40%25' x2='130%25' y2='110%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Romildo_Risso.jpg"
   },
 {
     "era": "modern",
@@ -1761,7 +1761,7 @@ const CHRONICLE_DATA = [
     "title": "2009 Carlow County Council election",
     "body": "An election to Carlow County Council took place on 5 June 2009 as part of that year's Irish local elections. 21 councillors were elected from five local electoral areas (LEAs) for a five-year term of office on the electoral system of proportional ...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='20%25' x2='130%25' y2='110%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Carlow_in_Ireland.svg"
   },
 {
     "era": "digital",
