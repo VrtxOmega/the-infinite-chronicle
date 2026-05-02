@@ -1005,7 +1005,7 @@ const CHRONICLE_DATA = [
     "title": "William Romney",
     "body": "Sir William Romney (died 25 April 1611) was an English merchant. He was governor of the East India Company and took part in other ventures to develop English interests in overseas trade.",
     "connection": "A notable fragment of the Enlightenment Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='30%25' x2='130%25' y2='95%25'%3E%3Cstop offset='0%25' stop-color='rgba(245,230,184,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(245,230,184,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/George_Romney_-_William_Shakespeare_-_The_Tempest_Act_I%2C_Scene_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
 {
     "era": "enlightenment",
@@ -1023,7 +1023,7 @@ const CHRONICLE_DATA = [
     "title": "Cockcroft v Smith",
     "body": "Cockcroft v Smith (1705) 11 Mod 43 is an English tort law case. It concerned the definition of legitimate self defence.",
     "connection": "A notable fragment of the Enlightenment Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='50%25' x2='80%25' y2='105%25'%3E%3Cstop offset='0%25' stop-color='rgba(245,230,184,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(245,230,184,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Activation_analysis-_Cockcroft-Walton_generator_nuclear_reactor%2C_LINAC_July_1966_through_June_1967._%28IA_activationanalys428devo%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
 {
     "era": "enlightenment",
@@ -1032,7 +1032,7 @@ const CHRONICLE_DATA = [
     "title": "Benjamin Rush (disambiguation)",
     "body": "Benjamin Rush (1746–1813) was an American revolutionary and a Founding Father of the United States. Benjamin Rush may also refer to  Benjamin Rush (lawyer) (1811–1877), American lawyer and writer Benjamin Rush, a character in 13 Ghosts USRC Benjam...",
     "connection": "A notable fragment of the Enlightenment Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='60%25' x2='90%25' y2='110%25'%3E%3Cstop offset='0%25' stop-color='rgba(245,230,184,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(245,230,184,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Benjamin_Rush_Painting_by_Peale_1783%2C_cropped.webp"
   },
 {
     "era": "industrial",
@@ -1077,7 +1077,7 @@ const CHRONICLE_DATA = [
     "title": "Astrea",
     "body": "Astrea may refer to:  Astrea, an alternate spelling of the ancient Greek goddess Astraea Alternate spelling of 5 Astraea, an asteroid discovered in 1845 Astrea: Six-Sided Oracles, a 2023 video game Astrea, Cesar, a municipality in the department o...",
     "connection": "A notable fragment of the Industrial Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='60%25' x2='70%25' y2='90%25'%3E%3Cstop offset='0%25' stop-color='rgba(160,160,160,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(160,160,160,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Aphra_Behn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
 {
     "era": "industrial",
@@ -1203,7 +1203,7 @@ const CHRONICLE_DATA = [
     "title": "Virginia Lee Burton",
     "body": "Virginia Lee Burton (August 30, 1909 – October 15, 1968), also known by her married name Virginia Demetrios, was an American illustrator and children's book author. She wrote and illustrated seven children's books, including Mike Mulligan and His ...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='50%25' x2='70%25' y2='115%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tom_Sawyer_1876_frontispiece.jpg"
   },
 {
     "era": "modern",
@@ -1212,7 +1212,7 @@ const CHRONICLE_DATA = [
     "title": "Xing Rongjie",
     "body": "Xing Rongjie (Chinese: 邢荣杰; pinyin: Xing Rongjie; 1911 – 20 November 1997) was a Chinese military officer. He was the army Founding General in China.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='60%25' x2='80%25' y2='120%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Chiang_Kai-shek.jpg"
   },
 {
     "era": "modern",
@@ -1230,7 +1230,7 @@ const CHRONICLE_DATA = [
     "title": "Joseph Wheeler (musicologist)",
     "body": "Joseph Hugh Wheeler (1927 – 11 October 1977) was a British musician and musicologist. A civil servant by profession, Wheeler's most famous work was his realisation of Gustav Mahler's Tenth Symphony which he began in 1952 and took him some thirteen...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='30%25' x2='100%25' y2='85%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/1730_New_Hampshire_Avenue_NW.JPG"
   },
 {
     "era": "modern",
@@ -1392,7 +1392,7 @@ const CHRONICLE_DATA = [
     "title": "Two Pennies Worth of Violets",
     "body": "Two Pennies Worth of Violets (French: Deux sous de violettes) is a 1951 French drama film directed by Jean Anouilh and starring Dany Robin, Georges Baconnet and Madeleine Barbulée. It was one of two films directed by the dramatist Anouilh along wi...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='60%25' x2='70%25' y2='85%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Two_Pennies_Worth_of_Violets.jpg"
   },
 {
     "era": "modern",
