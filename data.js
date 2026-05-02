@@ -1,5 +1,5 @@
 const CHRONICLE_DATA = [
-  {
+{
     "era": "cosmic",
     "year": -13800000000,
     "domain": "space",
@@ -8,25 +8,25 @@ const CHRONICLE_DATA = [
     "connection": "For 380,000 years, the universe was a blinding fog of plasma. Then it cooled enough for atoms to form, and light was finally free to travel. That ancient light is still arriving — we call it the Cosmic Microwave Background, and it's the oldest photograph in existence.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg"
   },
-  {
+{
     "era": "cosmic",
     "year": -13400000000,
     "domain": "space",
     "title": "The First Stars Ignite",
     "body": "The cosmic dark ages ended when gravity pulled hydrogen clouds into fusion furnaces — Population III stars, hundreds of times more massive than our Sun. They burned fast and died violently, seeding the void with heavier elements like carbon, oxygen, and iron.",
     "connection": "Every atom of carbon in your body was forged inside a star that died before our Sun was born. You are, literally, stardust with a postal address.",
-    "image": "assets/img_space_1777628517848.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/NGC_3372a-full.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
-  {
+{
     "era": "cosmic",
     "year": -13000000000,
     "domain": "space",
     "title": "The First Galaxies Assemble",
     "body": "Gravity gathered the debris of dead stars into rotating disks. The first galaxies were small, chaotic, and violent — colliding and merging over billions of years. Our own Milky Way is a cannibal, having absorbed dozens of smaller galaxies.",
     "connection": "The Milky Way is currently devouring the Sagittarius Dwarf Galaxy. In 4.5 billion years, it will collide with Andromeda. The night sky will never look the same — but no one on Earth will be around to notice.",
-    "image": "assets/img_space_1777628517848.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Assembling_the_largest_galaxies_%28potw2429a%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
-  {
+{
     "era": "cosmic",
     "year": -4600000000,
     "domain": "space",
@@ -35,7 +35,7 @@ const CHRONICLE_DATA = [
     "connection": "The young Earth was a hellscape of molten rock and meteor bombardment. But something extraordinary was about to happen in its boiling oceans.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/The_Mysterious_Case_of_the_Disappearing_Dust.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -4500000000,
     "domain": "space",
@@ -44,16 +44,16 @@ const CHRONICLE_DATA = [
     "connection": "Without the Moon, Earth's axial tilt would wobble chaotically. Seasons would be unpredictable. The tides that may have driven the chemistry of early life would never have existed. We owe our existence to a planetary car crash.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_65_%28Canto_XXXI_-_The_Titans%29.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -3800000000,
     "domain": "science",
     "title": "Life Begins",
     "body": "In the scalding waters of hydrothermal vents, complex molecules began to self-replicate. The first living cells — simple, alien, and impossibly tenacious — emerged from chemistry and became biology. Life was fragile, microscopic, and utterly unstoppable.",
     "connection": "For three billion years, life remained single-celled. Then, in an event so unlikely it may have only happened once in all of cosmic history, one cell swallowed another — and they cooperated. That partnership became every complex organism alive today.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Life_Begins_1941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
-  {
+{
     "era": "primordial",
     "year": -2400000000,
     "domain": "science",
@@ -62,25 +62,25 @@ const CHRONICLE_DATA = [
     "connection": "The oxygen that nearly destroyed all life eventually became the fuel for complex organisms. Every breath you take is powered by a metabolic pathway that evolved to survive a planetary pollution crisis.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Precambrian_Evolution_of_Life.png"
   },
-  {
+{
     "era": "primordial",
     "year": -541000000,
     "domain": "science",
     "title": "The Cambrian Explosion",
     "body": "In a geological eyeblink — just 25 million years — life went from simple worms to an insane carnival of forms: eyes, shells, claws, spines. Every major animal body plan that exists today appeared in this single burst of evolutionary creativity.",
     "connection": "Among the bizarre creatures of the Cambrian seas was a tiny, worm-like thing with a primitive spinal cord. It didn't look like much. It was your ancestor.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Key-events_Cambrian_explosion_Paterson_et_al%282018%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
-  {
+{
     "era": "primordial",
     "year": -230000000,
     "domain": "science",
     "title": "Dawn of the Dinosaurs",
     "body": "The first true dinosaurs appear during the late Triassic period. Initially small and bipedal, these early reptiles quickly diversify into a staggering array of forms, taking advantage of ecological niches left vacant by earlier mass extinctions.",
     "connection": "A foundational moment in Earth's history, sparking a reign that would last over 160 million years.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ice_Age_Dawn_of_the_Dinosaurs_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
-  {
+{
     "era": "ancient",
     "year": -66000000,
     "domain": "science",
@@ -89,7 +89,7 @@ const CHRONICLE_DATA = [
     "connection": "In the ash and silence that followed, small, furry, nocturnal creatures crept out of their burrows. The mammals inherited a shattered world — and remade it.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Inner_solar_system_objects_top_view_for_wiki.png"
   },
-  {
+{
     "era": "ancient",
     "year": -300000,
     "domain": "science",
@@ -98,7 +98,7 @@ const CHRONICLE_DATA = [
     "connection": "For 200,000 years, these clever apes lived in small bands, painting cave walls and burying their dead. Then, around 12,000 years ago, someone planted a seed on purpose — and everything changed.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Members_of_Genus_Homo.png"
   },
-  {
+{
     "era": "ancient",
     "year": -40000,
     "domain": "art",
@@ -107,7 +107,7 @@ const CHRONICLE_DATA = [
     "connection": "Art didn't begin as decoration. It began as communication with forces beyond understanding. The same impulse that drove a Paleolithic hand to paint a horse drives a programmer to write elegant code.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": -3100,
     "domain": "history",
@@ -116,7 +116,7 @@ const CHRONICLE_DATA = [
     "connection": "Once you could write things down, you could accumulate knowledge across generations. Laws, stories, astronomical records — all suddenly survivable beyond a single human lifetime.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG"
   },
-  {
+{
     "era": "ancient",
     "year": -2560,
     "domain": "art",
@@ -125,7 +125,7 @@ const CHRONICLE_DATA = [
     "connection": "While Khufu's architects were calculating stone angles to within fractions of a degree, astronomers in the same civilization were mapping stars that wouldn't be cataloged in Europe for another three millennia.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": -1754,
     "domain": "history",
@@ -134,7 +134,7 @@ const CHRONICLE_DATA = [
     "connection": "The idea that law should be written, public, and consistent was so radical that it would take another 3,500 years before most of humanity actually achieved it.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG"
   },
-  {
+{
     "era": "classical",
     "year": -470,
     "domain": "art",
@@ -143,7 +143,7 @@ const CHRONICLE_DATA = [
     "connection": "Athens proved that a small population with free inquiry could reshape the entire trajectory of human thought. But the experiment was fragile — within a generation, war and plague would nearly destroy it.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/2006_01_21_Ath%C3%A8nes_Parth%C3%A9non.JPG"
   },
-  {
+{
     "era": "classical",
     "year": -331,
     "domain": "history",
@@ -152,7 +152,7 @@ const CHRONICLE_DATA = [
     "connection": "Alexander's empire shattered upon his death, but the cultural fusion it created — Hellenism — mixed Greek, Persian, Egyptian, and Indian ideas into a new civilization that would influence every culture it touched.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alexander_the_Great_mosaic.jpg"
   },
-  {
+{
     "era": "classical",
     "year": -221,
     "domain": "history",
@@ -161,7 +161,7 @@ const CHRONICLE_DATA = [
     "connection": "On opposite sides of the planet, Rome and China were independently building continental-scale empires at almost exactly the same time — without knowing the other existed.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/QinShiHuang19century.jpg"
   },
-  {
+{
     "era": "classical",
     "year": -44,
     "domain": "history",
@@ -170,7 +170,7 @@ const CHRONICLE_DATA = [
     "connection": "The Roman Republic died so that the Roman Empire could be born — a transformation that would shape the political imagination of every Western civilization that followed.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vincenzo_Camuccini_-_La_morte_di_Cesare_%28cropped_3-2%29.jpg"
   },
-  {
+{
     "era": "classical",
     "year": 105,
     "domain": "science",
@@ -179,16 +179,16 @@ const CHRONICLE_DATA = [
     "connection": "Paper traveled west along the Silk Road, reaching the Islamic world by the 8th century. Arab scholars used it to preserve Greek philosophy that Europe had already forgotten.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Making_Paper.gif"
   },
-  {
+{
     "era": "medieval",
     "year": 622,
     "domain": "history",
     "title": "The Hijra — Islam's Calendar Begins",
     "body": "Muhammad's migration from Mecca to Medina established the first Islamic community and marks Year One of the Islamic calendar. Within a century, the resulting civilization would stretch from Spain to Central Asia, preserving and advancing mathematics, astronomy, medicine, and philosophy while Europe slept.",
     "connection": "The House of Wisdom in Baghdad translated Aristotle, Galen, and Ptolemy into Arabic. Centuries later, European scholars would re-discover Greek philosophy — through Arabic translations.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/A_standard_Islamic_%26_Lunar_Calendar_%28_A_recent_Suggestion%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
-  {
+{
     "era": "medieval",
     "year": 1054,
     "domain": "space",
@@ -197,7 +197,7 @@ const CHRONICLE_DATA = [
     "connection": "While astronomers watched a star die, the Christian and Islamic worlds were locked in a struggle that would define the next millennium. The supernova didn't care about borders.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg"
   },
-  {
+{
     "era": "medieval",
     "year": 1206,
     "domain": "history",
@@ -206,16 +206,16 @@ const CHRONICLE_DATA = [
     "connection": "The Mongol postal system (Yam) could deliver a message 300 km per day — faster than any communication network until the telegraph, 600 years later.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg"
   },
-  {
+{
     "era": "medieval",
     "year": 1347,
     "domain": "history",
     "title": "The Black Death Arrives in Europe",
     "body": "Carried by fleas on rats aboard Genoese trading ships from Crimea, Yersinia pestis killed 75–200 million people in Eurasia — up to 60% of Europe's population. Entire villages were emptied. The social order shattered.",
     "connection": "The plague's devastation created an acute labor shortage. Surviving peasants could suddenly demand higher wages. Feudalism began to crack — and from those cracks, the Renaissance would grow.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Black_Death_in_the_fourteenth_century_%28IA_blackdeathinfour00heck%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
-  {
+{
     "era": "renaissance",
     "year": 1440,
     "domain": "art",
@@ -224,7 +224,7 @@ const CHRONICLE_DATA = [
     "connection": "Within 50 years, 20 million books existed in Europe. Literacy exploded. Martin Luther's 95 Theses went viral in weeks. The printing press didn't just spread ideas — it made censorship almost impossible.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/PrintMus_038.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": 1492,
     "domain": "history",
@@ -233,7 +233,7 @@ const CHRONICLE_DATA = [
     "connection": "The Columbian Exchange that followed reshaped global biology: tomatoes to Italy, potatoes to Ireland, horses to the Plains, smallpox to everywhere. The world's ecosystems would never separate again.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": 1504,
     "domain": "art",
@@ -242,7 +242,7 @@ const CHRONICLE_DATA = [
     "connection": "Michelangelo saw the sculpture already inside the stone and merely removed what didn't belong. Four years later, he would lie on his back for four years painting the Sistine Chapel ceiling — complaining about it the entire time.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": 1543,
     "domain": "science",
@@ -251,7 +251,7 @@ const CHRONICLE_DATA = [
     "connection": "Copernicus didn't just move the Earth. He demonstrated that the universe doesn't care about human intuition. What feels true and what is true are often completely different things.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De_revolutionibus_1543.png"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1609,
     "domain": "space",
@@ -260,7 +260,7 @@ const CHRONICLE_DATA = [
     "connection": "Galileo's observations didn't just change astronomy — they demonstrated that direct observation could overturn centuries of authority. The scientific method was being born, one heresy at a time.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1687,
     "domain": "science",
@@ -269,7 +269,7 @@ const CHRONICLE_DATA = [
     "connection": "Newton famously said he stood on the shoulders of giants. What he didn't mention was that he invented calculus to solve his own problems, then barely told anyone about it for decades.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Newton%27s_Principia_title_page.png"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1776,
     "domain": "history",
@@ -278,7 +278,7 @@ const CHRONICLE_DATA = [
     "connection": "The same year, Adam Smith published The Wealth of Nations. In the span of twelve months, the modern concepts of political freedom and free-market economics were both launched into the world.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/United_States_Declaration_of_Independence.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1791,
     "domain": "art",
@@ -287,7 +287,7 @@ const CHRONICLE_DATA = [
     "connection": "Mozart's music encoded mathematical structures that wouldn't be formally described for another century. His compositions are used today to study pattern recognition in artificial intelligence. The dead composer is teaching machines to think.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/K626_Requiem_Mozart.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1831,
     "domain": "science",
@@ -296,7 +296,7 @@ const CHRONICLE_DATA = [
     "connection": "Faraday couldn't do the math to describe his own discovery. James Clerk Maxwell later translated Faraday's intuition into four equations so beautiful they're tattooed on physicists' arms.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Electromagnetic_induction_-_solenoid_to_loop_-_animation.gif"
   },
-  {
+{
     "era": "industrial",
     "year": 1859,
     "domain": "science",
@@ -305,7 +305,7 @@ const CHRONICLE_DATA = [
     "connection": "Darwin delayed publication partly because he feared the social consequences. He was right to worry — the idea that humans weren't specially created would shake every institution on Earth.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Origin_of_Species_title_page.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1865,
     "domain": "weird",
@@ -314,7 +314,7 @@ const CHRONICLE_DATA = [
     "connection": "Coincidence is the universe's way of remaining anonymous. These parallels are statistically meaningless — but they feel meaningful, and that gap between statistics and feeling is where all good stories live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Robert_F._Kennedy.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1869,
     "domain": "science",
@@ -323,7 +323,7 @@ const CHRONICLE_DATA = [
     "connection": "Mendeleev's table was a map of reality's building blocks. A century later, particle physicists would find that even atoms weren't fundamental — they were made of quarks, held together by gluons, in a quantum dance no one fully understands.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dmitri_Mendeleev.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1876,
     "domain": "science",
@@ -332,7 +332,7 @@ const CHRONICLE_DATA = [
     "connection": "Every modern communication technology — radio, television, internet, smartphones — is a descendant of Bell's vibrating membrane. He started by trying to build a better hearing aid for his deaf wife.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bell_System_hires_1889_logo.PNG"
   },
-  {
+{
     "era": "modern",
     "year": 1905,
     "domain": "science",
@@ -341,7 +341,7 @@ const CHRONICLE_DATA = [
     "connection": "Special relativity revealed that time itself is elastic — it stretches and compresses depending on your speed. A GPS satellite experiences time differently than your phone. Without Einstein's correction, your map would drift 10 km per day.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Albert_Einstein_Head_cleaned.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1928,
     "domain": "science",
@@ -350,7 +350,7 @@ const CHRONICLE_DATA = [
     "connection": "Fleming's discovery was an accident. So was the discovery of X-rays, microwave ovens, and Viagra. Some of humanity's greatest advances came from paying attention when things went wrong.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1945,
     "domain": "history",
@@ -359,16 +359,16 @@ const CHRONICLE_DATA = [
     "connection": "Three weeks later, Hiroshima. Three days after that, Nagasaki. The same physics that explained starlight could now vaporize a city. Knowledge, it turned out, was neither good nor evil — only powerful.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Trinity_shot_color.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1953,
     "domain": "science",
     "title": "Watson and Crick Crack DNA's Structure",
     "body": "Using Rosalind Franklin's X-ray crystallography data (without her knowledge), James Watson and Francis Crick built a model of DNA's double helix — the molecule that encodes all life on Earth. The paper was 900 words long. Franklin died of cancer at 37, likely from radiation exposure during her research.",
     "connection": "The structure of DNA revealed that life is, at its core, an information storage system — a four-letter code running on molecular hardware. Biology had become computer science, 50 years before anyone realized it.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Crick%27s_reference_to_the_race_to_solve_the_mystery_of_DNA_Wellcome_L0073417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
-  {
+{
     "era": "modern",
     "year": 1969,
     "domain": "space",
@@ -377,7 +377,7 @@ const CHRONICLE_DATA = [
     "connection": "The Apollo guidance computer ran at 0.043 MHz. The phone in your pocket runs at roughly 3,000 MHz. We went to the Moon with less computing power than a singing birthday card.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1990,
     "domain": "space",
@@ -386,7 +386,7 @@ const CHRONICLE_DATA = [
     "connection": "The Pale Blue Dot image contains no scientific data. It is pure perspective. And perspective, it turns out, might be the most valuable thing science can offer.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png"
   },
-  {
+{
     "era": "digital",
     "year": 1991,
     "domain": "science",
@@ -395,7 +395,7 @@ const CHRONICLE_DATA = [
     "connection": "The web connected 3 billion minds within 25 years. It democratized knowledge, toppled governments, enabled global commerce, and also created cat videos. Every revolution has its side effects.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chrome_on_Linux.png"
   },
-  {
+{
     "era": "digital",
     "year": 1995,
     "domain": "space",
@@ -404,7 +404,7 @@ const CHRONICLE_DATA = [
     "connection": "Every direction you look contains billions of galaxies. Every galaxy contains billions of stars. And around many of those stars, planets are forming right now. The universe is not mostly empty — it's mostly undiscovered.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/HubbleDeepField.800px.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2003,
     "domain": "science",
@@ -413,7 +413,7 @@ const CHRONICLE_DATA = [
     "connection": "Your DNA is 99.9% identical to every other human alive. The remaining 0.1% accounts for all the variation you see — skin color, height, disease risk, whether cilantro tastes like soap. Identity is built on a razor's edge of difference.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Human_karyotype_with_bands_and_sub-bands.png"
   },
-  {
+{
     "era": "digital",
     "year": 2012,
     "domain": "science",
@@ -422,7 +422,7 @@ const CHRONICLE_DATA = [
     "connection": "Peter Higgs predicted this particle in 1964 on a walk in the Scottish Highlands. He was so unsure of his idea that he almost didn't publish the paper. The universe needed him to be braver than he felt.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png"
   },
-  {
+{
     "era": "digital",
     "year": 2015,
     "domain": "space",
@@ -431,7 +431,7 @@ const CHRONICLE_DATA = [
     "connection": "We can now listen to the universe, not just look at it. Gravitational wave astronomy opened an entirely new sense — like a species born blind suddenly gaining sight.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/LLO_Control_Room.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2019,
     "domain": "space",
@@ -440,7 +440,7 @@ const CHRONICLE_DATA = [
     "connection": "You are looking at a region where spacetime curves so severely that the future points inward. Nothing — not light, not information, not time itself — escapes. And yet we photographed it from 55 million light-years away.",
     "image": "assets/img_space_1777628517848.png"
   },
-  {
+{
     "era": "digital",
     "year": 2022,
     "domain": "space",
@@ -449,7 +449,7 @@ const CHRONICLE_DATA = [
     "connection": "Webb didn't just confirm our models of the universe. It broke them. The galaxies forming just 300 million years after the Big Bang were far too mature. Cosmology is being rewritten in real time.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png"
   },
-  {
+{
     "era": "digital",
     "year": 2024,
     "domain": "weird",
@@ -458,7 +458,7 @@ const CHRONICLE_DATA = [
     "connection": "Every technology is a mirror. Writing externalized memory. The printing press externalized distribution. The internet externalized connection. AI externalizes cognition. What's left that's uniquely human? Maybe just the question itself.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "cosmic",
     "year": "13.7B BCE",
     "domain": "space",
@@ -467,7 +467,7 @@ const CHRONICLE_DATA = [
     "connection": "A whisper of creation.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cosmic_Microwave_Background_%28CMB%29.jpeg"
   },
-  {
+{
     "era": "cosmic",
     "year": "13.2B BCE",
     "domain": "space",
@@ -476,7 +476,7 @@ const CHRONICLE_DATA = [
     "connection": "The first lights in the dark.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Distant_galaxy_GN-z11_in_GOODS-N_image_by_HST.jpg"
   },
-  {
+{
     "era": "cosmic",
     "year": "12B BCE",
     "domain": "weird",
@@ -485,7 +485,7 @@ const CHRONICLE_DATA = [
     "connection": "An unseen force steering our fate.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Gran_Atractor.jpg"
   },
-  {
+{
     "era": "cosmic",
     "year": "4.6B BCE",
     "domain": "science",
@@ -494,7 +494,7 @@ const CHRONICLE_DATA = [
     "connection": "The birth of our local light.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/The_Mysterious_Case_of_the_Disappearing_Dust.jpg"
   },
-  {
+{
     "era": "cosmic",
     "year": "4.5B BCE",
     "domain": "history",
@@ -503,7 +503,7 @@ const CHRONICLE_DATA = [
     "connection": "Violence creating a companion.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Artist%27s_concept_of_collision_at_HD_172555.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": "4.1B BCE",
     "domain": "science",
@@ -512,7 +512,7 @@ const CHRONICLE_DATA = [
     "connection": "The scars remain on the Moon.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Precambrian_Evolution_of_Life.png"
   },
-  {
+{
     "era": "primordial",
     "year": "3.8B BCE",
     "domain": "science",
@@ -521,7 +521,7 @@ const CHRONICLE_DATA = [
     "connection": "The cradle of all known life.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pacific_Ocean_as_viewed_from_GOES-18_on_September_23%2C_2023.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": "3.5B BCE",
     "domain": "science",
@@ -530,7 +530,7 @@ const CHRONICLE_DATA = [
     "connection": "The breath that changed the world.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/CSIRO_ScienceImage_4203_A_bluegreen_algae_species_Cylindrospermum_sp_under_magnification.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": "2.4B BCE",
     "domain": "weird",
@@ -539,7 +539,7 @@ const CHRONICLE_DATA = [
     "connection": "A toxic dawn for early microbes.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Precambrian_Evolution_of_Life.png"
   },
-  {
+{
     "era": "primordial",
     "year": "600M BCE",
     "domain": "history",
@@ -548,7 +548,7 @@ const CHRONICLE_DATA = [
     "connection": "A frozen pause before the explosion of life.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Snowball_Huronian.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": "540M BCE",
     "domain": "science",
@@ -557,7 +557,7 @@ const CHRONICLE_DATA = [
     "connection": "Life finds a myriad of ways.",
     "image": "assets/img_science_1777628546990.png"
   },
-  {
+{
     "era": "ancient",
     "year": "252M BCE",
     "domain": "weird",
@@ -566,7 +566,7 @@ const CHRONICLE_DATA = [
     "connection": "The closest life came to total annihilation.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "ancient",
     "year": "66M BCE",
     "domain": "space",
@@ -575,7 +575,7 @@ const CHRONICLE_DATA = [
     "connection": "Fire from the sky reset the biological clock.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Yucatan_chix_crater.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": "30,000 BCE",
     "domain": "art",
@@ -584,7 +584,7 @@ const CHRONICLE_DATA = [
     "connection": "Humanity begins to record its vision.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Paintings_from_the_Chauvet_cave_%28museum_replica%29.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": "3,200 BCE",
     "domain": "history",
@@ -593,7 +593,7 @@ const CHRONICLE_DATA = [
     "connection": "History begins to be recorded in clay.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Xerxes_Cuneiform_Van.JPG"
   },
-  {
+{
     "era": "classical",
     "year": "2560 BCE",
     "domain": "history",
@@ -602,7 +602,7 @@ const CHRONICLE_DATA = [
     "connection": "Monuments to outlast time.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg"
   },
-  {
+{
     "era": "classical",
     "year": "1600 BCE",
     "domain": "weird",
@@ -611,7 +611,7 @@ const CHRONICLE_DATA = [
     "connection": "Early humans looking up in wonder.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nebra_disc_1.jpg"
   },
-  {
+{
     "era": "classical",
     "year": "1200 BCE",
     "domain": "history",
@@ -620,7 +620,7 @@ const CHRONICLE_DATA = [
     "connection": "The first great dark age.",
     "image": "assets/img_history_1777628532063.png"
   },
-  {
+{
     "era": "classical",
     "year": "400 BCE",
     "domain": "science",
@@ -629,7 +629,7 @@ const CHRONICLE_DATA = [
     "connection": "A philosophical guess that proved profoundly true.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Unknown_greek_pushkin.jpg"
   },
-  {
+{
     "era": "classical",
     "year": "87 BCE",
     "domain": "weird",
@@ -638,7 +638,7 @@ const CHRONICLE_DATA = [
     "connection": "Lost technology of the ancient world.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Antikythera_Fragment_A_%28Front%29.webp"
   },
-  {
+{
     "era": "medieval",
     "year": "800 CE",
     "domain": "art",
@@ -647,7 +647,7 @@ const CHRONICLE_DATA = [
     "connection": "Preserving knowledge through artistry.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/KellsFol032vChristEnthroned.jpg"
   },
-  {
+{
     "era": "medieval",
     "year": "1054 CE",
     "domain": "space",
@@ -656,7 +656,7 @@ const CHRONICLE_DATA = [
     "connection": "A new star blazes and fades.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg"
   },
-  {
+{
     "era": "medieval",
     "year": "1347 CE",
     "domain": "history",
@@ -665,7 +665,7 @@ const CHRONICLE_DATA = [
     "connection": "A biological reset of human society.",
     "image": "assets/img_history_1777628532063.png"
   },
-  {
+{
     "era": "medieval",
     "year": "1438 CE",
     "domain": "history",
@@ -674,7 +674,7 @@ const CHRONICLE_DATA = [
     "connection": "A rapid rise to imperial dominance.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Montaje_2_conquista_del_Peru.png"
   },
-  {
+{
     "era": "medieval",
     "year": "1440 CE",
     "domain": "science",
@@ -683,7 +683,7 @@ const CHRONICLE_DATA = [
     "connection": "The mass distribution of thought begins.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/PrintMus_038.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1504 CE",
     "domain": "art",
@@ -692,7 +692,7 @@ const CHRONICLE_DATA = [
     "connection": "Humanity elevating itself through marble.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1543 CE",
     "domain": "science",
@@ -701,7 +701,7 @@ const CHRONICLE_DATA = [
     "connection": "A profound shift in our place in the universe.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Copernican_heliocentrism_diagram-2.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1572 CE",
     "domain": "space",
@@ -710,7 +710,7 @@ const CHRONICLE_DATA = [
     "connection": "Shattering the crystalline spheres.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tycho-supernova-xray.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1609 CE",
     "domain": "space",
@@ -719,7 +719,7 @@ const CHRONICLE_DATA = [
     "connection": "A closer look at our celestial neighbor.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Zeiss2.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1665 CE",
     "domain": "science",
@@ -728,7 +728,7 @@ const CHRONICLE_DATA = [
     "connection": "The building blocks of life are revealed.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HeLa_cells_stained_with_Hoechst_33258.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1687 CE",
     "domain": "science",
@@ -737,7 +737,7 @@ const CHRONICLE_DATA = [
     "connection": "The universe follows predictable rules.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Russell%2C_Whitehead_-_Principia_Mathematica_to_56.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1752 CE",
     "domain": "weird",
@@ -746,7 +746,7 @@ const CHRONICLE_DATA = [
     "connection": "Taming the fire from the sky.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1781 CE",
     "domain": "space",
@@ -755,7 +755,7 @@ const CHRONICLE_DATA = [
     "connection": "The solar system expands its borders.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1789 CE",
     "domain": "history",
@@ -764,7 +764,7 @@ const CHRONICLE_DATA = [
     "connection": "The dawn of modern democratic ideals.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Anonymous_-_Prise_de_la_Bastille.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1799 CE",
     "domain": "history",
@@ -773,7 +773,7 @@ const CHRONICLE_DATA = [
     "connection": "A key to unlock ancient voices.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG"
   },
-  {
+{
     "era": "industrial",
     "year": "1804 CE",
     "domain": "history",
@@ -782,7 +782,7 @@ const CHRONICLE_DATA = [
     "connection": "The acceleration of human transit.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Number_4468_Mallard_in_York.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": "1859 CE",
     "domain": "weird",
@@ -791,7 +791,7 @@ const CHRONICLE_DATA = [
     "connection": "The Sun flexes its magnetic muscle.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg"
   },
-  {
+{
     "era": "industrial",
     "year": "1888 CE",
     "domain": "art",
@@ -800,7 +800,7 @@ const CHRONICLE_DATA = [
     "connection": "A tortured mind captures the cosmos.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": "1895 CE",
     "domain": "science",
@@ -809,7 +809,7 @@ const CHRONICLE_DATA = [
     "connection": "Seeing the unseen.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Color_X-ray_photogram.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": "1903 CE",
     "domain": "history",
@@ -818,7 +818,7 @@ const CHRONICLE_DATA = [
     "connection": "Humanity slips the surly bonds of Earth.",
     "image": "assets/img_history_1777628532063.png"
   },
-  {
+{
     "era": "modern",
     "year": "1915 CE",
     "domain": "science",
@@ -827,7 +827,7 @@ const CHRONICLE_DATA = [
     "connection": "The fabric of the universe reimagined.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BBH_gravitational_lensing_of_gw150914.webm"
   },
-  {
+{
     "era": "modern",
     "year": "1928 CE",
     "domain": "science",
@@ -836,7 +836,7 @@ const CHRONICLE_DATA = [
     "connection": "A mold that saved millions of lives.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg"
   },
-  {
+{
     "era": "modern",
     "year": "1957 CE",
     "domain": "space",
@@ -845,7 +845,7 @@ const CHRONICLE_DATA = [
     "connection": "The space race begins with a beep.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg"
   },
-  {
+{
     "era": "modern",
     "year": "1969 CE",
     "domain": "space",
@@ -854,7 +854,7 @@ const CHRONICLE_DATA = [
     "connection": "A giant leap for mankind.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg"
   },
-  {
+{
     "era": "modern",
     "year": "1977 CE",
     "domain": "space",
@@ -863,7 +863,7 @@ const CHRONICLE_DATA = [
     "connection": "A message in a cosmic bottle.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_Sounds_of_Earth_-_GPN-2000-001976.jpg"
   },
-  {
+{
     "era": "digital",
     "year": "1989 CE",
     "domain": "history",
@@ -872,7 +872,7 @@ const CHRONICLE_DATA = [
     "connection": "The birth of the global brain.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chrome_on_Linux.png"
   },
-  {
+{
     "era": "digital",
     "year": "1990 CE",
     "domain": "space",
@@ -881,7 +881,7 @@ const CHRONICLE_DATA = [
     "connection": "A mote of dust suspended in a sunbeam.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png"
   },
-  {
+{
     "era": "digital",
     "year": "2003 CE",
     "domain": "science",
@@ -890,7 +890,7 @@ const CHRONICLE_DATA = [
     "connection": "Reading the source code of life.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_HGP.jpg"
   },
-  {
+{
     "era": "digital",
     "year": "2012 CE",
     "domain": "science",
@@ -899,7 +899,7 @@ const CHRONICLE_DATA = [
     "connection": "The final piece of the Standard Model.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png"
   },
-  {
+{
     "era": "digital",
     "year": "2021 CE",
     "domain": "space",
@@ -908,7 +908,7 @@ const CHRONICLE_DATA = [
     "connection": "Opening a new eye on the universe.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png"
   },
-  {
+{
     "era": "primordial",
     "year": -155000000,
     "domain": "science",
@@ -917,7 +917,7 @@ const CHRONICLE_DATA = [
     "connection": "Its strange anatomy still puzzles modern paleontologists regarding the exact function of its plates.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Journal.pone.0138352.g001A.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -150000000,
     "domain": "science",
@@ -926,7 +926,7 @@ const CHRONICLE_DATA = [
     "connection": "These titans pushed the absolute biological limits of size for land-dwelling animals.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/CM_Diplodocus.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -75000000,
     "domain": "science",
@@ -935,7 +935,7 @@ const CHRONICLE_DATA = [
     "connection": "A vital evolutionary link cementing the connection between theropod dinosaurs and modern birds.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Velociraptor_skeleton_white_background.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -68000000,
     "domain": "science",
@@ -944,7 +944,7 @@ const CHRONICLE_DATA = [
     "connection": "The T-Rex remains a cultural icon, symbolizing the awe-inspiring power of prehistoric life.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Tyrannosaurus_Rex_Holotype.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -68000000,
     "domain": "science",
@@ -953,7 +953,7 @@ const CHRONICLE_DATA = [
     "connection": "Fossil evidence of healed bite marks proves these epic prehistoric battles truly happened.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LA-Triceratops_mount-2.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -66000000,
     "domain": "science",
@@ -962,7 +962,7 @@ const CHRONICLE_DATA = [
     "connection": "The apocalyptic end of the dinosaurs cleared the evolutionary path for the rise of mammals.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Yucatan_chix_crater.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": -509,
     "domain": "weird",
@@ -971,7 +971,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Ancient Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/N03Brutus-u-Lucretia.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": -354,
     "domain": "weird",
@@ -980,7 +980,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Ancient Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/G%C3%BCthling_Xenophon_Erinnerungen_001.jpg"
   },
-  {
+{
     "era": "classical",
     "year": 1145,
     "domain": "weird",
@@ -989,7 +989,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Classical Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Common_seal_of_the_Priory_of_Markyate.jpg"
   },
-  {
+{
     "era": "classical",
     "year": 1350,
     "domain": "weird",
@@ -998,7 +998,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Classical Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Manuel-chrysoloras-paolo-uccello-louvre-15th.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1611,
     "domain": "art",
@@ -1007,7 +1007,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Enlightenment Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1683,
     "domain": "art",
@@ -1016,7 +1016,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Enlightenment Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Anna_Maria_Thelott.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1705,
     "domain": "weird",
@@ -1025,7 +1025,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Enlightenment Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1746,
     "domain": "weird",
@@ -1034,7 +1034,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Enlightenment Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "industrial",
     "year": 1797,
     "domain": "weird",
@@ -1043,7 +1043,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Baltazar_Mathias_Keilhau.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1799,
     "domain": "weird",
@@ -1052,7 +1052,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Robert_Schneider-Otto_Speckter_-_Alexis_de_Chateauneuf.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1821,
     "domain": "science",
@@ -1061,7 +1061,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Tulosesus_impatiens.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1823,
     "domain": "science",
@@ -1070,7 +1070,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Spb_Aptekarsky_Island_Botanical_Garden_asv2019-09_img1.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1845,
     "domain": "art",
@@ -1079,7 +1079,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "industrial",
     "year": 1853,
     "domain": "weird",
@@ -1088,7 +1088,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1915_photograph_of_Francesco_Fanciulli%3B_last_photograph_before_death.png"
   },
-  {
+{
     "era": "industrial",
     "year": 1858,
     "domain": "science",
@@ -1097,7 +1097,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/-_9146_%E2%80%93_Tarache_delecta_%E2%80%93_Delightful_Bird-dropping_Moth_%28same_as_Acontia_delecta%29_%289594474969%29.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1865,
     "domain": "weird",
@@ -1106,7 +1106,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nguyen_Thuong_Hien.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1866,
     "domain": "art",
@@ -1115,7 +1115,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mattie_Edwards_Hewitt_-_half-length_photo_by_Frances_Benjamin_Johnston.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1870,
     "domain": "weird",
@@ -1124,7 +1124,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Julian_besteiro_metro.JPG"
   },
-  {
+{
     "era": "industrial",
     "year": 1871,
     "domain": "weird",
@@ -1133,7 +1133,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jtmyers-usmcphoto.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1879,
     "domain": "weird",
@@ -1142,7 +1142,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Henry_Swan.gif"
   },
-  {
+{
     "era": "industrial",
     "year": 1883,
     "domain": "weird",
@@ -1151,7 +1151,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "industrial",
     "year": 1890,
     "domain": "history",
@@ -1160,7 +1160,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/New_Zealand_rugby_league_representative_Morgan_Hayward.png"
   },
-  {
+{
     "era": "industrial",
     "year": 1891,
     "domain": "weird",
@@ -1169,7 +1169,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1903,
     "domain": "art",
@@ -1178,7 +1178,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Yasujiro_Ozu_01.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1905,
     "domain": "art",
@@ -1187,7 +1187,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "modern",
     "year": 1906,
     "domain": "weird",
@@ -1196,7 +1196,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1909,
     "domain": "weird",
@@ -1205,7 +1205,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1911,
     "domain": "weird",
@@ -1214,7 +1214,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1915,
     "domain": "weird",
@@ -1223,7 +1223,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1927,
     "domain": "art",
@@ -1232,7 +1232,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "modern",
     "year": 1928,
     "domain": "science",
@@ -1241,7 +1241,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_science_1777628546990.png"
   },
-  {
+{
     "era": "modern",
     "year": 1930,
     "domain": "art",
@@ -1250,7 +1250,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "modern",
     "year": 1931,
     "domain": "weird",
@@ -1259,7 +1259,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1934,
     "domain": "weird",
@@ -1268,7 +1268,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Axel_Jonas_Halbach_-_explorer%2C_traveller%2C_writer_and_artist_%281934-2022%29_05.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1936,
     "domain": "weird",
@@ -1277,7 +1277,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1937,
     "domain": "weird",
@@ -1286,7 +1286,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1938,
     "domain": "history",
@@ -1295,7 +1295,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/HistoryCener_from_Strip_District.JPG"
   },
-  {
+{
     "era": "modern",
     "year": 1938,
     "domain": "art",
@@ -1304,7 +1304,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "modern",
     "year": 1938,
     "domain": "weird",
@@ -1313,7 +1313,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1940,
     "domain": "art",
@@ -1322,7 +1322,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "modern",
     "year": 1941,
     "domain": "history",
@@ -1331,7 +1331,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_history_1777628532063.png"
   },
-  {
+{
     "era": "modern",
     "year": 1942,
     "domain": "art",
@@ -1340,7 +1340,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Oregon_quarter%2C_reverse_side%2C_2005.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1944,
     "domain": "weird",
@@ -1349,7 +1349,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eli_Ben_Rimoje_1970.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1945,
     "domain": "weird",
@@ -1358,7 +1358,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1948,
     "domain": "weird",
@@ -1367,7 +1367,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1950,
     "domain": "weird",
@@ -1376,7 +1376,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1951,
     "domain": "weird",
@@ -1385,7 +1385,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jack_O%27Connell.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1951,
     "domain": "art",
@@ -1394,7 +1394,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "modern",
     "year": 1954,
     "domain": "art",
@@ -1403,7 +1403,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "modern",
     "year": 1960,
     "domain": "history",
@@ -1412,7 +1412,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_history_1777628532063.png"
   },
-  {
+{
     "era": "modern",
     "year": 1962,
     "domain": "weird",
@@ -1421,7 +1421,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1964,
     "domain": "art",
@@ -1430,7 +1430,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "modern",
     "year": 1971,
     "domain": "weird",
@@ -1439,7 +1439,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1973,
     "domain": "weird",
@@ -1448,7 +1448,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%E0%A6%A8%E0%A6%BE%E0%A6%88%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8_%E0%A6%AD%E0%A7%81%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%81_%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE.png"
   },
-  {
+{
     "era": "modern",
     "year": 1974,
     "domain": "weird",
@@ -1457,7 +1457,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tocadisco_%2836%29.JPG"
   },
-  {
+{
     "era": "modern",
     "year": 1974,
     "domain": "weird",
@@ -1466,7 +1466,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1976,
     "domain": "weird",
@@ -1475,7 +1475,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tears_McFarlane_House.JPG"
   },
-  {
+{
     "era": "modern",
     "year": 1976,
     "domain": "weird",
@@ -1484,7 +1484,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/McCranie%27s_Turpentine_Still_02.JPG"
   },
-  {
+{
     "era": "modern",
     "year": 1977,
     "domain": "art",
@@ -1493,7 +1493,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Steven_Holl.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1977,
     "domain": "weird",
@@ -1502,7 +1502,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1983,
     "domain": "weird",
@@ -1511,7 +1511,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Rasmus_-_2025250_125352_2025-09-07_ZDF-Fernsehgarten_-_Sven_-_5DS_R_-_0115_-_5DSR3551_%28cropped%3B_Lauri_Yl%C3%B6nen%29.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1983,
     "domain": "art",
@@ -1520,7 +1520,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/El_Guincho_2017.png"
   },
-  {
+{
     "era": "modern",
     "year": 1984,
     "domain": "weird",
@@ -1529,7 +1529,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Doe_Paoro_03_05_2018_-13_%2840574750564%29.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1985,
     "domain": "weird",
@@ -1538,7 +1538,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HT_Hayko_during_his_solo_concert_at_the_Dinamo_Stadium_in_2010.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1985,
     "domain": "weird",
@@ -1547,7 +1547,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "modern",
     "year": 1987,
     "domain": "weird",
@@ -1556,7 +1556,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ant%C3%B4nio_Fl%C3%A1vio.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1988,
     "domain": "weird",
@@ -1565,7 +1565,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lisa_Marie_Scholz_20181125.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1989,
     "domain": "weird",
@@ -1574,7 +1574,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Damion_Square.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1990,
     "domain": "weird",
@@ -1583,7 +1583,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 1992,
     "domain": "history",
@@ -1592,7 +1592,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_history_1777628532063.png"
   },
-  {
+{
     "era": "digital",
     "year": 1994,
     "domain": "weird",
@@ -1601,7 +1601,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 1995,
     "domain": "weird",
@@ -1610,7 +1610,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 1996,
     "domain": "weird",
@@ -1619,7 +1619,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/20220813_ECM22_Rowing_7340.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 1996,
     "domain": "art",
@@ -1628,7 +1628,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 1996,
     "domain": "art",
@@ -1637,7 +1637,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 1998,
     "domain": "science",
@@ -1646,7 +1646,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sphaenothecus_bilineatus.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 1998,
     "domain": "science",
@@ -1655,7 +1655,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_science_1777628546990.png"
   },
-  {
+{
     "era": "digital",
     "year": 1998,
     "domain": "art",
@@ -1664,7 +1664,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 1999,
     "domain": "art",
@@ -1673,7 +1673,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 2001,
     "domain": "weird",
@@ -1682,7 +1682,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 2001,
     "domain": "weird",
@@ -1691,7 +1691,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 2002,
     "domain": "history",
@@ -1700,7 +1700,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_history_1777628532063.png"
   },
-  {
+{
     "era": "digital",
     "year": 2003,
     "domain": "weird",
@@ -1709,7 +1709,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 2004,
     "domain": "weird",
@@ -1718,7 +1718,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 2004,
     "domain": "weird",
@@ -1727,7 +1727,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pulu_Gangsa_Cemetery_%2825116883672%29.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2006,
     "domain": "weird",
@@ -1736,7 +1736,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Meilong.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2007,
     "domain": "science",
@@ -1745,7 +1745,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_science_1777628546990.png"
   },
-  {
+{
     "era": "digital",
     "year": 2009,
     "domain": "weird",
@@ -1754,7 +1754,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 2009,
     "domain": "art",
@@ -1763,7 +1763,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 2015,
     "domain": "weird",
@@ -1772,7 +1772,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 2016,
     "domain": "weird",
@@ -1781,7 +1781,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Pecharroman.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2016,
     "domain": "art",
@@ -1790,7 +1790,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 2018,
     "domain": "art",
@@ -1799,7 +1799,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 2019,
     "domain": "art",
@@ -1808,7 +1808,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 2020,
     "domain": "weird",
@@ -1817,7 +1817,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/GardinerME_Downtown.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2020,
     "domain": "art",
@@ -1826,7 +1826,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pen_Argyl_Block.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2022,
     "domain": "art",
@@ -1835,7 +1835,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 2022,
     "domain": "weird",
@@ -1844,7 +1844,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_weird_1777628571793.png"
   },
-  {
+{
     "era": "digital",
     "year": 2023,
     "domain": "art",
@@ -1853,7 +1853,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "assets/img_art_1777628559672.png"
   },
-  {
+{
     "era": "digital",
     "year": 2025,
     "domain": "weird",
