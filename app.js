@@ -204,12 +204,16 @@
     }
 
     // Shooting stars
-    if(Math.random()<.003) spawnShootingStar();
+    const eraStarChance = currentEra === 'cosmic' ? .008 : currentEra === 'digital' ? .002 : .003;
+    if(Math.random()<eraStarChance) spawnShootingStar();
     for(let i=shootingStars.length-1;i>=0;i--){
       const ss = shootingStars[i];
+      // Era-tinted shooting star colors
+      const eraCol = ERA_COLORS[currentEra] || '255,255,255';
       cosmosCtx.beginPath();
       const g = cosmosCtx.createLinearGradient(ss.x,ss.y,ss.x-ss.vx*ss.len*.15,ss.y-ss.vy*ss.len*.15);
-      g.addColorStop(0,`rgba(255,255,255,${ss.life*.6})`);
+      g.addColorStop(0,`rgba(${eraCol},${ss.life*.8})`);
+      g.addColorStop(.4,`rgba(255,255,255,${ss.life*.4})`);
       g.addColorStop(1,'transparent');
       cosmosCtx.strokeStyle = g;
       cosmosCtx.lineWidth = 1.5;
@@ -223,9 +227,36 @@
     requestAnimationFrame(drawCosmos);
   }
 
-  /* ===== PARTICLE LAYER (scroll-reactive) ===== */
+  /* ===== PARTICLE LAYER (scroll-reactive + era-reactive) ===== */
   let scrollY = 0;
+  let particleEraTarget = { hue: 45, saturation: 50, alpha: 0.06, glow: 0 };
+  let particleEraCurrent = { hue: 45, saturation: 50, alpha: 0.06, glow: 0 };
+
+  const ERA_PARTICLE_STYLES = {
+    cosmic:    { hue: 220, saturation: 60, alpha: 0.08, glow: 12 },
+    primordial:{ hue: 140, saturation: 70, alpha: 0.07, glow: 10 },
+    ancient:   { hue: 35,  saturation: 80, alpha: 0.06, glow: 8 },
+    classical: { hue: 48,  saturation: 90, alpha: 0.07, glow: 14 },
+    medieval:  { hue: 44,  saturation: 85, alpha: 0.05, glow: 10 },
+    renaissance:{ hue: 300, saturation: 65, alpha: 0.07, glow: 12 },
+    enlightenment:{ hue: 50, saturation: 75, alpha: 0.06, glow: 16 },
+    industrial:{ hue: 0,   saturation: 5,  alpha: 0.04, glow: 6 },
+    modern:    { hue: 190, saturation: 80, alpha: 0.07, glow: 14 },
+    digital:   { hue: 195, saturation: 90, alpha: 0.08, glow: 20 }
+  };
+
+  function updateParticlesForEra(era) {
+    const style = ERA_PARTICLE_STYLES[era] || ERA_PARTICLE_STYLES.cosmic;
+    particleEraTarget = { ...style };
+  }
   function drawParticles(){
+    // Smooth lerp toward era target
+    const lerp = 0.03;
+    particleEraCurrent.hue += (particleEraTarget.hue - particleEraCurrent.hue) * lerp;
+    particleEraCurrent.saturation += (particleEraTarget.saturation - particleEraCurrent.saturation) * lerp;
+    particleEraCurrent.alpha += (particleEraTarget.alpha - particleEraCurrent.alpha) * lerp;
+    particleEraCurrent.glow += (particleEraTarget.glow - particleEraCurrent.glow) * lerp;
+
     particleCtx.clearRect(0,0,W,H);
     const scrollOffset = scrollY * .15;
     for(const p of floatingParticles){
@@ -233,9 +264,17 @@
       const adjustedY = py < 0 ? py + H*2 : py;
       if(adjustedY > H+20 || adjustedY < -20) continue;
       particleCtx.beginPath();
-      particleCtx.arc(p.x + Math.sin(tick*.01+p.drift)*30, adjustedY, p.r, 0, Math.PI*2);
-      particleCtx.fillStyle = `hsla(${p.hue},50%,70%,${p.a})`;
+      const xOsc = Math.sin(tick*.01+p.drift)*30;
+      particleCtx.arc(p.x + xOsc, adjustedY, p.r, 0, Math.PI*2);
+      particleCtx.fillStyle = `hsla(${particleEraCurrent.hue},${particleEraCurrent.saturation}%,75%,${particleEraCurrent.alpha})`;
       particleCtx.fill();
+      // Era glow on particles
+      if(particleEraCurrent.glow > 4){
+        particleCtx.beginPath();
+        particleCtx.arc(p.x + xOsc, adjustedY, p.r+particleEraCurrent.glow, 0, Math.PI*2);
+        particleCtx.fillStyle = `hsla(${particleEraCurrent.hue},${particleEraCurrent.saturation}%,80%,0.02)`;
+        particleCtx.fill();
+      }
     }
     requestAnimationFrame(drawParticles);
   }
@@ -323,9 +362,14 @@
 
   /* ===== INTERSECTION OBSERVER ===== */
   const observer = new IntersectionObserver((entries)=>{
+    let entryIdx = 0;
     for(const e of entries){
       if(e.isIntersecting){
+        // Staggered reveal based on position within batch
+        const staggerDelay = e.target.style.getPropertyValue('--stagger-delay') || 0;
+        e.target.style.setProperty('--stagger-delay', `${Math.min(entryIdx * 80, 400)}ms`);
         e.target.classList.add('visible');
+        entryIdx++;
         const era = e.target.getAttribute('data-era');
         if(era && era!==currentEra){
           currentEra = era;
@@ -335,6 +379,7 @@
           if(yr) eraYear.textContent = fmtYearShort(Number(yr));
           triggerEraTransition(currentEra);
           updateAudioForEra(currentEra);
+          updateParticlesForEra(currentEra);
         }
       }
     }
@@ -371,13 +416,24 @@
           minimapThumb.style.top = `calc(${thumbPct}% - 12px)`;
         }
 
-        // Parallax title
+        // Parallax title with mouse-responsive depth
         const titleScreen = document.getElementById('title-screen');
         if(scrollY < window.innerHeight){
           const p = scrollY/window.innerHeight;
           titleScreen.style.opacity = 1 - p*1.5;
           titleScreen.style.transform = `translateY(${scrollY*.3}px)`;
         }
+
+        // Card parallax depth — images move slower than text
+        document.querySelectorAll('.chronicle-entry.visible .entry-image').forEach(img => {
+          if (!img.dataset.originY) {
+            const rect = img.getBoundingClientRect();
+            img.dataset.originY = rect.top + scrollY;
+          }
+          const originY = parseFloat(img.dataset.originY);
+          const depth = (scrollY - originY) * 0.12;
+          img.style.transform = `translateY(${depth}px) scale(1.03)`;
+        });
 
         ticking = false;
         saveProgress();
