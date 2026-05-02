@@ -1,4 +1,4 @@
-const CACHE_NAME = 'scroll-v2-v1';
+const CACHE_NAME = 'scroll-v2-v2';
 const ASSETS = [
   '/the-infinite-chronicle/',
   '/the-infinite-chronicle/index.html',
