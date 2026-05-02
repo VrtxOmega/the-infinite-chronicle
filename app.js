@@ -250,8 +250,8 @@
     particleEraTarget = { ...style };
   }
   function drawParticles(){
-    // Smooth lerp toward era target
-    const lerp = 0.03;
+    // Smooth lerp toward era target — FASTER
+    const lerp = 0.08;
     particleEraCurrent.hue += (particleEraTarget.hue - particleEraCurrent.hue) * lerp;
     particleEraCurrent.saturation += (particleEraTarget.saturation - particleEraCurrent.saturation) * lerp;
     particleEraCurrent.alpha += (particleEraTarget.alpha - particleEraCurrent.alpha) * lerp;
@@ -314,8 +314,8 @@
     el.setAttribute('data-year', d.year);
 
     const imageUrl = d.image || DOMAIN_IMAGES[d.domain];
-    const layout = d.layout || 'standard';
-    const hasNarration = d.layout === 'milestone' || idx % 20 === 0;
+    const layout = d.layout || (idx === 0 ? 'fullbleed' : idx === 1 ? 'fullbleed' : idx === 3 ? 'fullbleed' : idx % 8 === 0 ? 'quote-first' : idx % 15 === 0 ? 'fullbleed' : 'standard');
+    const hasNarration = d.layout === 'milestone' || idx % 8 === 0;
 
     // Choose card template based on layout
     let cardHTML;
@@ -401,9 +401,8 @@
     let entryIdx = 0;
     for(const e of entries){
       if(e.isIntersecting){
-        // Staggered reveal based on position within batch
-        const staggerDelay = e.target.style.getPropertyValue('--stagger-delay') || 0;
-        e.target.style.setProperty('--stagger-delay', `${Math.min(entryIdx * 80, 400)}ms`);
+        // Staggered reveal — MORE dramatic
+        e.target.style.setProperty('--stagger-delay', `${Math.min(entryIdx * 150, 600)}ms`);
         e.target.classList.add('visible');
         entryIdx++;
         const era = e.target.getAttribute('data-era');
@@ -467,8 +466,8 @@
             img.dataset.originY = rect.top + scrollY;
           }
           const originY = parseFloat(img.dataset.originY);
-          const depth = (scrollY - originY) * 0.12;
-          img.style.transform = `translateY(${depth}px) scale(1.03)`;
+          const depth = (scrollY - originY) * 0.25; // MORE dramatic parallax
+          img.style.transform = `translateY(${depth}px) scale(1.05)`;
         });
 
         ticking = false;
