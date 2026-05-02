@@ -663,7 +663,7 @@ const CHRONICLE_DATA = [
     "title": "The Black Death",
     "body": "A devastating global epidemic of bubonic plague that struck Europe and Asia.",
     "connection": "A biological reset of human society.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='50%25' x2='100%25' y2='85%25'%3E%3Cstop offset='0%25' stop-color='rgba(201,168,76,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(201,168,76,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Carriers_of_the_New_Black_Plague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
 {
     "era": "medieval",
@@ -744,7 +744,7 @@ const CHRONICLE_DATA = [
     "title": "The Lightning Rod",
     "body": "Benjamin Franklin proved lightning is electricity and invented the lightning rod.",
     "connection": "Taming the fire from the sky.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='40%25' x2='120%25' y2='85%25'%3E%3Cstop offset='0%25' stop-color='rgba(245,230,184,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(245,230,184,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lightning_Pritzerbe_01_%28MK%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
 {
     "era": "enlightenment",
@@ -816,7 +816,7 @@ const CHRONICLE_DATA = [
     "title": "First Powered Flight",
     "body": "The Wright brothers successfully flew the first powered airplane at Kitty Hawk.",
     "connection": "Humanity slips the surly bonds of Earth.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='20%25' x2='130%25' y2='80%25'%3E%3Cstop offset='0%25' stop-color='rgba(160,160,160,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(160,160,160,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/120th_Anniversary_of_the_First_Powered%2C_Controlled_Flight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
 {
     "era": "modern",
