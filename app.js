@@ -645,6 +645,41 @@
   animateStats();
   checkPersistence();
 
+  // Narration system — Web Speech API
+  document.addEventListener('click', (e) => {
+    const btn = e.target.closest('.btn-narrate');
+    if (!btn || !window.speechSynthesis) return;
+    const text = btn.getAttribute('data-text');
+    if (!text) return;
+    speechSynthesis.cancel();
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.rate = 0.9;
+    utter.pitch = currentEra === 'cosmic' ? 0.8 : currentEra === 'digital' ? 1.2 : 1.0;
+    speechSynthesis.speak(utter);
+    btn.textContent = '🔊 ...';
+    utter.onend = () => { btn.textContent = '🔊'; };
+  });
+
+  // Celestial chime on era transitions
+  function playEraChime() {
+    if (!audioCtx) return;
+    const chime = audioCtx.createOscillator();
+    const chimeGain = audioCtx.createGain();
+    chime.type = 'sine';
+    chime.frequency.value = 880;
+    chimeGain.gain.setValueAtTime(0.12, audioCtx.currentTime);
+    chimeGain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 1.2);
+    chime.connect(chimeGain);
+    chimeGain.connect(audioCtx.destination);
+    chime.start(audioCtx.currentTime);
+    chime.stop(audioCtx.currentTime + 1.2);
+  }
+  const origTriggerTransition = triggerEraTransition;
+  triggerEraTransition = function(eraName) {
+    origTriggerTransition(eraName);
+    if (audioCtx) playEraChime();
+  };
+
   // Preload all remaining after initial paint
   setTimeout(()=>{
     while(rendered < CHRONICLE_DATA.length) loadBatch();
