@@ -1,5 +1,5 @@
 const CHRONICLE_DATA = [
-  {
+{
     "era": "cosmic",
     "year": -13800000000,
     "domain": "space",
@@ -8,25 +8,25 @@ const CHRONICLE_DATA = [
     "connection": "For 380,000 years, the universe was a blinding fog of plasma. Then it cooled enough for atoms to form, and light was finally free to travel. That ancient light is still arriving — we call it the Cosmic Microwave Background, and it's the oldest photograph in existence.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg"
   },
-  {
+{
     "era": "cosmic",
     "year": -13400000000,
     "domain": "space",
     "title": "The First Stars Ignite",
     "body": "The cosmic dark ages ended when gravity pulled hydrogen clouds into fusion furnaces — Population III stars, hundreds of times more massive than our Sun. They burned fast and died violently, seeding the void with heavier elements like carbon, oxygen, and iron.",
     "connection": "Every atom of carbon in your body was forged inside a star that died before our Sun was born. You are, literally, stardust with a postal address.",
-    "image": "assets/img_space_1777628517848.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxIiBjeD0iNTAlIiBjeT0iNDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDc5LDE5NSwyNDcpIiBzdG9wLW9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3cxIiBjeD0iNDUlIiBjeT0iMzUlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDc5LDE5NSwyNDcpIiBzdG9wLW9wYWNpdHk9IjAuNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9InRyYW5zcGFyZW50Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iYmx1cjEiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNmNWQ2NzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNiZzEpIi8+CiAgPGVsbGlwc2UgY3g9IjM2MCIgY3k9IjE4MCIgcng9IjI1MCIgcnk9IjE4MCIgZmlsbD0idXJsKCNnbG93MSkiIGZpbHRlcj0idXJsKCNibHVyMSkiLz4KICA8IS0tIFN0YXJzIC0tPgogIDxjaXJjbGUgY3g9IjEyMCIgY3k9IjgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjEyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iNjAiIHI9IjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOSIvPgogIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjMyMCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI4MCIgY3k9IjM1MCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iNTUwIiBjeT0iODAiIHI9IjEuOCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iNDAwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iNDIwIiByPSIxLjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjkwIiBjeT0iMjIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIEVudHJ5IG51bWJlciAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSI3MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMSkiIG9wYWNpdHk9IjAuMzUiIGxldHRlci1zcGFjaW5nPSI4Ij4wMDI8L3RleHQ+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM0MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgRmlyc3QgU3RhcnMgSWduaXRlPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5TUEFDRTwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "cosmic",
     "year": -13000000000,
     "domain": "space",
     "title": "The First Galaxies Assemble",
     "body": "Gravity gathered the debris of dead stars into rotating disks. The first galaxies were small, chaotic, and violent — colliding and merging over billions of years. Our own Milky Way is a cannibal, having absorbed dozens of smaller galaxies.",
     "connection": "The Milky Way is currently devouring the Sagittarius Dwarf Galaxy. In 4.5 billion years, it will collide with Andromeda. The night sky will never look the same — but no one on Earth will be around to notice.",
-    "image": "assets/img_space_1777628517848.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcyIiBjeD0iNTAlIiBjeT0iNDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDc5LDE5NSwyNDcpIiBzdG9wLW9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3cyIiBjeD0iNDUlIiBjeT0iMzUlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDc5LDE5NSwyNDcpIiBzdG9wLW9wYWNpdHk9IjAuNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9InRyYW5zcGFyZW50Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iYmx1cjIiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQyIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNmNWQ2NzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNiZzIpIi8+CiAgPGVsbGlwc2UgY3g9IjM2MCIgY3k9IjE4MCIgcng9IjI1MCIgcnk9IjE4MCIgZmlsbD0idXJsKCNnbG93MikiIGZpbHRlcj0idXJsKCNibHVyMikiLz4KICA8IS0tIFN0YXJzIC0tPgogIDxjaXJjbGUgY3g9IjEyMCIgY3k9IjgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjEyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iNjAiIHI9IjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOSIvPgogIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjMyMCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI4MCIgY3k9IjM1MCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iNTUwIiBjeT0iODAiIHI9IjEuOCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iNDAwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iNDIwIiByPSIxLjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjkwIiBjeT0iMjIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIEVudHJ5IG51bWJlciAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSI3MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMikiIG9wYWNpdHk9IjAuMzUiIGxldHRlci1zcGFjaW5nPSI4Ij4wMDM8L3RleHQ+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM0MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgRmlyc3QgR2FsYXhpZXMgQXNzZW1ibGU8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPlNQQUNFPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "cosmic",
     "year": -4600000000,
     "domain": "space",
@@ -35,7 +35,7 @@ const CHRONICLE_DATA = [
     "connection": "The young Earth was a hellscape of molten rock and meteor bombardment. But something extraordinary was about to happen in its boiling oceans.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/The_Mysterious_Case_of_the_Disappearing_Dust.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -4500000000,
     "domain": "space",
@@ -44,16 +44,16 @@ const CHRONICLE_DATA = [
     "connection": "Without the Moon, Earth's axial tilt would wobble chaotically. Seasons would be unpredictable. The tides that may have driven the chemistry of early life would never have existed. We owe our existence to a planetary car crash.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_65_%28Canto_XXXI_-_The_Titans%29.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -3800000000,
     "domain": "science",
     "title": "Life Begins",
     "body": "In the scalding waters of hydrothermal vents, complex molecules began to self-replicate. The first living cells — simple, alien, and impossibly tenacious — emerged from chemistry and became biology. Life was fragile, microscopic, and utterly unstoppable.",
     "connection": "For three billion years, life remained single-celled. Then, in an event so unlikely it may have only happened once in all of cosmic history, one cell swallowed another — and they cooperated. That partnership became every complex organism alive today.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc1IiBjeD0iNTAlIiBjeT0iNDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDEwMiwxODcsMTA2KSIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0IiBzdG9wLW9wYWNpdHk9IjAuOTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93NSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigxMDIsMTg3LDEwNikiIHN0b3Atb3BhY2l0eT0iMC40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJibHVyNSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnNSkiLz4KICA8ZWxsaXBzZSBjeD0iMzYwIiBjeT0iMTgwIiByeD0iMjUwIiByeT0iMTgwIiBmaWxsPSJ1cmwoI2dsb3c1KSIgZmlsdGVyPSJ1cmwoI2JsdXI1KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ1KSIgb3BhY2l0eT0iMC4zNSIgbGV0dGVyLXNwYWNpbmc9IjgiPjAwNjwvdGV4dD4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ1KSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPkxpZmUgQmVnaW5zPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigxMDIsMTg3LDEwNikiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+U0NJRU5DRTwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgxMDIsMTg3LDEwNiwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDEwMiwxODcsMTA2LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "primordial",
     "year": -2400000000,
     "domain": "science",
@@ -62,25 +62,25 @@ const CHRONICLE_DATA = [
     "connection": "The oxygen that nearly destroyed all life eventually became the fuel for complex organisms. Every breath you take is powered by a metabolic pathway that evolved to survive a planetary pollution crisis.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Precambrian_Evolution_of_Life.png"
   },
-  {
+{
     "era": "primordial",
     "year": -541000000,
     "domain": "science",
     "title": "The Cambrian Explosion",
     "body": "In a geological eyeblink — just 25 million years — life went from simple worms to an insane carnival of forms: eyes, shells, claws, spines. Every major animal body plan that exists today appeared in this single burst of evolutionary creativity.",
     "connection": "Among the bizarre creatures of the Cambrian seas was a tiny, worm-like thing with a primitive spinal cord. It didn't look like much. It was your ancestor.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc3IiBjeD0iNTAlIiBjeT0iNDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDEwMiwxODcsMTA2KSIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0IiBzdG9wLW9wYWNpdHk9IjAuOTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93NyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigxMDIsMTg3LDEwNikiIHN0b3Atb3BhY2l0eT0iMC40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJibHVyNyI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnNykiLz4KICA8ZWxsaXBzZSBjeD0iMzYwIiBjeT0iMTgwIiByeD0iMjUwIiByeT0iMTgwIiBmaWxsPSJ1cmwoI2dsb3c3KSIgZmlsdGVyPSJ1cmwoI2JsdXI3KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ3KSIgb3BhY2l0eT0iMC4zNSIgbGV0dGVyLXNwYWNpbmc9IjgiPjAwODwvdGV4dD4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ3KSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPlRoZSBDYW1icmlhbiBFeHBsb3Npb248L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDEwMiwxODcsMTA2KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5TQ0lFTkNFPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDEwMiwxODcsMTA2LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMTAyLDE4NywxMDYsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "primordial",
     "year": -230000000,
     "domain": "science",
     "title": "Dawn of the Dinosaurs",
     "body": "The first true dinosaurs appear during the late Triassic period. Initially small and bipedal, these early reptiles quickly diversify into a staggering array of forms, taking advantage of ecological niches left vacant by earlier mass extinctions.",
     "connection": "A foundational moment in Earth's history, sparking a reign that would last over 160 million years.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc4IiBjeD0iNTAlIiBjeT0iNDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDEwMiwxODcsMTA2KSIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0IiBzdG9wLW9wYWNpdHk9IjAuOTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93OCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigxMDIsMTg3LDEwNikiIHN0b3Atb3BhY2l0eT0iMC40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJibHVyOCI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDgiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnOCkiLz4KICA8ZWxsaXBzZSBjeD0iMzYwIiBjeT0iMTgwIiByeD0iMjUwIiByeT0iMTgwIiBmaWxsPSJ1cmwoI2dsb3c4KSIgZmlsdGVyPSJ1cmwoI2JsdXI4KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ4KSIgb3BhY2l0eT0iMC4zNSIgbGV0dGVyLXNwYWNpbmc9IjgiPjAwOTwvdGV4dD4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ4KSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPkRhd24gb2YgdGhlIERpbm9zYXVyczwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMTAyLDE4NywxMDYpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPlNDSUVOQ0U8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMTAyLDE4NywxMDYsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgxMDIsMTg3LDEwNiwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "ancient",
     "year": -66000000,
     "domain": "science",
@@ -89,7 +89,7 @@ const CHRONICLE_DATA = [
     "connection": "In the ash and silence that followed, small, furry, nocturnal creatures crept out of their burrows. The mammals inherited a shattered world — and remade it.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Inner_solar_system_objects_top_view_for_wiki.png"
   },
-  {
+{
     "era": "ancient",
     "year": -300000,
     "domain": "science",
@@ -98,7 +98,7 @@ const CHRONICLE_DATA = [
     "connection": "For 200,000 years, these clever apes lived in small bands, painting cave walls and burying their dead. Then, around 12,000 years ago, someone planted a seed on purpose — and everything changed.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Members_of_Genus_Homo.png"
   },
-  {
+{
     "era": "ancient",
     "year": -40000,
     "domain": "art",
@@ -107,7 +107,7 @@ const CHRONICLE_DATA = [
     "connection": "Art didn't begin as decoration. It began as communication with forces beyond understanding. The same impulse that drove a Paleolithic hand to paint a horse drives a programmer to write elegant code.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": -3100,
     "domain": "history",
@@ -116,7 +116,7 @@ const CHRONICLE_DATA = [
     "connection": "Once you could write things down, you could accumulate knowledge across generations. Laws, stories, astronomical records — all suddenly survivable beyond a single human lifetime.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG"
   },
-  {
+{
     "era": "ancient",
     "year": -2560,
     "domain": "art",
@@ -125,7 +125,7 @@ const CHRONICLE_DATA = [
     "connection": "While Khufu's architects were calculating stone angles to within fractions of a degree, astronomers in the same civilization were mapping stars that wouldn't be cataloged in Europe for another three millennia.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": -1754,
     "domain": "history",
@@ -134,7 +134,7 @@ const CHRONICLE_DATA = [
     "connection": "The idea that law should be written, public, and consistent was so radical that it would take another 3,500 years before most of humanity actually achieved it.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG"
   },
-  {
+{
     "era": "classical",
     "year": -470,
     "domain": "art",
@@ -143,7 +143,7 @@ const CHRONICLE_DATA = [
     "connection": "Athens proved that a small population with free inquiry could reshape the entire trajectory of human thought. But the experiment was fragile — within a generation, war and plague would nearly destroy it.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/2006_01_21_Ath%C3%A8nes_Parth%C3%A9non.JPG"
   },
-  {
+{
     "era": "classical",
     "year": -331,
     "domain": "history",
@@ -152,7 +152,7 @@ const CHRONICLE_DATA = [
     "connection": "Alexander's empire shattered upon his death, but the cultural fusion it created — Hellenism — mixed Greek, Persian, Egyptian, and Indian ideas into a new civilization that would influence every culture it touched.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alexander_the_Great_mosaic.jpg"
   },
-  {
+{
     "era": "classical",
     "year": -221,
     "domain": "history",
@@ -161,7 +161,7 @@ const CHRONICLE_DATA = [
     "connection": "On opposite sides of the planet, Rome and China were independently building continental-scale empires at almost exactly the same time — without knowing the other existed.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/QinShiHuang19century.jpg"
   },
-  {
+{
     "era": "classical",
     "year": -44,
     "domain": "history",
@@ -170,7 +170,7 @@ const CHRONICLE_DATA = [
     "connection": "The Roman Republic died so that the Roman Empire could be born — a transformation that would shape the political imagination of every Western civilization that followed.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vincenzo_Camuccini_-_La_morte_di_Cesare_%28cropped_3-2%29.jpg"
   },
-  {
+{
     "era": "classical",
     "year": 105,
     "domain": "science",
@@ -179,16 +179,16 @@ const CHRONICLE_DATA = [
     "connection": "Paper traveled west along the Silk Road, reaching the Islamic world by the 8th century. Arab scholars used it to preserve Greek philosophy that Europe had already forgotten.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Making_Paper.gif"
   },
-  {
+{
     "era": "medieval",
     "year": 622,
     "domain": "history",
     "title": "The Hijra — Islam's Calendar Begins",
     "body": "Muhammad's migration from Mecca to Medina established the first Islamic community and marks Year One of the Islamic calendar. Within a century, the resulting civilization would stretch from Spain to Central Asia, preserving and advancing mathematics, astronomy, medicine, and philosophy while Europe slept.",
     "connection": "The House of Wisdom in Baghdad translated Aristotle, Galen, and Ptolemy into Arabic. Centuries later, European scholars would re-discover Greek philosophy — through Arabic translations.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcyMCIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigyMDEsMTY4LDc2KSIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0IiBzdG9wLW9wYWNpdHk9IjAuOTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93MjAiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMjAxLDE2OCw3NikiIHN0b3Atb3BhY2l0eT0iMC40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJibHVyMjAiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQyMCIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmcyMCkiLz4KICA8ZWxsaXBzZSBjeD0iMzYwIiBjeT0iMTgwIiByeD0iMjUwIiByeT0iMTgwIiBmaWxsPSJ1cmwoI2dsb3cyMCkiIGZpbHRlcj0idXJsKCNibHVyMjApIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDIwKSIgb3BhY2l0eT0iMC4zNSIgbGV0dGVyLXNwYWNpbmc9IjgiPjAyMTwvdGV4dD4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQyMCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgSGlqcmEg4oCUIElzbGFtJ3MgQ2FsZW5kYXIgQmVnaW5zPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigyMDEsMTY4LDc2KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5ISVNUT1JZPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDIwMSwxNjgsNzYsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgyMDEsMTY4LDc2LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "medieval",
     "year": 1054,
     "domain": "space",
@@ -197,7 +197,7 @@ const CHRONICLE_DATA = [
     "connection": "While astronomers watched a star die, the Christian and Islamic worlds were locked in a struggle that would define the next millennium. The supernova didn't care about borders.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg"
   },
-  {
+{
     "era": "medieval",
     "year": 1206,
     "domain": "history",
@@ -206,16 +206,16 @@ const CHRONICLE_DATA = [
     "connection": "The Mongol postal system (Yam) could deliver a message 300 km per day — faster than any communication network until the telegraph, 600 years later.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg"
   },
-  {
+{
     "era": "medieval",
     "year": 1347,
     "domain": "history",
     "title": "The Black Death Arrives in Europe",
     "body": "Carried by fleas on rats aboard Genoese trading ships from Crimea, Yersinia pestis killed 75–200 million people in Eurasia — up to 60% of Europe's population. Entire villages were emptied. The social order shattered.",
     "connection": "The plague's devastation created an acute labor shortage. Surviving peasants could suddenly demand higher wages. Feudalism began to crack — and from those cracks, the Renaissance would grow.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcyMyIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigyMDEsMTY4LDc2KSIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0IiBzdG9wLW9wYWNpdHk9IjAuOTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93MjMiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMjAxLDE2OCw3NikiIHN0b3Atb3BhY2l0eT0iMC40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJibHVyMjMiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQyMyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmcyMykiLz4KICA8ZWxsaXBzZSBjeD0iMzYwIiBjeT0iMTgwIiByeD0iMjUwIiByeT0iMTgwIiBmaWxsPSJ1cmwoI2dsb3cyMykiIGZpbHRlcj0idXJsKCNibHVyMjMpIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDIzKSIgb3BhY2l0eT0iMC4zNSIgbGV0dGVyLXNwYWNpbmc9IjgiPjAyNDwvdGV4dD4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQyMykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgQmxhY2sgRGVhdGggQXJyaXZlcyBpbiBFdXJvcGU8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDIwMSwxNjgsNzYpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkhJU1RPUlk8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMjAxLDE2OCw3NiwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDIwMSwxNjgsNzYsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "renaissance",
     "year": 1440,
     "domain": "art",
@@ -224,7 +224,7 @@ const CHRONICLE_DATA = [
     "connection": "Within 50 years, 20 million books existed in Europe. Literacy exploded. Martin Luther's 95 Theses went viral in weeks. The printing press didn't just spread ideas — it made censorship almost impossible.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/PrintMus_038.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": 1492,
     "domain": "history",
@@ -233,7 +233,7 @@ const CHRONICLE_DATA = [
     "connection": "The Columbian Exchange that followed reshaped global biology: tomatoes to Italy, potatoes to Ireland, horses to the Plains, smallpox to everywhere. The world's ecosystems would never separate again.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": 1504,
     "domain": "art",
@@ -242,7 +242,7 @@ const CHRONICLE_DATA = [
     "connection": "Michelangelo saw the sculpture already inside the stone and merely removed what didn't belong. Four years later, he would lie on his back for four years painting the Sistine Chapel ceiling — complaining about it the entire time.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": 1543,
     "domain": "science",
@@ -251,7 +251,7 @@ const CHRONICLE_DATA = [
     "connection": "Copernicus didn't just move the Earth. He demonstrated that the universe doesn't care about human intuition. What feels true and what is true are often completely different things.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De_revolutionibus_1543.png"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1609,
     "domain": "space",
@@ -260,7 +260,7 @@ const CHRONICLE_DATA = [
     "connection": "Galileo's observations didn't just change astronomy — they demonstrated that direct observation could overturn centuries of authority. The scientific method was being born, one heresy at a time.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1687,
     "domain": "science",
@@ -269,7 +269,7 @@ const CHRONICLE_DATA = [
     "connection": "Newton famously said he stood on the shoulders of giants. What he didn't mention was that he invented calculus to solve his own problems, then barely told anyone about it for decades.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Newton%27s_Principia_title_page.png"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1776,
     "domain": "history",
@@ -278,7 +278,7 @@ const CHRONICLE_DATA = [
     "connection": "The same year, Adam Smith published The Wealth of Nations. In the span of twelve months, the modern concepts of political freedom and free-market economics were both launched into the world.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/United_States_Declaration_of_Independence.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1791,
     "domain": "art",
@@ -287,7 +287,7 @@ const CHRONICLE_DATA = [
     "connection": "Mozart's music encoded mathematical structures that wouldn't be formally described for another century. His compositions are used today to study pattern recognition in artificial intelligence. The dead composer is teaching machines to think.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/K626_Requiem_Mozart.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1831,
     "domain": "science",
@@ -296,7 +296,7 @@ const CHRONICLE_DATA = [
     "connection": "Faraday couldn't do the math to describe his own discovery. James Clerk Maxwell later translated Faraday's intuition into four equations so beautiful they're tattooed on physicists' arms.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Electromagnetic_induction_-_solenoid_to_loop_-_animation.gif"
   },
-  {
+{
     "era": "industrial",
     "year": 1859,
     "domain": "science",
@@ -305,7 +305,7 @@ const CHRONICLE_DATA = [
     "connection": "Darwin delayed publication partly because he feared the social consequences. He was right to worry — the idea that humans weren't specially created would shake every institution on Earth.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Origin_of_Species_title_page.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1865,
     "domain": "weird",
@@ -314,7 +314,7 @@ const CHRONICLE_DATA = [
     "connection": "Coincidence is the universe's way of remaining anonymous. These parallels are statistically meaningless — but they feel meaningful, and that gap between statistics and feeling is where all good stories live.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Robert_F._Kennedy.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1869,
     "domain": "science",
@@ -323,7 +323,7 @@ const CHRONICLE_DATA = [
     "connection": "Mendeleev's table was a map of reality's building blocks. A century later, particle physicists would find that even atoms weren't fundamental — they were made of quarks, held together by gluons, in a quantum dance no one fully understands.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dmitri_Mendeleev.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1876,
     "domain": "science",
@@ -332,7 +332,7 @@ const CHRONICLE_DATA = [
     "connection": "Every modern communication technology — radio, television, internet, smartphones — is a descendant of Bell's vibrating membrane. He started by trying to build a better hearing aid for his deaf wife.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bell_System_hires_1889_logo.PNG"
   },
-  {
+{
     "era": "modern",
     "year": 1905,
     "domain": "science",
@@ -341,7 +341,7 @@ const CHRONICLE_DATA = [
     "connection": "Special relativity revealed that time itself is elastic — it stretches and compresses depending on your speed. A GPS satellite experiences time differently than your phone. Without Einstein's correction, your map would drift 10 km per day.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Albert_Einstein_Head_cleaned.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1928,
     "domain": "science",
@@ -350,7 +350,7 @@ const CHRONICLE_DATA = [
     "connection": "Fleming's discovery was an accident. So was the discovery of X-rays, microwave ovens, and Viagra. Some of humanity's greatest advances came from paying attention when things went wrong.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1945,
     "domain": "history",
@@ -359,16 +359,16 @@ const CHRONICLE_DATA = [
     "connection": "Three weeks later, Hiroshima. Three days after that, Nagasaki. The same physics that explained starlight could now vaporize a city. Knowledge, it turned out, was neither good nor evil — only powerful.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Trinity_shot_color.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1953,
     "domain": "science",
     "title": "Watson and Crick Crack DNA's Structure",
     "body": "Using Rosalind Franklin's X-ray crystallography data (without her knowledge), James Watson and Francis Crick built a model of DNA's double helix — the molecule that encodes all life on Earth. The paper was 900 words long. Franklin died of cancer at 37, likely from radiation exposure during her research.",
     "connection": "The structure of DNA revealed that life is, at its core, an information storage system — a four-letter code running on molecular hardware. Biology had become computer science, 50 years before anyone realized it.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc0MCIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0IiBzdG9wLW9wYWNpdHk9IjAuOTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93NDAiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJibHVyNDAiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQ0MCIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmc0MCkiLz4KICA8ZWxsaXBzZSBjeD0iMzYwIiBjeT0iMTgwIiByeD0iMjUwIiByeT0iMTgwIiBmaWxsPSJ1cmwoI2dsb3c0MCkiIGZpbHRlcj0idXJsKCNibHVyNDApIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDQwKSIgb3BhY2l0eT0iMC4zNSIgbGV0dGVyLXNwYWNpbmc9IjgiPjA0MTwvdGV4dD4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ0MCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5XYXRzb24gYW5kIENyaWNrIENyYWNrIEROQSdzIFN0cnVjdHVyZTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMzgsMTk4LDIxOCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+U0NJRU5DRTwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1969,
     "domain": "space",
@@ -377,7 +377,7 @@ const CHRONICLE_DATA = [
     "connection": "The Apollo guidance computer ran at 0.043 MHz. The phone in your pocket runs at roughly 3,000 MHz. We went to the Moon with less computing power than a singing birthday card.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1990,
     "domain": "space",
@@ -386,7 +386,7 @@ const CHRONICLE_DATA = [
     "connection": "The Pale Blue Dot image contains no scientific data. It is pure perspective. And perspective, it turns out, might be the most valuable thing science can offer.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png"
   },
-  {
+{
     "era": "digital",
     "year": 1991,
     "domain": "science",
@@ -395,7 +395,7 @@ const CHRONICLE_DATA = [
     "connection": "The web connected 3 billion minds within 25 years. It democratized knowledge, toppled governments, enabled global commerce, and also created cat videos. Every revolution has its side effects.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chrome_on_Linux.png"
   },
-  {
+{
     "era": "digital",
     "year": 1995,
     "domain": "space",
@@ -404,7 +404,7 @@ const CHRONICLE_DATA = [
     "connection": "Every direction you look contains billions of galaxies. Every galaxy contains billions of stars. And around many of those stars, planets are forming right now. The universe is not mostly empty — it's mostly undiscovered.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/HubbleDeepField.800px.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2003,
     "domain": "science",
@@ -413,7 +413,7 @@ const CHRONICLE_DATA = [
     "connection": "Your DNA is 99.9% identical to every other human alive. The remaining 0.1% accounts for all the variation you see — skin color, height, disease risk, whether cilantro tastes like soap. Identity is built on a razor's edge of difference.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Human_karyotype_with_bands_and_sub-bands.png"
   },
-  {
+{
     "era": "digital",
     "year": 2012,
     "domain": "science",
@@ -422,7 +422,7 @@ const CHRONICLE_DATA = [
     "connection": "Peter Higgs predicted this particle in 1964 on a walk in the Scottish Highlands. He was so unsure of his idea that he almost didn't publish the paper. The universe needed him to be braver than he felt.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png"
   },
-  {
+{
     "era": "digital",
     "year": 2015,
     "domain": "space",
@@ -431,16 +431,16 @@ const CHRONICLE_DATA = [
     "connection": "We can now listen to the universe, not just look at it. Gravitational wave astronomy opened an entirely new sense — like a species born blind suddenly gaining sight.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/LLO_Control_Room.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2019,
     "domain": "space",
     "title": "The First Image of a Black Hole",
     "body": "The Event Horizon Telescope — a planet-sized array of radio dishes — captured the shadow of the supermassive black hole at the center of galaxy M87. It contains 6.5 billion solar masses. The bright ring is superheated matter falling in at nearly the speed of light, never to return.",
     "connection": "You are looking at a region where spacetime curves so severely that the future points inward. Nothing — not light, not information, not time itself — escapes. And yet we photographed it from 55 million light-years away.",
-    "image": "assets/img_space_1777628517848.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc0OCIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0IiBzdG9wLW9wYWNpdHk9IjAuOTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93NDgiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJibHVyNDgiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQ0OCIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmc0OCkiLz4KICA8ZWxsaXBzZSBjeD0iMzYwIiBjeT0iMTgwIiByeD0iMjUwIiByeT0iMTgwIiBmaWxsPSJ1cmwoI2dsb3c0OCkiIGZpbHRlcj0idXJsKCNibHVyNDgpIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDQ4KSIgb3BhY2l0eT0iMC4zNSIgbGV0dGVyLXNwYWNpbmc9IjgiPjA0OTwvdGV4dD4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ0OCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgRmlyc3QgSW1hZ2Ugb2YgYSBCbGFjayBIb2xlPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5TUEFDRTwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 2022,
     "domain": "space",
@@ -449,16 +449,16 @@ const CHRONICLE_DATA = [
     "connection": "Webb didn't just confirm our models of the universe. It broke them. The galaxies forming just 300 million years after the Big Bang were far too mature. Cosmology is being rewritten in real time.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png"
   },
-  {
+{
     "era": "digital",
     "year": 2024,
     "domain": "weird",
     "title": "The AI That Learned to Dream",
     "body": "Large language models began exhibiting emergent behaviors — capabilities no one explicitly programmed. They could reason by analogy, write poetry, solve novel problems, and occasionally hallucinate facts with perfect confidence. Humanity had built a mirror, and the reflection was uncanny.",
     "connection": "Every technology is a mirror. Writing externalized memory. The printing press externalized distribution. The internet externalized connection. AI externalizes cognition. What's left that's uniquely human? Maybe just the question itself.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc1MCIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0IiBzdG9wLW9wYWNpdHk9IjAuOTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93NTAiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJibHVyNTAiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQ1MCIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmc1MCkiLz4KICA8ZWxsaXBzZSBjeD0iMzYwIiBjeT0iMTgwIiByeD0iMjUwIiByeT0iMTgwIiBmaWxsPSJ1cmwoI2dsb3c1MCkiIGZpbHRlcj0idXJsKCNibHVyNTApIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDUwKSIgb3BhY2l0eT0iMC4zNSIgbGV0dGVyLXNwYWNpbmc9IjgiPjA1MTwvdGV4dD4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ1MCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgQUkgVGhhdCBMZWFybmVkIHRvIERyZWFtPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "cosmic",
     "year": "13.7B BCE",
     "domain": "space",
@@ -467,7 +467,7 @@ const CHRONICLE_DATA = [
     "connection": "A whisper of creation.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cosmic_Microwave_Background_%28CMB%29.jpeg"
   },
-  {
+{
     "era": "cosmic",
     "year": "13.2B BCE",
     "domain": "space",
@@ -476,7 +476,7 @@ const CHRONICLE_DATA = [
     "connection": "The first lights in the dark.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Distant_galaxy_GN-z11_in_GOODS-N_image_by_HST.jpg"
   },
-  {
+{
     "era": "cosmic",
     "year": "12B BCE",
     "domain": "weird",
@@ -485,7 +485,7 @@ const CHRONICLE_DATA = [
     "connection": "An unseen force steering our fate.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Gran_Atractor.jpg"
   },
-  {
+{
     "era": "cosmic",
     "year": "4.6B BCE",
     "domain": "science",
@@ -494,7 +494,7 @@ const CHRONICLE_DATA = [
     "connection": "The birth of our local light.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/The_Mysterious_Case_of_the_Disappearing_Dust.jpg"
   },
-  {
+{
     "era": "cosmic",
     "year": "4.5B BCE",
     "domain": "history",
@@ -503,7 +503,7 @@ const CHRONICLE_DATA = [
     "connection": "Violence creating a companion.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Artist%27s_concept_of_collision_at_HD_172555.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": "4.1B BCE",
     "domain": "science",
@@ -512,7 +512,7 @@ const CHRONICLE_DATA = [
     "connection": "The scars remain on the Moon.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Precambrian_Evolution_of_Life.png"
   },
-  {
+{
     "era": "primordial",
     "year": "3.8B BCE",
     "domain": "science",
@@ -521,7 +521,7 @@ const CHRONICLE_DATA = [
     "connection": "The cradle of all known life.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pacific_Ocean_as_viewed_from_GOES-18_on_September_23%2C_2023.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": "3.5B BCE",
     "domain": "science",
@@ -530,7 +530,7 @@ const CHRONICLE_DATA = [
     "connection": "The breath that changed the world.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/CSIRO_ScienceImage_4203_A_bluegreen_algae_species_Cylindrospermum_sp_under_magnification.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": "2.4B BCE",
     "domain": "weird",
@@ -539,7 +539,7 @@ const CHRONICLE_DATA = [
     "connection": "A toxic dawn for early microbes.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Precambrian_Evolution_of_Life.png"
   },
-  {
+{
     "era": "primordial",
     "year": "600M BCE",
     "domain": "history",
@@ -548,25 +548,25 @@ const CHRONICLE_DATA = [
     "connection": "A frozen pause before the explosion of life.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Snowball_Huronian.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": "540M BCE",
     "domain": "science",
     "title": "Cambrian Explosion",
     "body": "A sudden burst of evolutionary innovation, creating the ancestors of most modern animals.",
     "connection": "Life finds a myriad of ways.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc2MSIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigyMzIsMTY4LDEyNCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzYxIiBjeD0iNDUlIiBjeT0iMzUlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDIzMiwxNjgsMTI0KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXI2MSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDYxIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNmNWQ2NzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNiZzYxKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzYxKSIgZmlsdGVyPSJ1cmwoI2JsdXI2MSkiLz4KICA8IS0tIFN0YXJzIC0tPgogIDxjaXJjbGUgY3g9IjEyMCIgY3k9IjgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjEyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iNjAiIHI9IjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOSIvPgogIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjMyMCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI4MCIgY3k9IjM1MCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iNTUwIiBjeT0iODAiIHI9IjEuOCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iNDAwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iNDIwIiByPSIxLjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjkwIiBjeT0iMjIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIEVudHJ5IG51bWJlciAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSI3MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkNjEpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MDYyPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDYxKSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPkNhbWJyaWFuIEV4cGxvc2lvbjwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMjMyLDE2OCwxMjQpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPlNDSUVOQ0U8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMjMyLDE2OCwxMjQsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgyMzIsMTY4LDEyNCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "ancient",
     "year": "252M BCE",
     "domain": "weird",
     "title": "The Great Dying",
     "body": "The Permian extinction wiped out 96% of all marine species and 70% of terrestrial vertebrates.",
     "connection": "The closest life came to total annihilation.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc2MiIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigyMzIsMTY4LDEyNCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzYyIiBjeD0iNDUlIiBjeT0iMzUlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDIzMiwxNjgsMTI0KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXI2MiI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDYyIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNmNWQ2NzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNiZzYyKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzYyKSIgZmlsdGVyPSJ1cmwoI2JsdXI2MikiLz4KICA8IS0tIFN0YXJzIC0tPgogIDxjaXJjbGUgY3g9IjEyMCIgY3k9IjgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjEyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iNjAiIHI9IjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOSIvPgogIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjMyMCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI4MCIgY3k9IjM1MCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iNTUwIiBjeT0iODAiIHI9IjEuOCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iNDAwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iNDIwIiByPSIxLjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjkwIiBjeT0iMjIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIEVudHJ5IG51bWJlciAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSI3MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkNjIpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MDYzPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDYyKSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPlRoZSBHcmVhdCBEeWluZzwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMjMyLDE2OCwxMjQpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPldFSVJEPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDIzMiwxNjgsMTI0LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMjMyLDE2OCwxMjQsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "ancient",
     "year": "66M BCE",
     "domain": "space",
@@ -575,7 +575,7 @@ const CHRONICLE_DATA = [
     "connection": "Fire from the sky reset the biological clock.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Yucatan_chix_crater.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": "30,000 BCE",
     "domain": "art",
@@ -584,7 +584,7 @@ const CHRONICLE_DATA = [
     "connection": "Humanity begins to record its vision.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Paintings_from_the_Chauvet_cave_%28museum_replica%29.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": "3,200 BCE",
     "domain": "history",
@@ -593,7 +593,7 @@ const CHRONICLE_DATA = [
     "connection": "History begins to be recorded in clay.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Xerxes_Cuneiform_Van.JPG"
   },
-  {
+{
     "era": "classical",
     "year": "2560 BCE",
     "domain": "history",
@@ -602,7 +602,7 @@ const CHRONICLE_DATA = [
     "connection": "Monuments to outlast time.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg"
   },
-  {
+{
     "era": "classical",
     "year": "1600 BCE",
     "domain": "weird",
@@ -611,16 +611,16 @@ const CHRONICLE_DATA = [
     "connection": "Early humans looking up in wonder.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nebra_disc_1.jpg"
   },
-  {
+{
     "era": "classical",
     "year": "1200 BCE",
     "domain": "history",
     "title": "Late Bronze Age Collapse",
     "body": "A mysterious societal collapse that wiped out several major civilizations in the Mediterranean.",
     "connection": "The first great dark age.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc2OCIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigyMjQsMTkyLDEwNCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzY4IiBjeD0iNDUlIiBjeT0iMzUlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDIyNCwxOTIsMTA0KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXI2OCI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDY4IiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNmNWQ2NzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNiZzY4KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzY4KSIgZmlsdGVyPSJ1cmwoI2JsdXI2OCkiLz4KICA8IS0tIFN0YXJzIC0tPgogIDxjaXJjbGUgY3g9IjEyMCIgY3k9IjgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjEyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iNjAiIHI9IjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOSIvPgogIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjMyMCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI4MCIgY3k9IjM1MCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iNTUwIiBjeT0iODAiIHI9IjEuOCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iNDAwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iNDIwIiByPSIxLjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjkwIiBjeT0iMjIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIEVudHJ5IG51bWJlciAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSI3MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkNjgpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MDY5PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDY4KSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPkxhdGUgQnJvbnplIEFnZSBDb2xsYXBzZTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMjI0LDE5MiwxMDQpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkhJU1RPUlk8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMjI0LDE5MiwxMDQsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgyMjQsMTkyLDEwNCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "classical",
     "year": "400 BCE",
     "domain": "science",
@@ -629,7 +629,7 @@ const CHRONICLE_DATA = [
     "connection": "A philosophical guess that proved profoundly true.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Unknown_greek_pushkin.jpg"
   },
-  {
+{
     "era": "classical",
     "year": "87 BCE",
     "domain": "weird",
@@ -638,7 +638,7 @@ const CHRONICLE_DATA = [
     "connection": "Lost technology of the ancient world.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Antikythera_Fragment_A_%28Front%29.webp"
   },
-  {
+{
     "era": "medieval",
     "year": "800 CE",
     "domain": "art",
@@ -647,7 +647,7 @@ const CHRONICLE_DATA = [
     "connection": "Preserving knowledge through artistry.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/KellsFol032vChristEnthroned.jpg"
   },
-  {
+{
     "era": "medieval",
     "year": "1054 CE",
     "domain": "space",
@@ -656,16 +656,16 @@ const CHRONICLE_DATA = [
     "connection": "A new star blazes and fades.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg"
   },
-  {
+{
     "era": "medieval",
     "year": "1347 CE",
     "domain": "history",
     "title": "The Black Death",
     "body": "A devastating global epidemic of bubonic plague that struck Europe and Asia.",
     "connection": "A biological reset of human society.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc3MyIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigyMDEsMTY4LDc2KSIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0IiBzdG9wLW9wYWNpdHk9IjAuOTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDMwMDE0Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93NzMiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMjAxLDE2OCw3NikiIHN0b3Atb3BhY2l0eT0iMC40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJibHVyNzMiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQ3MyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmc3MykiLz4KICA8ZWxsaXBzZSBjeD0iMzYwIiBjeT0iMTgwIiByeD0iMjUwIiByeT0iMTgwIiBmaWxsPSJ1cmwoI2dsb3c3MykiIGZpbHRlcj0idXJsKCNibHVyNzMpIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDczKSIgb3BhY2l0eT0iMC4zNSIgbGV0dGVyLXNwYWNpbmc9IjgiPjA3NDwvdGV4dD4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQ3MykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgQmxhY2sgRGVhdGg8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDIwMSwxNjgsNzYpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkhJU1RPUlk8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMjAxLDE2OCw3NiwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDIwMSwxNjgsNzYsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "medieval",
     "year": "1438 CE",
     "domain": "history",
@@ -674,7 +674,7 @@ const CHRONICLE_DATA = [
     "connection": "A rapid rise to imperial dominance.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Montaje_2_conquista_del_Peru.png"
   },
-  {
+{
     "era": "medieval",
     "year": "1440 CE",
     "domain": "science",
@@ -683,7 +683,7 @@ const CHRONICLE_DATA = [
     "connection": "The mass distribution of thought begins.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/PrintMus_038.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1504 CE",
     "domain": "art",
@@ -692,7 +692,7 @@ const CHRONICLE_DATA = [
     "connection": "Humanity elevating itself through marble.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1543 CE",
     "domain": "science",
@@ -701,7 +701,7 @@ const CHRONICLE_DATA = [
     "connection": "A profound shift in our place in the universe.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Copernican_heliocentrism_diagram-2.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1572 CE",
     "domain": "space",
@@ -710,7 +710,7 @@ const CHRONICLE_DATA = [
     "connection": "Shattering the crystalline spheres.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tycho-supernova-xray.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1609 CE",
     "domain": "space",
@@ -719,7 +719,7 @@ const CHRONICLE_DATA = [
     "connection": "A closer look at our celestial neighbor.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Zeiss2.jpg"
   },
-  {
+{
     "era": "renaissance",
     "year": "1665 CE",
     "domain": "science",
@@ -728,7 +728,7 @@ const CHRONICLE_DATA = [
     "connection": "The building blocks of life are revealed.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HeLa_cells_stained_with_Hoechst_33258.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1687 CE",
     "domain": "science",
@@ -737,16 +737,16 @@ const CHRONICLE_DATA = [
     "connection": "The universe follows predictable rules.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Russell%2C_Whitehead_-_Principia_Mathematica_to_56.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1752 CE",
     "domain": "weird",
     "title": "The Lightning Rod",
     "body": "Benjamin Franklin proved lightning is electricity and invented the lightning rod.",
     "connection": "Taming the fire from the sky.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc4MiIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigyNDUsMjMwLDE4NCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzgyIiBjeD0iNDUlIiBjeT0iMzUlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDI0NSwyMzAsMTg0KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXI4MiI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDgyIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNmNWQ2NzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNiZzgyKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzgyKSIgZmlsdGVyPSJ1cmwoI2JsdXI4MikiLz4KICA8IS0tIFN0YXJzIC0tPgogIDxjaXJjbGUgY3g9IjEyMCIgY3k9IjgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjEyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iNjAiIHI9IjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOSIvPgogIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjMyMCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI4MCIgY3k9IjM1MCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iNTUwIiBjeT0iODAiIHI9IjEuOCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iNDAwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iNDIwIiByPSIxLjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjkwIiBjeT0iMjIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIEVudHJ5IG51bWJlciAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSI3MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkODIpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MDgzPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDgyKSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPlRoZSBMaWdodG5pbmcgUm9kPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigyNDUsMjMwLDE4NCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+V0VJUkQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMjQ1LDIzMCwxODQsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgyNDUsMjMwLDE4NCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1781 CE",
     "domain": "space",
@@ -755,7 +755,7 @@ const CHRONICLE_DATA = [
     "connection": "The solar system expands its borders.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1789 CE",
     "domain": "history",
@@ -764,7 +764,7 @@ const CHRONICLE_DATA = [
     "connection": "The dawn of modern democratic ideals.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Anonymous_-_Prise_de_la_Bastille.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": "1799 CE",
     "domain": "history",
@@ -773,7 +773,7 @@ const CHRONICLE_DATA = [
     "connection": "A key to unlock ancient voices.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG"
   },
-  {
+{
     "era": "industrial",
     "year": "1804 CE",
     "domain": "history",
@@ -782,7 +782,7 @@ const CHRONICLE_DATA = [
     "connection": "The acceleration of human transit.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Number_4468_Mallard_in_York.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": "1859 CE",
     "domain": "weird",
@@ -791,7 +791,7 @@ const CHRONICLE_DATA = [
     "connection": "The Sun flexes its magnetic muscle.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg"
   },
-  {
+{
     "era": "industrial",
     "year": "1888 CE",
     "domain": "art",
@@ -800,7 +800,7 @@ const CHRONICLE_DATA = [
     "connection": "A tortured mind captures the cosmos.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": "1895 CE",
     "domain": "science",
@@ -809,16 +809,16 @@ const CHRONICLE_DATA = [
     "connection": "Seeing the unseen.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Color_X-ray_photogram.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": "1903 CE",
     "domain": "history",
     "title": "First Powered Flight",
     "body": "The Wright brothers successfully flew the first powered airplane at Kitty Hawk.",
     "connection": "Humanity slips the surly bonds of Earth.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmc5MCIgY3g9IjUwJSIgY3k9IjQwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigxNjAsMTYwLDE2MCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzkwIiBjeD0iNDUlIiBjeT0iMzUlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0icmdiKDE2MCwxNjAsMTYwKSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXI5MCI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDkwIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNmNWQ2NzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0idXJsKCNiZzkwKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzkwKSIgZmlsdGVyPSJ1cmwoI2JsdXI5MCkiLz4KICA8IS0tIFN0YXJzIC0tPgogIDxjaXJjbGUgY3g9IjEyMCIgY3k9IjgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjEyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iNjAiIHI9IjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOSIvPgogIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjMyMCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI4MCIgY3k9IjM1MCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iNTUwIiBjeT0iODAiIHI9IjEuOCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iNDAwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iNDIwIiByPSIxLjIiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjkwIiBjeT0iMjIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIEVudHJ5IG51bWJlciAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSI3MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkOTApIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MDkxPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDkwKSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPkZpcnN0IFBvd2VyZWQgRmxpZ2h0PC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigxNjAsMTYwLDE2MCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+SElTVE9SWTwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgxNjAsMTYwLDE2MCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDE2MCwxNjAsMTYwLDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "modern",
     "year": "1915 CE",
     "domain": "science",
@@ -827,7 +827,7 @@ const CHRONICLE_DATA = [
     "connection": "The fabric of the universe reimagined.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BBH_gravitational_lensing_of_gw150914.webm"
   },
-  {
+{
     "era": "modern",
     "year": "1928 CE",
     "domain": "science",
@@ -836,7 +836,7 @@ const CHRONICLE_DATA = [
     "connection": "A mold that saved millions of lives.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg"
   },
-  {
+{
     "era": "modern",
     "year": "1957 CE",
     "domain": "space",
@@ -845,7 +845,7 @@ const CHRONICLE_DATA = [
     "connection": "The space race begins with a beep.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg"
   },
-  {
+{
     "era": "modern",
     "year": "1969 CE",
     "domain": "space",
@@ -854,7 +854,7 @@ const CHRONICLE_DATA = [
     "connection": "A giant leap for mankind.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg"
   },
-  {
+{
     "era": "modern",
     "year": "1977 CE",
     "domain": "space",
@@ -863,7 +863,7 @@ const CHRONICLE_DATA = [
     "connection": "A message in a cosmic bottle.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_Sounds_of_Earth_-_GPN-2000-001976.jpg"
   },
-  {
+{
     "era": "digital",
     "year": "1989 CE",
     "domain": "history",
@@ -872,7 +872,7 @@ const CHRONICLE_DATA = [
     "connection": "The birth of the global brain.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chrome_on_Linux.png"
   },
-  {
+{
     "era": "digital",
     "year": "1990 CE",
     "domain": "space",
@@ -881,7 +881,7 @@ const CHRONICLE_DATA = [
     "connection": "A mote of dust suspended in a sunbeam.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png"
   },
-  {
+{
     "era": "digital",
     "year": "2003 CE",
     "domain": "science",
@@ -890,7 +890,7 @@ const CHRONICLE_DATA = [
     "connection": "Reading the source code of life.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_HGP.jpg"
   },
-  {
+{
     "era": "digital",
     "year": "2012 CE",
     "domain": "science",
@@ -899,7 +899,7 @@ const CHRONICLE_DATA = [
     "connection": "The final piece of the Standard Model.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png"
   },
-  {
+{
     "era": "digital",
     "year": "2021 CE",
     "domain": "space",
@@ -908,7 +908,7 @@ const CHRONICLE_DATA = [
     "connection": "Opening a new eye on the universe.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png"
   },
-  {
+{
     "era": "primordial",
     "year": -155000000,
     "domain": "science",
@@ -917,7 +917,7 @@ const CHRONICLE_DATA = [
     "connection": "Its strange anatomy still puzzles modern paleontologists regarding the exact function of its plates.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Journal.pone.0138352.g001A.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -150000000,
     "domain": "science",
@@ -926,7 +926,7 @@ const CHRONICLE_DATA = [
     "connection": "These titans pushed the absolute biological limits of size for land-dwelling animals.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/CM_Diplodocus.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -75000000,
     "domain": "science",
@@ -935,7 +935,7 @@ const CHRONICLE_DATA = [
     "connection": "A vital evolutionary link cementing the connection between theropod dinosaurs and modern birds.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Velociraptor_skeleton_white_background.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -68000000,
     "domain": "science",
@@ -944,7 +944,7 @@ const CHRONICLE_DATA = [
     "connection": "The T-Rex remains a cultural icon, symbolizing the awe-inspiring power of prehistoric life.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Tyrannosaurus_Rex_Holotype.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -68000000,
     "domain": "science",
@@ -953,7 +953,7 @@ const CHRONICLE_DATA = [
     "connection": "Fossil evidence of healed bite marks proves these epic prehistoric battles truly happened.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LA-Triceratops_mount-2.jpg"
   },
-  {
+{
     "era": "primordial",
     "year": -66000000,
     "domain": "science",
@@ -962,7 +962,7 @@ const CHRONICLE_DATA = [
     "connection": "The apocalyptic end of the dinosaurs cleared the evolutionary path for the rise of mammals.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Yucatan_chix_crater.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": -509,
     "domain": "weird",
@@ -971,7 +971,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Ancient Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/N03Brutus-u-Lucretia.jpg"
   },
-  {
+{
     "era": "ancient",
     "year": -354,
     "domain": "weird",
@@ -980,7 +980,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Ancient Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/G%C3%BCthling_Xenophon_Erinnerungen_001.jpg"
   },
-  {
+{
     "era": "classical",
     "year": 1145,
     "domain": "weird",
@@ -989,7 +989,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Classical Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Common_seal_of_the_Priory_of_Markyate.jpg"
   },
-  {
+{
     "era": "classical",
     "year": 1350,
     "domain": "weird",
@@ -998,16 +998,16 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Classical Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Manuel-chrysoloras-paolo-uccello-louvre-15th.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1611,
     "domain": "art",
     "title": "William Romney",
     "body": "Sir William Romney (died 25 April 1611) was an English merchant. He was governor of the East India Company and took part in other ventures to develop English interests in overseas trade.",
     "connection": "A notable fragment of the Enlightenment Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMTEiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMjQ1LDIzMCwxODQpIiBzdG9wLW9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3cxMTEiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMjQ1LDIzMCwxODQpIiBzdG9wLW9wYWNpdHk9IjAuNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9InRyYW5zcGFyZW50Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iYmx1cjExMSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDExMSIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmcxMTEpIi8+CiAgPGVsbGlwc2UgY3g9IjM2MCIgY3k9IjE4MCIgcng9IjI1MCIgcnk9IjE4MCIgZmlsbD0idXJsKCNnbG93MTExKSIgZmlsdGVyPSJ1cmwoI2JsdXIxMTEpIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDExMSkiIG9wYWNpdHk9IjAuMzUiIGxldHRlci1zcGFjaW5nPSI4Ij4xMTI8L3RleHQ+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM0MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMTExKSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPldpbGxpYW0gUm9tbmV5PC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigyNDUsMjMwLDE4NCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+QVJUPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDI0NSwyMzAsMTg0LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMjQ1LDIzMCwxODQsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "enlightenment",
     "year": 1683,
     "domain": "art",
@@ -1016,25 +1016,25 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Enlightenment Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Anna_Maria_Thelott.jpg"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1705,
     "domain": "weird",
     "title": "Cockcroft v Smith",
     "body": "Cockcroft v Smith (1705) 11 Mod 43 is an English tort law case. It concerned the definition of legitimate self defence.",
     "connection": "A notable fragment of the Enlightenment Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMTMiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMjQ1LDIzMCwxODQpIiBzdG9wLW9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3cxMTMiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMjQ1LDIzMCwxODQpIiBzdG9wLW9wYWNpdHk9IjAuNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9InRyYW5zcGFyZW50Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iYmx1cjExMyI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDExMyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmcxMTMpIi8+CiAgPGVsbGlwc2UgY3g9IjM2MCIgY3k9IjE4MCIgcng9IjI1MCIgcnk9IjE4MCIgZmlsbD0idXJsKCNnbG93MTEzKSIgZmlsdGVyPSJ1cmwoI2JsdXIxMTMpIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDExMykiIG9wYWNpdHk9IjAuMzUiIGxldHRlci1zcGFjaW5nPSI4Ij4xMTQ8L3RleHQ+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM0MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMTEzKSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPkNvY2tjcm9mdCB2IFNtaXRoPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigyNDUsMjMwLDE4NCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+V0VJUkQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMjQ1LDIzMCwxODQsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgyNDUsMjMwLDE4NCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "enlightenment",
     "year": 1746,
     "domain": "weird",
     "title": "Benjamin Rush (disambiguation)",
     "body": "Benjamin Rush (1746–1813) was an American revolutionary and a Founding Father of the United States. Benjamin Rush may also refer to  Benjamin Rush (lawyer) (1811–1877), American lawyer and writer Benjamin Rush, a character in 13 Ghosts USRC Benjam...",
     "connection": "A notable fragment of the Enlightenment Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMTQiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMjQ1LDIzMCwxODQpIiBzdG9wLW9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3cxMTQiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMjQ1LDIzMCwxODQpIiBzdG9wLW9wYWNpdHk9IjAuNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9InRyYW5zcGFyZW50Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iYmx1cjExNCI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDExNCIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmcxMTQpIi8+CiAgPGVsbGlwc2UgY3g9IjM2MCIgY3k9IjE4MCIgcng9IjI1MCIgcnk9IjE4MCIgZmlsbD0idXJsKCNnbG93MTE0KSIgZmlsdGVyPSJ1cmwoI2JsdXIxMTQpIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDExNCkiIG9wYWNpdHk9IjAuMzUiIGxldHRlci1zcGFjaW5nPSI4Ij4xMTU8L3RleHQ+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM0MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMTE0KSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPkJlbmphbWluIFJ1c2ggKGRpc2FtYmlndWF0aW9uKTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMjQ1LDIzMCwxODQpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPldFSVJEPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDI0NSwyMzAsMTg0LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMjQ1LDIzMCwxODQsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "industrial",
     "year": 1797,
     "domain": "weird",
@@ -1043,7 +1043,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Baltazar_Mathias_Keilhau.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1799,
     "domain": "weird",
@@ -1052,7 +1052,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Robert_Schneider-Otto_Speckter_-_Alexis_de_Chateauneuf.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1821,
     "domain": "science",
@@ -1061,7 +1061,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Tulosesus_impatiens.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1823,
     "domain": "science",
@@ -1070,16 +1070,16 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Spb_Aptekarsky_Island_Botanical_Garden_asv2019-09_img1.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1845,
     "domain": "art",
     "title": "Astrea",
     "body": "Astrea may refer to:  Astrea, an alternate spelling of the ancient Greek goddess Astraea Alternate spelling of 5 Astraea, an asteroid discovered in 1845 Astrea: Six-Sided Oracles, a 2023 video game Astrea, Cesar, a municipality in the department o...",
     "connection": "A notable fragment of the Industrial Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMTkiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMTYwLDE2MCwxNjApIiBzdG9wLW9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3cxMTkiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMTYwLDE2MCwxNjApIiBzdG9wLW9wYWNpdHk9IjAuNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9InRyYW5zcGFyZW50Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iYmx1cjExOSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDExOSIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmcxMTkpIi8+CiAgPGVsbGlwc2UgY3g9IjM2MCIgY3k9IjE4MCIgcng9IjI1MCIgcnk9IjE4MCIgZmlsbD0idXJsKCNnbG93MTE5KSIgZmlsdGVyPSJ1cmwoI2JsdXIxMTkpIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDExOSkiIG9wYWNpdHk9IjAuMzUiIGxldHRlci1zcGFjaW5nPSI4Ij4xMjA8L3RleHQ+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM0MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMTE5KSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPkFzdHJlYTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMTYwLDE2MCwxNjApIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgxNjAsMTYwLDE2MCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDE2MCwxNjAsMTYwLDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "industrial",
     "year": 1853,
     "domain": "weird",
@@ -1088,7 +1088,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1915_photograph_of_Francesco_Fanciulli%3B_last_photograph_before_death.png"
   },
-  {
+{
     "era": "industrial",
     "year": 1858,
     "domain": "science",
@@ -1097,7 +1097,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/-_9146_%E2%80%93_Tarache_delecta_%E2%80%93_Delightful_Bird-dropping_Moth_%28same_as_Acontia_delecta%29_%289594474969%29.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1865,
     "domain": "weird",
@@ -1106,7 +1106,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nguyen_Thuong_Hien.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1866,
     "domain": "art",
@@ -1115,7 +1115,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mattie_Edwards_Hewitt_-_half-length_photo_by_Frances_Benjamin_Johnston.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1870,
     "domain": "weird",
@@ -1124,7 +1124,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Julian_besteiro_metro.JPG"
   },
-  {
+{
     "era": "industrial",
     "year": 1871,
     "domain": "weird",
@@ -1133,7 +1133,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jtmyers-usmcphoto.jpg"
   },
-  {
+{
     "era": "industrial",
     "year": 1879,
     "domain": "weird",
@@ -1142,16 +1142,16 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Henry_Swan.gif"
   },
-  {
+{
     "era": "industrial",
     "year": 1883,
     "domain": "weird",
     "title": "Dicky Bond",
     "body": "Richard Bond (14 December 1883 – 25 April 1955) was an English footballer who played outside right. He was capped eight times by England and spent the vast majority of his playing career at Bradford City where he played more than 300 games.",
     "connection": "A notable fragment of the Industrial Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMjciIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMTYwLDE2MCwxNjApIiBzdG9wLW9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3cxMjciIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMTYwLDE2MCwxNjApIiBzdG9wLW9wYWNpdHk9IjAuNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9InRyYW5zcGFyZW50Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iYmx1cjEyNyI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDEyNyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmcxMjcpIi8+CiAgPGVsbGlwc2UgY3g9IjM2MCIgY3k9IjE4MCIgcng9IjI1MCIgcnk9IjE4MCIgZmlsbD0idXJsKCNnbG93MTI3KSIgZmlsdGVyPSJ1cmwoI2JsdXIxMjcpIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEyNykiIG9wYWNpdHk9IjAuMzUiIGxldHRlci1zcGFjaW5nPSI4Ij4xMjg8L3RleHQ+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM0MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMTI3KSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPkRpY2t5IEJvbmQ8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDE2MCwxNjAsMTYwKSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgxNjAsMTYwLDE2MCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDE2MCwxNjAsMTYwLDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "industrial",
     "year": 1890,
     "domain": "history",
@@ -1160,16 +1160,16 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Industrial Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/New_Zealand_rugby_league_representative_Morgan_Hayward.png"
   },
-  {
+{
     "era": "industrial",
     "year": 1891,
     "domain": "weird",
     "title": "1891 U.S. National Championships (tennis)",
     "body": "The 1891 U.S. National Championships (now known as the US Open) was a tennis tournament that took place in June and August of 1891. The women's tournament was held from June 23 to June 27 on the outdoor grass courts at the Philadelphia Cricket Clu...",
     "connection": "A notable fragment of the Industrial Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMjkiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMTYwLDE2MCwxNjApIiBzdG9wLW9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMzAwMTQiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3cxMjkiIGN4PSI0NSUiIGN5PSIzNSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMTYwLDE2MCwxNjApIiBzdG9wLW9wYWNpdHk9IjAuNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9InRyYW5zcGFyZW50Ii8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iYmx1cjEyOSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZDEyOSIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODRjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVkNjc2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MDAiIGZpbGw9InVybCgjYmcxMjkpIi8+CiAgPGVsbGlwc2UgY3g9IjM2MCIgY3k9IjE4MCIgcng9IjI1MCIgcnk9IjE4MCIgZmlsbD0idXJsKCNnbG93MTI5KSIgZmlsdGVyPSJ1cmwoI2JsdXIxMjkpIi8+CiAgPCEtLSBTdGFycyAtLT4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSI4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIxMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjYwIiByPSIyIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIzMjAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjU1MCIgY3k9IjgwIiByPSIxLjgiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjQwMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjQyMCIgcj0iMS4yIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI5MCIgY3k9IjIyMCIgcj0iMSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBFbnRyeSBudW1iZXIgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEyOSkiIG9wYWNpdHk9IjAuMzUiIGxldHRlci1zcGFjaW5nPSI4Ij4xMzA8L3RleHQ+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM0MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNpbnplbCxzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCNnb2xkMTI5KSIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPjE4OTEgVS5TLiBOYXRpb25hbCBDaGFtcGlvbnNoaXBzICh0ZW5uaXM8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDE2MCwxNjAsMTYwKSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgxNjAsMTYwLDE2MCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDE2MCwxNjAsMTYwLDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "modern",
     "year": 1903,
     "domain": "art",
@@ -1178,88 +1178,88 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Yasujiro_Ozu_01.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1905,
     "domain": "art",
     "title": "László Kardos",
     "body": "László Kardos (October 8, 1905 – April 11, 1962) was a Hungarian film director, screenwriter and editor. He spent the latter part of his film career in the United States where he worked under the pseudonym Leslie Kardos. He was the son of the prin...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMzEiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzEzMSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxMzEiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxMzEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTMxKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzEzMSkiIGZpbHRlcj0idXJsKCNibHVyMTMxKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxMzEpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTMyPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEzMSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Mw6FzemzDsyBLYXJkb3M8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDM4LDE5OCwyMTgpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1906,
     "domain": "weird",
     "title": "Romildo",
     "body": "Romildo is a given name. Notable people with the name include:  Romildo Etcheverry (1906–1967), Paraguayan footballer Romildo Ribeiro Soares (born 1947), Brazilian televangelist and missionary Romildo (footballer, born 1973), Romildo Santos Rosa, ...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMzIiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzEzMiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxMzIiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxMzIiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTMyKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzEzMikiIGZpbHRlcj0idXJsKCNibHVyMTMyKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxMzIpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTMzPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEzMikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Sb21pbGRvPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1909,
     "domain": "weird",
     "title": "Virginia Lee Burton",
     "body": "Virginia Lee Burton (August 30, 1909 – October 15, 1968), also known by her married name Virginia Demetrios, was an American illustrator and children's book author. She wrote and illustrated seven children's books, including Mike Mulligan and His ...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMzMiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzEzMyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxMzMiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxMzMiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTMzKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzEzMykiIGZpbHRlcj0idXJsKCNibHVyMTMzKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxMzMpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTM0PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEzMykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5WaXJnaW5pYSBMZWUgQnVydG9uPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1911,
     "domain": "weird",
     "title": "Xing Rongjie",
     "body": "Xing Rongjie (Chinese: 邢荣杰; pinyin: Xing Rongjie; 1911 – 20 November 1997) was a Chinese military officer. He was the army Founding General in China.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMzQiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzEzNCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxMzQiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxMzQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTM0KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzEzNCkiIGZpbHRlcj0idXJsKCNibHVyMTM0KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxMzQpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTM1PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEzNCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5YaW5nIFJvbmdqaWU8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDM4LDE5OCwyMTgpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPldFSVJEPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "modern",
     "year": 1915,
     "domain": "weird",
     "title": "Jack Daly (politician)",
     "body": "Jack Daly (28 May 1915 – 5 May 1988) was a Fine Gael politician from County Kerry in Ireland. He was a member of Seanad Éireann from 1975 to 1977, and again from 1982 to 1988. The founder and managing director of the motor vehicle business ″Killar...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMzUiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzEzNSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxMzUiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxMzUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTM1KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzEzNSkiIGZpbHRlcj0idXJsKCNibHVyMTM1KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxMzUpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTM2PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEzNSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5KYWNrIERhbHkgKHBvbGl0aWNpYW4pPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1927,
     "domain": "art",
     "title": "Joseph Wheeler (musicologist)",
     "body": "Joseph Hugh Wheeler (1927 – 11 October 1977) was a British musician and musicologist. A civil servant by profession, Wheeler's most famous work was his realisation of Gustav Mahler's Tenth Symphony which he began in 1952 and took him some thirteen...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMzYiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzEzNiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxMzYiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxMzYiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTM2KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzEzNikiIGZpbHRlcj0idXJsKCNibHVyMTM2KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxMzYpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTM3PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEzNikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Kb3NlcGggV2hlZWxlciAobXVzaWNvbG9naXN0KTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMzgsMTk4LDIxOCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+QVJUPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "modern",
     "year": 1928,
     "domain": "science",
     "title": "Jüri Selirand",
     "body": "Jüri Selirand (21 July 1928 – 11 September 2017) was an Estonian archaeologist, historian, and translator associated with archaeological research and heritage popularisation in Estonia. He worked for decades at the Institute of History in Tallinn ...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMzciIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzEzNyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxMzciPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxMzciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTM3KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzEzNykiIGZpbHRlcj0idXJsKCNibHVyMTM3KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxMzcpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTM4PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEzNykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Kw7xyaSBTZWxpcmFuZDwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMzgsMTk4LDIxOCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+U0NJRU5DRTwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1930,
     "domain": "art",
     "title": "Trevor Bell (artist)",
     "body": "Trevor Bell (18 October 1930 – 3 November 2017) was an English Leeds-born artist and contemporary visual artist.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMzgiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzEzOCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxMzgiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxMzgiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTM4KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzEzOCkiIGZpbHRlcj0idXJsKCNibHVyMTM4KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxMzgpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTM5PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEzOCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UcmV2b3IgQmVsbCAoYXJ0aXN0KTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMzgsMTk4LDIxOCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+QVJUPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "modern",
     "year": 1931,
     "domain": "weird",
     "title": "The Irish Press",
     "body": "The Irish Press (Irish: Scéala Éireann) was an Irish national daily newspaper published by Irish Press plc between 5 September 1931 and 25 May 1995.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxMzkiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzEzOSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxMzkiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxMzkiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTM5KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzEzOSkiIGZpbHRlcj0idXJsKCNibHVyMTM5KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxMzkpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTQwPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDEzOSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgSXJpc2ggUHJlc3M8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDM4LDE5OCwyMTgpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPldFSVJEPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "modern",
     "year": 1934,
     "domain": "weird",
@@ -1268,25 +1268,25 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Axel_Jonas_Halbach_-_explorer%2C_traveller%2C_writer_and_artist_%281934-2022%29_05.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1936,
     "domain": "weird",
     "title": "Bob Kaplan",
     "body": "Robert Philip \"Bob\" Kaplan,  (December 27, 1936 – November 5, 2012) was a Canadian politician and lawyer.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNDEiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE0MSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNDEiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNDEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTQxKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE0MSkiIGZpbHRlcj0idXJsKCNibHVyMTQxKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNDEpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTQyPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE0MSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Cb2IgS2FwbGFuPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1937,
     "domain": "weird",
     "title": "David Eames",
     "body": "David George Roniel Eames (born 15 April 1937) is an English former first-class cricketer. Born at London Colney, Ellis made one appearance in first-class cricket for the Marylebone Cricket Club (MCC) against Oxford University at Lord's in 1958. B...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNDIiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE0MiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNDIiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNDIiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTQyKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE0MikiIGZpbHRlcj0idXJsKCNibHVyMTQyKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNDIpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTQzPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE0MikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5EYXZpZCBFYW1lczwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMzgsMTk4LDIxOCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+V0VJUkQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "modern",
     "year": 1938,
     "domain": "history",
@@ -1295,43 +1295,43 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/HistoryCener_from_Strip_District.JPG"
   },
-  {
+{
     "era": "modern",
     "year": 1938,
     "domain": "art",
     "title": "Barnabé (film)",
     "body": "Barnabé is a 1938 French comedy film directed by Alexander Esway and starring Fernandel, Marguerite Moreno and Andrex. It was shot at the Billancourt Studios in Paris. The film's sets were designed by the art directors André Barsacq and Pierre Sch...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNDQiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE0NCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNDQiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNDQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTQ0KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE0NCkiIGZpbHRlcj0idXJsKCNibHVyMTQ0KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNDQpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTQ1PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE0NCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5CYXJuYWLDqSAoZmlsbSk8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDM4LDE5OCwyMTgpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1938,
     "domain": "weird",
     "title": "Reginald Cawcutt",
     "body": "Reginald Michael Cawcutt (25 October 1938 – 5 August 2022) was a South African Roman Catholic prelate. Cawcutt was born in Rugby, Western Cape. His father, Wilfred, was a well-known horse trainer. He studied for the priesthood at St John Vianney S...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNDUiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE0NSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNDUiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNDUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTQ1KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE0NSkiIGZpbHRlcj0idXJsKCNibHVyMTQ1KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNDUpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTQ2PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE0NSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5SZWdpbmFsZCBDYXdjdXR0PC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1940,
     "domain": "art",
     "title": "Fortified Sector of Flanders",
     "body": "The Fortified Sector of Flanders (Secteur Fortifié des Flandres) was the French military organization that in 1940 controlled the section of the French border with Belgium between Lille and the North Sea. The sector was part of a system of fortifi...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNDYiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE0NiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNDYiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNDYiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTQ2KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE0NikiIGZpbHRlcj0idXJsKCNibHVyMTQ2KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNDYpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTQ3PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE0NikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Gb3J0aWZpZWQgU2VjdG9yIG9mIEZsYW5kZXJzPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5BUlQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "modern",
     "year": 1941,
     "domain": "history",
     "title": "1941–42 Southern League Cup (Scotland)",
     "body": "The Southern League Cup 1941–42 was the second edition of the regional war-time football tournament.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNDciIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE0NyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNDciPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNDciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTQ3KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE0NykiIGZpbHRlcj0idXJsKCNibHVyMTQ3KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNDcpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTQ4PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE0NykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj4xOTQx4oCTNDIgU291dGhlcm4gTGVhZ3VlIEN1cCAoU2NvdGxhbmQpPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5ISVNUT1JZPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "modern",
     "year": 1942,
     "domain": "art",
@@ -1340,7 +1340,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Oregon_quarter%2C_reverse_side%2C_2005.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1944,
     "domain": "weird",
@@ -1349,34 +1349,34 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eli_Ben_Rimoje_1970.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1945,
     "domain": "weird",
     "title": "Michael Poulin",
     "body": "Michael Brian Poulin (born June 10, 1945) is an American equestrian. He was born in Newport, Rhode Island. He won a bronze medal in team  dressage at the 1992 Summer Olympics in Barcelona, together with Robert Dover, Carol Lavell and Charlotte Bre...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNTAiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE1MCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNTAiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNTAiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTUwKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE1MCkiIGZpbHRlcj0idXJsKCNibHVyMTUwKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNTApIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTUxPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE1MCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5NaWNoYWVsIFBvdWxpbjwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMzgsMTk4LDIxOCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+V0VJUkQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "modern",
     "year": 1948,
     "domain": "weird",
     "title": "Nareshkumar Chunnalal Puglia",
     "body": "Nareshkumar Puglia alias Babuji (born 20 May 1948) was a member of the 12th Lok Sabha and 13th Lok Sabha, the lower house of Parliament, from the Chandrapur constituency. He was elected as a member of the Indian National Congress. On 30 November 1...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNTEiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE1MSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNTEiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNTEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTUxKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE1MSkiIGZpbHRlcj0idXJsKCNibHVyMTUxKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNTEpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTUyPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE1MSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5OYXJlc2hrdW1hciBDaHVubmFsYWwgUHVnbGlhPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1950,
     "domain": "weird",
     "title": "The Virgin Mary (book)",
     "body": "The Virgin Mary: The Roman Catholic Marian Doctrine is the English title of Italian Protestant theologian Giovanni Miegge's 1950 work La vergine Maria: Saggio di storia del dogma. In the original Italian language it has gone through four printings...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNTIiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE1MiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNTIiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNTIiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTUyKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE1MikiIGZpbHRlcj0idXJsKCNibHVyMTUyKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNTIpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTUzPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE1MikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgVmlyZ2luIE1hcnkgKGJvb2spPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1951,
     "domain": "weird",
@@ -1385,61 +1385,61 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jack_O%27Connell.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1951,
     "domain": "art",
     "title": "Two Pennies Worth of Violets",
     "body": "Two Pennies Worth of Violets (French: Deux sous de violettes) is a 1951 French drama film directed by Jean Anouilh and starring Dany Robin, Georges Baconnet and Madeleine Barbulée. It was one of two films directed by the dramatist Anouilh along wi...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNTQiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE1NCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNTQiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNTQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTU0KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE1NCkiIGZpbHRlcj0idXJsKCNibHVyMTU0KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNTQpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTU1PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE1NCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Ud28gUGVubmllcyBXb3J0aCBvZiBWaW9sZXRzPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5BUlQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "modern",
     "year": 1954,
     "domain": "art",
     "title": "1954 Wimbledon Championships – Men's doubles",
     "body": "Lew Hoad and Ken Rosewall were the defending champions, but lost in the semifinals to Vic Seixas and Tony Trabert. Rex Hartwig and Mervyn Rose defeated Seixas and Trabert in the final, 6–4, 6–4, 3–6, 6–4 to win the gentlemen's doubles tennis title...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNTUiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE1NSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNTUiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNTUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTU1KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE1NSkiIGZpbHRlcj0idXJsKCNibHVyMTU1KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNTUpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTU2PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE1NSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj4xOTU0IFdpbWJsZWRvbiBDaGFtcGlvbnNoaXBzIOKAkyBNZW4ncyBkb3U8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDM4LDE5OCwyMTgpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1960,
     "domain": "history",
     "title": "Kevin Boroevich",
     "body": "Kevin Grant Boroevich (born 4 October 1960) is a former New Zealand rugby union player. A prop, Boroevich represented King Country, Wellington and North Harbour at a provincial level, and was a member of the New Zealand national side, the All Blac...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNTYiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE1NiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNTYiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNTYiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTU2KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE1NikiIGZpbHRlcj0idXJsKCNibHVyMTU2KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNTYpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTU3PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE1NikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5LZXZpbiBCb3JvZXZpY2g8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDM4LDE5OCwyMTgpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkhJU1RPUlk8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "modern",
     "year": 1962,
     "domain": "weird",
     "title": "Chibuzo",
     "body": "Chibuzo is a masculine given name. Notable people with the name include:  Alexander Chibuzo Ibezim (born 1962), Nigerian Anglician bishop Oluwaferanmi Joshua Chibuzo Oluwayemi (born 2001), English footballer",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNTciIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE1NyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNTciPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNTciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTU3KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE1NykiIGZpbHRlcj0idXJsKCNibHVyMTU3KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNTcpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTU4PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE1NykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5DaGlidXpvPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1964,
     "domain": "art",
     "title": "Stronger Since The War",
     "body": "Stronger Since the War? is a 1964 Australian documentary film which examines the status of women in Japan following World War 2. It was created by the ABC as part of their contribution to Intertel (The International Television Federation). It was ...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNTgiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE1OCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNTgiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNTgiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTU4KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE1OCkiIGZpbHRlcj0idXJsKCNibHVyMTU4KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNTgpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTU5PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE1OCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5TdHJvbmdlciBTaW5jZSBUaGUgV2FyPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5BUlQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "modern",
     "year": 1971,
     "domain": "weird",
     "title": "Robyn Mawdsley",
     "body": "Robyn Mawdsley (born 3 May 1971) is an Australian former professional tennis player.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNTkiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE1OSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNTkiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNTkiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTU5KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE1OSkiIGZpbHRlcj0idXJsKCNibHVyMTU5KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNTkpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTYwPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE1OSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Sb2J5biBNYXdkc2xleTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMzgsMTk4LDIxOCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+V0VJUkQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "modern",
     "year": 1973,
     "domain": "weird",
@@ -1448,7 +1448,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%E0%A6%A8%E0%A6%BE%E0%A6%88%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8_%E0%A6%AD%E0%A7%81%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%81_%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE.png"
   },
-  {
+{
     "era": "modern",
     "year": 1974,
     "domain": "weird",
@@ -1457,16 +1457,16 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tocadisco_%2836%29.JPG"
   },
-  {
+{
     "era": "modern",
     "year": 1974,
     "domain": "weird",
     "title": "Antony Jordan",
     "body": "Antony T. Jordan (born December 19, 1974) is an American former professional football player who played linebacker for the Indianapolis Colts and Atlanta Falcons. He was also a member of the Tampa Bay Buccaneers. He was selected in the fifth round...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNjIiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE2MiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNjIiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNjIiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTYyKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE2MikiIGZpbHRlcj0idXJsKCNibHVyMTYyKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNjIpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTYzPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE2MikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5BbnRvbnkgSm9yZGFuPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYigzOCwxOTgsMjE4KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "modern",
     "year": 1976,
     "domain": "weird",
@@ -1475,7 +1475,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tears_McFarlane_House.JPG"
   },
-  {
+{
     "era": "modern",
     "year": 1976,
     "domain": "weird",
@@ -1484,7 +1484,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/McCranie%27s_Turpentine_Still_02.JPG"
   },
-  {
+{
     "era": "modern",
     "year": 1977,
     "domain": "art",
@@ -1493,16 +1493,16 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Steven_Holl.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1977,
     "domain": "weird",
     "title": "Emma Crosby",
     "body": "Emma Catherine Crosby (born 5 June 1977) is a British television newsreader and journalist. Between 2003 and 2009, Crosby worked at Sky News, regularly co-presenting their breakfast programme Sunrise, along with various other programmes on the cha...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNjYiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE2NiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNjYiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNjYiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTY2KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE2NikiIGZpbHRlcj0idXJsKCNibHVyMTY2KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNjYpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTY3PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE2NikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5FbW1hIENyb3NieTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoMzgsMTk4LDIxOCkiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+V0VJUkQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoMzgsMTk4LDIxOCwwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "modern",
     "year": 1983,
     "domain": "weird",
@@ -1511,7 +1511,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Rasmus_-_2025250_125352_2025-09-07_ZDF-Fernsehgarten_-_Sven_-_5DS_R_-_0115_-_5DSR3551_%28cropped%3B_Lauri_Yl%C3%B6nen%29.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1983,
     "domain": "art",
@@ -1520,7 +1520,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/El_Guincho_2017.png"
   },
-  {
+{
     "era": "modern",
     "year": 1984,
     "domain": "weird",
@@ -1529,7 +1529,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Doe_Paoro_03_05_2018_-13_%2840574750564%29.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1985,
     "domain": "weird",
@@ -1538,16 +1538,16 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HT_Hayko_during_his_solo_concert_at_the_Dinamo_Stadium_in_2010.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1985,
     "domain": "weird",
     "title": "Titi Oyinsan",
     "body": "Titi Adelagun Oyinsan (born 10 August 1985), popularly known as TitiTheDynamite is a Nigerian television host, former model and Philanthropist.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNzEiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE3MSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNzEiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNzEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTcxKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE3MSkiIGZpbHRlcj0idXJsKCNibHVyMTcxKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNzEpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTcyPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE3MSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaXRpIE95aW5zYW48L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDM4LDE5OCwyMTgpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPldFSVJEPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "modern",
     "year": 1987,
     "domain": "weird",
@@ -1556,7 +1556,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ant%C3%B4nio_Fl%C3%A1vio.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1988,
     "domain": "weird",
@@ -1565,7 +1565,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lisa_Marie_Scholz_20181125.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1989,
     "domain": "weird",
@@ -1574,43 +1574,43 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Modern Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Damion_Square.jpg"
   },
-  {
+{
     "era": "modern",
     "year": 1990,
     "domain": "weird",
     "title": "McCall's LPGA Classic",
     "body": "The McCall's LPGA Classic was a golf tournament on the LPGA Tour from 1990 to 1995. It was played at the Stratton Mountain Country Club in Stratton Mountain, Vermont.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNzUiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoMzgsMTk4LDIxOCkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE3NSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYigzOCwxOTgsMjE4KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNzUiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNzUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTc1KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE3NSkiIGZpbHRlcj0idXJsKCNibHVyMTc1KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNzUpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTc2PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE3NSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5NY0NhbGwncyBMUEdBIENsYXNzaWM8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDM4LDE5OCwyMTgpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPldFSVJEPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDM4LDE5OCwyMTgsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSgzOCwxOTgsMjE4LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "digital",
     "year": 1992,
     "domain": "history",
     "title": "King Salmon (video game)",
     "body": "King Salmon: The Big Catch (キングサーモン) is a 1992 Sega Genesis/Mega Drive fishing video game that was developed by Hot-B and was released by Vic Tokai in North America. It was due for release in Europe by July, but the plan was cancelled.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNzYiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE3NiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNzYiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNzYiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTc2KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE3NikiIGZpbHRlcj0idXJsKCNibHVyMTc2KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNzYpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTc3PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE3NikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5LaW5nIFNhbG1vbiAodmlkZW8gZ2FtZSk8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkhJU1RPUlk8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "digital",
     "year": 1994,
     "domain": "weird",
     "title": "Dudu Zondo",
     "body": "Dudu Zondo (born 10 May 1994) is a South African professional cricketer. He made his Twenty20 debut for KwaZulu-Natal against Eastern Province in the 2016 Africa T20 Cup on 25 September 2016. He made his first-class debut for KwaZulu-Natal in the ...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNzciIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE3NyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNzciPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNzciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTc3KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE3NykiIGZpbHRlcj0idXJsKCNibHVyMTc3KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNzcpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTc4PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE3NykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5EdWR1IFpvbmRvPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 1995,
     "domain": "weird",
     "title": "Kim Mourmans",
     "body": "Kim Mourmans (born 1 April 1995) is a Dutch footballer who plays as a midfielder for Beerse Boys. She has been a member of the Netherlands women's national team.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxNzgiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE3OCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxNzgiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxNzgiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTc4KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE3OCkiIGZpbHRlcj0idXJsKCNibHVyMTc4KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxNzgpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTc5PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE3OCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5LaW0gTW91cm1hbnM8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPldFSVJEPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "digital",
     "year": 1996,
     "domain": "weird",
@@ -1619,25 +1619,25 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/20220813_ECM22_Rowing_7340.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 1996,
     "domain": "art",
     "title": "Raja Hindustani",
     "body": "Raja Hindustani (transl. Indian Raja) is a 1996 Indian Hindi-language romantic action film directed by Dharmesh Darshan. It tells the story of a cab driver from a small town who falls in love with a rich young woman. Aamir Khan and Karisma Kapoor ...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxODAiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE4MCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxODAiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxODAiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTgwKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE4MCkiIGZpbHRlcj0idXJsKCNibHVyMTgwKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxODApIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTgxPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE4MCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5SYWphIEhpbmR1c3Rhbmk8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 1996,
     "domain": "art",
     "title": "Bruce Seldon vs. Mike Tyson",
     "body": "Bruce Seldon vs. Mike Tyson, billed as Liberation, was a professional boxing match fought on September 7, 1996 for the WBA heavyweight championship. The fight was part of a pay-per-view event produced by Don King Productions and carried on pay-per...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxODEiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE4MSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxODEiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxODEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTgxKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE4MSkiIGZpbHRlcj0idXJsKCNibHVyMTgxKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxODEpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTgyPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE4MSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5CcnVjZSBTZWxkb24gdnMuIE1pa2UgVHlzb248L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 1998,
     "domain": "science",
@@ -1646,79 +1646,79 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sphaenothecus_bilineatus.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 1998,
     "domain": "science",
     "title": "Ilex williamsii",
     "body": "Ilex williamsii is a species of plant in the family Aquifoliaceae. It is endemic to Honduras. It is a seldom-collected cloud forest species. The plant is critically endangered as of 1998.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxODMiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE4MyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxODMiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxODMiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTgzKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE4MykiIGZpbHRlcj0idXJsKCNibHVyMTgzKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxODMpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTg0PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE4MykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5JbGV4IHdpbGxpYW1zaWk8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPlNDSUVOQ0U8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "digital",
     "year": 1998,
     "domain": "art",
     "title": "Saving Private Ryan (soundtrack)",
     "body": "Saving Private Ryan: Music from the Original Motion Picture Soundtrack is the soundtrack album for the 1998 film Saving Private Ryan, directed by Steven Spielberg. The album was produced by composer John Williams and distributed by DreamWorks Reco...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxODQiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE4NCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxODQiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxODQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTg0KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE4NCkiIGZpbHRlcj0idXJsKCNibHVyMTg0KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxODQpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTg1PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE4NCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5TYXZpbmcgUHJpdmF0ZSBSeWFuIChzb3VuZHRyYWNrKTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoNzksMTk1LDI0NykiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+QVJUPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "digital",
     "year": 1999,
     "domain": "art",
     "title": "The Tunnel (album)",
     "body": "The Tunnel is a collaborative album by American DJs Funkmaster Flex and Big Kap. It was released on December 7, 1999, via Def Jam Recordings. Recording sessions took place at Mirror Image Times Square, at Madison Square Garden, at Quad Recording S...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxODUiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE4NSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxODUiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxODUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTg1KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE4NSkiIGZpbHRlcj0idXJsKCNibHVyMTg1KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxODUpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTg2PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE4NSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgVHVubmVsIChhbGJ1bSk8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 2001,
     "domain": "weird",
     "title": "Roan Steele",
     "body": "Roan Steele (born 22 October 2001) is a professional Australian rules footballer who plays for the Collingwood Football Club in the Australian Football League (AFL).",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxODYiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE4NiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxODYiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxODYiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTg2KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE4NikiIGZpbHRlcj0idXJsKCNibHVyMTg2KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxODYpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTg3PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE4NikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Sb2FuIFN0ZWVsZTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoNzksMTk1LDI0NykiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+V0VJUkQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "digital",
     "year": 2001,
     "domain": "weird",
     "title": "Federico Bonini",
     "body": "Federico Bonini (born 6 August 2001) is an Italian footballer who plays as a defender for Segunda División club UD Almería.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxODciIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE4NyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxODciPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxODciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTg3KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE4NykiIGZpbHRlcj0idXJsKCNibHVyMTg3KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxODcpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTg4PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE4NykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5GZWRlcmljbyBCb25pbmk8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPldFSVJEPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "digital",
     "year": 2002,
     "domain": "history",
     "title": "WBX",
     "body": "World Bet Exchange (WBX) was a person-to-person betting exchange based in Notting Hill Gate, London in the United Kingdom, and licensed and regulated by the UK Gambling Commission. WBX.com was founded in 2002 by Malcolm Gray but did not officially...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_history_1777628532063.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxODgiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE4OCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxODgiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxODgiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTg4KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE4OCkiIGZpbHRlcj0idXJsKCNibHVyMTg4KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxODgpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTg5PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE4OCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5XQlg8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkhJU1RPUlk8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "digital",
     "year": 2003,
     "domain": "weird",
     "title": "U.S. Route 491",
     "body": "U.S. Route 491 (US 491) is a north–south U.S. Highway serving the Four Corners region of the United States. It was created in 2003 as a renumbering of U.S. Route 666 (US 666). With the US 666 designation, the road was nicknamed the \"Devil's Highwa...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxODkiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE4OSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxODkiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxODkiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTg5KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE4OSkiIGZpbHRlcj0idXJsKCNibHVyMTg5KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxODkpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTkwPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE4OSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5VLlMuIFJvdXRlIDQ5MTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoNzksMTk1LDI0NykiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+V0VJUkQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "digital",
     "year": 2004,
     "domain": "weird",
     "title": "2004 South Florida Bulls football team",
     "body": "The 2004 South Florida Bulls football team represented the University of South Florida (USF) in the 2004 NCAA Division I-A football season. Their head coach was Jim Leavitt, and the USF Bulls played their home games at Raymond James Stadium in Tam...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxOTAiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE5MCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxOTAiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxOTAiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTkwKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE5MCkiIGZpbHRlcj0idXJsKCNibHVyMTkwKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxOTApIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTkxPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE5MCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj4yMDA0IFNvdXRoIEZsb3JpZGEgQnVsbHMgZm9vdGJhbGwgdGVhbTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoNzksMTk1LDI0NykiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+V0VJUkQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "digital",
     "year": 2004,
     "domain": "weird",
@@ -1727,7 +1727,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pulu_Gangsa_Cemetery_%2825116883672%29.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2006,
     "domain": "weird",
@@ -1736,43 +1736,43 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Meilong.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2007,
     "domain": "science",
     "title": "InAlienable",
     "body": "InAlienable is a 2007 science fiction horror written and executive produced by Walter Koenig, and directed by Robert Dyke. It was the first collaboration of Koenig and Dyke since their 1989 production of Moontrap. Koenig said that \"the story reall...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_science_1777628546990.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxOTMiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE5MyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxOTMiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxOTMiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTkzKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE5MykiIGZpbHRlcj0idXJsKCNibHVyMTkzKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxOTMpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTk0PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE5MykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5JbkFsaWVuYWJsZTwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoNzksMTk1LDI0NykiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+U0NJRU5DRTwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 2009,
     "domain": "weird",
     "title": "Morton Independent School District",
     "body": "Morton Independent School District is a public school district based in Morton, Texas, United States. In 2009, the school district was rated \"academically acceptable\" by the Texas Education Agency.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxOTQiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE5NCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxOTQiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxOTQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTk0KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE5NCkiIGZpbHRlcj0idXJsKCNibHVyMTk0KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxOTQpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTk1PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE5NCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5Nb3J0b24gSW5kZXBlbmRlbnQgU2Nob29sIERpc3RyaWN0PC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 2009,
     "domain": "art",
     "title": "2009 Carlow County Council election",
     "body": "An election to Carlow County Council took place on 5 June 2009 as part of that year's Irish local elections. 21 councillors were elected from five local electoral areas (LEAs) for a five-year term of office on the electoral system of proportional ...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxOTUiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE5NSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxOTUiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxOTUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTk1KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE5NSkiIGZpbHRlcj0idXJsKCNibHVyMTk1KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxOTUpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTk2PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE5NSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj4yMDA5IENhcmxvdyBDb3VudHkgQ291bmNpbCBlbGVjdGlvbjwvdGV4dD4KICA8IS0tIERvbWFpbiBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMzkwIiByPSI0IiBmaWxsPSJyZ2IoNzksMTk1LDI0NykiIG9wYWNpdHk9IjAuNiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0icmdiYSgyMzIsMjI4LDI0MCwwLjQpIiBsZXR0ZXItc3BhY2luZz0iNCIgdGV4dC10cmFuc2Zvcm09InVwcGVyY2FzZSI+QVJUPC90ZXh0PgogIDwhLS0gQm9yZGVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSI0MCIgeTE9IjQ4MCIgeDI9Ijc2MCIgeTI9IjQ4MCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4xNSkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI0MDAiIHkxPSI0NjAiIHgyPSI0MDAiIHkyPSI1MDAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMikiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
   },
-  {
+{
     "era": "digital",
     "year": 2015,
     "domain": "weird",
     "title": "2015 in Zimbabwe",
     "body": "The following lists events that happened in 2015 in Zimbabwe.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxOTYiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE5NiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxOTYiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxOTYiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTk2KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE5NikiIGZpbHRlcj0idXJsKCNibHVyMTk2KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxOTYpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTk3PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE5NikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj4yMDE1IGluIFppbWJhYndlPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 2016,
     "domain": "weird",
@@ -1781,34 +1781,34 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Pecharroman.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2016,
     "domain": "art",
     "title": "Made World Tour",
     "body": "The Made World Tour was the second worldwide concert tour and ninth overall by South Korean boy band Big Bang, in support of their third Korean-language studio album Made (2016). The tour began on April 25, 2015, and concluded on March 6, 2016, in...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxOTgiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE5OCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxOTgiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxOTgiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTk4KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE5OCkiIGZpbHRlcj0idXJsKCNibHVyMTk4KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxOTgpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MTk5PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE5OCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5NYWRlIFdvcmxkIFRvdXI8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 2018,
     "domain": "art",
     "title": "Mira lo que has hecho",
     "body": "Mira lo que has hecho (transl. 'Look What You've Done') is a Spanish comedy television series created by Berto Romero that originally aired from 2018 to 2020 on Movistar+. It stars Berto Romero and Eva Ugarte.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcxOTkiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzE5OSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIxOTkiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQxOTkiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMTk5KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzE5OSkiIGZpbHRlcj0idXJsKCNibHVyMTk5KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQxOTkpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MjAwPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDE5OSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5NaXJhIGxvIHF1ZSBoYXMgaGVjaG88L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 2019,
     "domain": "art",
     "title": "COVID-19 pandemic in Hungary",
     "body": "The COVID-19 pandemic in Hungary was a part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). On 4 March 2020, the first cases in Hungary were announced. The fi...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcyMDAiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzIwMCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIyMDAiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQyMDAiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMjAwKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzIwMCkiIGZpbHRlcj0idXJsKCNibHVyMjAwKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQyMDApIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MjAxPC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDIwMCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5DT1ZJRC0xOSBwYW5kZW1pYyBpbiBIdW5nYXJ5PC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5BUlQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "digital",
     "year": 2020,
     "domain": "weird",
@@ -1817,7 +1817,7 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/GardinerME_Downtown.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2020,
     "domain": "art",
@@ -1826,40 +1826,40 @@ const CHRONICLE_DATA = [
     "connection": "A notable fragment of the Digital Era.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pen_Argyl_Block.jpg"
   },
-  {
+{
     "era": "digital",
     "year": 2022,
     "domain": "art",
     "title": "2022 Emilia-Romagna Open – Women's doubles",
     "body": "Anastasia Dețiuc and Miriam Kolodziejová defeated Arantxa Rus and Tamara Zidanšek in the final, 1–6, 6–3, [10–8] to win the women's doubles tennis title at the 2022 Emilia-Romagna Open. This was both players' first WTA Tour doubles title. Coco Gau...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcyMDMiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzIwMyIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIyMDMiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQyMDMiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMjAzKSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzIwMykiIGZpbHRlcj0idXJsKCNibHVyMjAzKSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQyMDMpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MjA0PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDIwMykiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj4yMDIyIEVtaWxpYS1Sb21hZ25hIE9wZW4g4oCTIFdvbWVuJ3MgZG91Ymw8L3RleHQ+CiAgPCEtLSBEb21haW4gZG90IC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjM5MCIgcj0iNCIgZmlsbD0icmdiKDc5LDE5NSwyNDcpIiBvcGFjaXR5PSIwLjYiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjQzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9InJnYmEoMjMyLDIyOCwyNDAsMC40KSIgbGV0dGVyLXNwYWNpbmc9IjQiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiPkFSVDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 2022,
     "domain": "weird",
     "title": "2022 FINA World Swimming Championships (25 m) – Women's 100 metre butterfly",
     "body": "The Women's 100 metre butterfly competition of the 2022 FINA World Swimming Championships (25 m) was held on 17 and 18 December 2022.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcyMDQiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzIwNCIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIyMDQiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQyMDQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMjA0KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzIwNCkiIGZpbHRlcj0idXJsKCNibHVyMjA0KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQyMDQpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MjA1PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDIwNCkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj4yMDIyIEZJTkEgV29ybGQgU3dpbW1pbmcgQ2hhbXBpb25zaGlwcyAoPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   },
-  {
+{
     "era": "digital",
     "year": 2023,
     "domain": "art",
     "title": "The Equalizer 3 (soundtrack)",
     "body": "The Equalizer 3 (Original Motion Picture Soundtrack) is the soundtrack to the 2023 film The Equalizer 3, the third instalment in The Equalizer franchise. The score featuring original music composed by Marcelo Zarvos released coinciding with the fi...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_art_1777628559672.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcyMDUiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzIwNSIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIyMDUiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQyMDUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMjA1KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzIwNSkiIGZpbHRlcj0idXJsKCNibHVyMjA1KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQyMDUpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MjA2PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDIwNSkiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj5UaGUgRXF1YWxpemVyIDMgKHNvdW5kdHJhY2spPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5BUlQ8L3RleHQ+CiAgPCEtLSBCb3JkZXIgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjQwIiB5MT0iNDgwIiB4Mj0iNzYwIiB5Mj0iNDgwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjE1KSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MCIgeDI9IjQwMCIgeTI9IjUwMCIgc3Ryb2tlPSJyZ2JhKDc5LDE5NSwyNDcsMC4yKSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg=="
   },
-  {
+{
     "era": "digital",
     "year": 2025,
     "domain": "weird",
     "title": "2025 BWF World Championships qualification",
     "body": "This is the list of entries for the 2025 BWF World Championships qualification.",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "assets/img_weird_1777628571793.png"
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNTAwIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmcyMDYiIGN4PSI1MCUiIGN5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJyZ2IoNzksMTk1LDI0NykiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAzMDAxNCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzIwNiIgY3g9IjQ1JSIgY3k9IjM1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYig3OSwxOTUsMjQ3KSIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXIyMDYiPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+PC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdvbGQyMDYiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M5YTg0YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2Y1ZDY3NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjOWE4NGMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNTAwIiBmaWxsPSJ1cmwoI2JnMjA2KSIvPgogIDxlbGxpcHNlIGN4PSIzNjAiIGN5PSIxODAiIHJ4PSIyNTAiIHJ5PSIxODAiIGZpbGw9InVybCgjZ2xvdzIwNikiIGZpbHRlcj0idXJsKCNibHVyMjA2KSIvPgogIDwhLS0gU3RhcnMgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iODAiIHI9IjEuNSIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTIwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI2MCIgcj0iMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMzIwIiByPSIxLjUiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzUwIiByPSIxIiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI4MCIgcj0iMS44IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSI0MDAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iMS41IiBmaWxsPSIjZmZmIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI0MjAiIHI9IjEuMiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSIyMjAiIHI9IjEiIGZpbGw9IiNmZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gRW50cnkgbnVtYmVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ2luemVsLHNlcmlmIiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI2dvbGQyMDYpIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iOCI+MjA3PC90ZXh0PgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDaW56ZWwsc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZ29sZDIwNikiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIzIj4yMDI1IEJXRiBXb3JsZCBDaGFtcGlvbnNoaXBzIHF1YWxpZmljYXRpPC90ZXh0PgogIDwhLS0gRG9tYWluIGRvdCAtLT4KICA8Y2lyY2xlIGN4PSI0MDAiIGN5PSIzOTAiIHI9IjQiIGZpbGw9InJnYig3OSwxOTUsMjQ3KSIgb3BhY2l0eT0iMC42Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSI0MzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlcixzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJyZ2JhKDIzMiwyMjgsMjQwLDAuNCkiIGxldHRlci1zcGFjaW5nPSI0IiB0ZXh0LXRyYW5zZm9ybT0idXBwZXJjYXNlIj5XRUlSRDwvdGV4dD4KICA8IS0tIEJvcmRlciBsaW5lcyAtLT4KICA8bGluZSB4MT0iNDAiIHkxPSI0ODAiIHgyPSI3NjAiIHkyPSI0ODAiIHN0cm9rZT0icmdiYSg3OSwxOTUsMjQ3LDAuMTUpIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iNDYwIiB4Mj0iNDAwIiB5Mj0iNTAwIiBzdHJva2U9InJnYmEoNzksMTk1LDI0NywwLjIpIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
   }
 ];
