@@ -1,0 +1,32 @@
+{
+  "name": "The Infinite Chronicle",
+  "short_name": "SCROLL",
+  "description": "An infinite-scrolling narrative engine weaving 13.8 billion years of history, science, space, and art into one seamless cinematic journey.",
+  "start_url": "/the-infinite-chronicle/",
+  "scope": "/the-infinite-chronicle/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#030014",
+  "theme_color": "#c9a84c",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["education", "entertainment", "books"],
+  "screenshots": [],
+  "lang": "en-US"
+}
