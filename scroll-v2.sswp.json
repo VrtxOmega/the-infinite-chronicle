@@ -1,0 +1,94 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2026-05-02T01:37:34.338Z",
+  "target": {
+    "name": "scroll-v2",
+    "repo": "/mnt/c/Veritas_Lab/the-infinite-chronicle",
+    "commitHash": "36847da92ea574f2ed3c47620bd658b05fd3950e",
+    "branch": "master"
+  },
+  "environment": {
+    "nodeVersion": "v22.14.0",
+    "os": "linux",
+    "arch": "x64",
+    "ci": false
+  },
+  "dependencies": [
+    {
+      "name": "is-even",
+      "version": "1.0.0",
+      "resolved": "/mnt/c/Veritas_Lab/the-infinite-chronicle/node_modules/is-even",
+      "integrity": "950a1f9b2f6002e4",
+      "suspicious": false,
+      "riskScore": 0.1
+    }
+  ],
+  "gates": [
+    {
+      "gate": "GIT_INTEGRITY",
+      "status": "FAIL",
+      "evidence": "Modified files: 1",
+      "durationMs": 122
+    },
+    {
+      "gate": "LOCKFILE",
+      "status": "PASS",
+      "evidence": "package-lock.json present",
+      "durationMs": 1
+    },
+    {
+      "gate": "DETERMINISTIC_BUILD",
+      "status": "PASS",
+      "evidence": "Build succeeded: npm run build",
+      "durationMs": 147
+    },
+    {
+      "gate": "TEST_PASS",
+      "status": "PASS",
+      "evidence": "All tests passed",
+      "durationMs": 191
+    },
+    {
+      "gate": "LINT",
+      "status": "PASS",
+      "evidence": "npx passed",
+      "durationMs": 2634
+    }
+  ],
+  "adversarial": {
+    "totalPackages": 1,
+    "suspiciousPackages": 0,
+    "probes": [
+      {
+        "package": "is-even",
+        "probe": "TYPO_SQUATTING",
+        "result": "PASS",
+        "detail": "Name heuristic clean"
+      },
+      {
+        "package": "is-even",
+        "probe": "VERSION_ANOMALY",
+        "result": "PASS",
+        "detail": "Pinned: 1.0.0"
+      },
+      {
+        "package": "is-even",
+        "probe": "METADATA_INTEGRITY",
+        "result": "PASS",
+        "detail": "Hash: 950a1f9b2f6002e4"
+      },
+      {
+        "package": "system",
+        "probe": "KIMI_REASONING",
+        "result": "INCONCLUSIVE",
+        "detail": "OLLAMA_CLOUD_API_KEY is not set. Skipping Kimi adversarial analysis."
+      }
+    ],
+    "overallRisk": 0
+  },
+  "seal": {
+    "chainHash": "0f596403d8ecba2d945f17528ffc2c99c966bf0d25f89bd91f3065365a7e6ae6",
+    "sequence": 5
+  },
+  "signature": "a633a2f6cb59d08ca903c5d03c9731bd1afdc1e314632a9c5a6a7dd9bf62e331"
+}
