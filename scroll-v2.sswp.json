@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "timestamp": "2026-05-02T04:20:08.834Z",
+  "timestamp": "2026-05-02T05:03:10.316Z",
   "target": {
     "name": "scroll-v2",
     "repo": "/mnt/c/Veritas_Lab/the-infinite-chronicle",
-    "commitHash": "bde64c443ebdd150fcd0babeaa5656f176fe5ed6",
+    "commitHash": "535d1a79af1e2d7b48acb35530b99cd2c5330038",
     "branch": "master"
   },
   "environment": {
@@ -26,9 +26,9 @@
   "gates": [
     {
       "gate": "GIT_INTEGRITY",
-      "status": "PASS",
-      "evidence": "Working tree clean",
-      "durationMs": 256
+      "status": "FAIL",
+      "evidence": "Modified files: 1",
+      "durationMs": 182
     },
     {
       "gate": "LOCKFILE",
@@ -40,19 +40,19 @@
       "gate": "DETERMINISTIC_BUILD",
       "status": "PASS",
       "evidence": "Build succeeded: npm run build",
-      "durationMs": 219
+      "durationMs": 189
     },
     {
       "gate": "TEST_PASS",
       "status": "PASS",
       "evidence": "All tests passed",
-      "durationMs": 180
+      "durationMs": 195
     },
     {
       "gate": "LINT",
       "status": "PASS",
       "evidence": "npx passed",
-      "durationMs": 3421
+      "durationMs": 2594
     }
   ],
   "adversarial": {
@@ -87,8 +87,8 @@
     "overallRisk": 0
   },
   "seal": {
-    "chainHash": "70e3b018f171135c19b266de6a70b6fd55a01d5bbb0259287f29d6c8243ee499",
+    "chainHash": "6b1c7c491248b0d53961eb0dd19595e9be6b07373805068767de353adc842637",
     "sequence": 5
   },
-  "signature": "8e81038af4bff6927a2d4ee1dad67291473c00601b698c33b6ee1b31a17cd3ec"
+  "signature": "df36003f365fbc728dbad68cbf3fea69f7936d547810c12b616dcadc4348510e"
 }
