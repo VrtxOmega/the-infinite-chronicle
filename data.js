@@ -1221,7 +1221,7 @@ const CHRONICLE_DATA = [
     "title": "Jack Daly (politician)",
     "body": "Jack Daly (28 May 1915 – 5 May 1988) was a Fine Gael politician from County Kerry in Ireland. He was a member of Seanad Éireann from 1975 to 1977, and again from 1982 to 1988. The founder and managing director of the motor vehicle business ″Killar...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='20%25' x2='90%25' y2='80%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Senator_Jack_Daly_FG.jpg"
   },
 {
     "era": "modern",
@@ -1239,7 +1239,7 @@ const CHRONICLE_DATA = [
     "title": "Jüri Selirand",
     "body": "Jüri Selirand (21 July 1928 – 11 September 2017) was an Estonian archaeologist, historian, and translator associated with archaeological research and heritage popularisation in Estonia. He worked for decades at the Institute of History in Tallinn ...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='40%25' x2='110%25' y2='90%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://reraamatud.ee/1868-large_default/muinasaeg-muinasteadus-muinasteadlased-jueri-selirand.jpg"
   },
 {
     "era": "modern",
@@ -1248,7 +1248,7 @@ const CHRONICLE_DATA = [
     "title": "Trevor Bell (artist)",
     "body": "Trevor Bell (18 October 1930 – 3 November 2017) was an English Leeds-born artist and contemporary visual artist.",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='50%25' x2='120%25' y2='95%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Trevor_Bell_2009.jpg/960px-Trevor_Bell_2009.jpg"
   },
 {
     "era": "modern",
@@ -1311,7 +1311,7 @@ const CHRONICLE_DATA = [
     "title": "Reginald Cawcutt",
     "body": "Reginald Michael Cawcutt (25 October 1938 – 5 August 2022) was a South African Roman Catholic prelate. Cawcutt was born in Rugby, Western Cape. His father, Wilfred, was a well-known horse trainer. He studied for the priesthood at St John Vianney S...",
     "connection": "A notable fragment of the Modern Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='50%25' y1='20%25' x2='120%25' y2='85%25'%3E%3Cstop offset='0%25' stop-color='rgba(38,198,218,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(38,198,218,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://www.scross.co.za/wp-content/uploads/2022/08/Cawcutt-deaf-1965.jpg"
   },
 {
     "era": "modern",
@@ -1698,7 +1698,7 @@ const CHRONICLE_DATA = [
     "title": "WBX",
     "body": "World Bet Exchange (WBX) was a person-to-person betting exchange based in Notting Hill Gate, London in the United Kingdom, and licensed and regulated by the UK Gambling Commission. WBX.com was founded in 2002 by Malcolm Gray but did not officially...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='70%25' y1='50%25' x2='130%25' y2='120%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/WBXX_2024.svg/960px-WBXX_2024.svg.png"
   },
 {
     "era": "digital",
@@ -1707,7 +1707,7 @@ const CHRONICLE_DATA = [
     "title": "U.S. Route 491",
     "body": "U.S. Route 491 (US 491) is a north–south U.S. Highway serving the Four Corners region of the United States. It was created in 2003 as a renumbering of U.S. Route 666 (US 666). With the US 666 designation, the road was nicknamed the \"Devil's Highwa...",
     "connection": "A notable fragment of the Digital Era.",
-    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='30%25' y1='60%25' x2='70%25' y2='80%25'%3E%3Cstop offset='0%25' stop-color='rgba(79,195,247,0.3)'/%3E%3Cstop offset='50%25' stop-color='%23030014'/%3E%3Cstop offset='100%25' stop-color='rgba(79,195,247,0.1)'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='500' fill='url(%23g)'/%3E%3C/svg%3E"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/US_491.svg/960px-US_491.svg.png"
   },
 {
     "era": "digital",
